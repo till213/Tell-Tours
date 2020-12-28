@@ -39,7 +39,7 @@
             <ATCWaypointType>User</ATCWaypointType>
             <WorldPosition>N46° 8' 36.26",E8° 49' 12.68",+010000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="Goldeneye">
+        <ATCWaypoint id="GoldenEye">
             <ATCWaypointType>User</ATCWaypointType>
             <WorldPosition>N46° 11' 47.01",E8° 50' 54.65",+010000.00</WorldPosition>
         </ATCWaypoint>
