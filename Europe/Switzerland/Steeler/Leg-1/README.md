@@ -49,6 +49,8 @@
 - At a height of **126 metres (413 ft**), it **was the highest skyscraper in Switzerland** from **2011 until 2015** , ...
 - ... **when the Roche Tower in Basel** (standing at **178**** metres** (584 ft)) was finished.
 
+![Prime Tower](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-1/img/IMGP7599.JPG "Prime Tower")
+
 
 ## LETZIGRUND STADION
 
@@ -123,16 +125,20 @@
 - First time in **1992** with around **1000 participants** and **two "love mobiles"**
 - **2015** : First time **1 million** participants
 
+![Street Parade](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-1/img/IMGP7307.JPG "Street Parade in Zurich")
+
 
 ## ZURICH FILM FESTIVAL
 
-- **Oliver Stone** several times at the Zurich Film Festival
-- Zurich Film Festival (ZFF) is an annual film festival that has been held in Zürich, Switzerland, **since 2005**.
+- **Oliver Stone** several times at the Zurich Film Festival (ZFF
+- The Zurich Film Festival is an annual film festival that has been held in Zürich, Switzerland, **since 2005**.
 - Main focus is to promote **emerging filmmakers from all over the world**.
 - In **2009** guest **Roman Polanski** was **arrested** at the airport Zurich
 - **House arrest** for **nine months** in his **chalet in Gstaad**
 - In **2011** he returned and **collected his "A Tribute To" award**
 - **90'500** visitors in **2016**
+
+![Oliver Stone](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-1/img/IMGP1581-Bearbeitet.JPG "Oliver Stone at the Zurich Film Festival (ZFF)")
 
 ## ZURICH (MISCELLANEOUS)
 
