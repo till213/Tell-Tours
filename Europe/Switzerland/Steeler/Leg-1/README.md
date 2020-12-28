@@ -242,6 +242,8 @@
 
 - **Grossen** Mythen **1898** m ü. M. und des **Kleinen** Mythen **1811** m ü. M.
 
+![Great Mythen](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-1/img/APC_0379.JPG "Great Mythen in snow")
+
 
 ## RÜTLISCHWUR
 
