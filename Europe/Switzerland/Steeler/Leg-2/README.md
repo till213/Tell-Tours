@@ -28,3 +28,8 @@
 - [Wikipedia](https://en.wikipedia.org/wiki/Contra_Dam)
 
 
+## Inferno Race
+
+- [Inferno Race Rules](https://www.inferno-muerren.ch/de/ausgabe-2021/reglement)
+
+
