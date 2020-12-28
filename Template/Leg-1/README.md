@@ -21,7 +21,10 @@
 
 - Description
 - Interesting fact
-- Optional photos (real world or flight simulator screenshots); make sure you own the copyright; no people
+- Optional photos (real world or flight simulator screenshots); make sure you own the copyright; be sensible with people on photos:
+  - public persons: OKAY
+  - anonymous crowds: MOSTLY OKAY
+  - private persons: NOT OKAY
 
 ![Example](https://github.com/till213/Tell-Tours/blob/main/Template/Leg-1/img/example.jpg "New York (example)")
 
