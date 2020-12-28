@@ -2,7 +2,7 @@
 
 A flight of four legs will guide us through Switzerland:
 
-* Zurich to Locarno
+* [Zurich to Locarno](https://github.com/till213/Tell-Tours/tree/main/Europe/Switzerland/Steeler/Leg-1)
 * Locarno to Bern Belp
 * Bern Belp to Geneva
 * Geneva to St. Moritz

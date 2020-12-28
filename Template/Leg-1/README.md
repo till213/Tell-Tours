@@ -23,5 +23,5 @@
 - Interesting fact
 - Optional photos (real world or flight simulator screenshots); make sure you own the copyright; no people
 
-![Example](https://github.com/till213/Tell-Tours/blob/main/Template/img/example.jpg "New York (example)")
+![Example](https://github.com/till213/Tell-Tours/blob/main/Template/Leg-1/img/example.jpg "New York (example)")
 
