@@ -103,7 +103,7 @@
             <ATCWaypointType>User</ATCWaypointType>
             <WorldPosition>N46° 28' 31.15",E8° 38' 5.52",+010000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="Naret">
+        <ATCWaypoint id="Naret (10000 ft)">
             <ATCWaypointType>User</ATCWaypointType>
             <WorldPosition>N46° 28' 42.57",E8° 34' 6.67",+010000.00</WorldPosition>
         </ATCWaypoint>
