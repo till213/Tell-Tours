@@ -245,7 +245,7 @@
         <Pos Lon="8.820189" Lat="46.143406" Alt="10000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>Goldeneye</Ident>
+        <Ident>GoldenEye</Ident>
         <Type>USER</Type>
         <Pos Lon="8.848514" Lat="46.196392" Alt="10000.00"/>
       </Waypoint>
