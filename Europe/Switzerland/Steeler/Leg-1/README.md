@@ -181,11 +181,15 @@
 - The **Battle of Morgarten** occurred on **15 November 1315** , when the **men of Schwyz** , **with support of their allies of Uri and Unterwalden** , **ambushed a Habsburg army** under the command of Duke Leopold I on the shores of Lake Ägeri, in the territory of Schwyz.
 - **The Habsburg army was routed** (unordered retreat), with numerous slain or drowned.
 - The Swiss victory **consolidated the League of the Three Forest Cantons, which formed the core of the Swiss Confederacy.**
-
 - There is some evidence to suggest that the attack at Morgarten involved the first recorded use of halberds against knights, the weapon that would become iconic of the Old Swiss Confederacy.
 - A halberd (also called halbard, halbert or Swiss voulge) is a two-handed pole weapon that came to prominent use during the 14th, 15th, and 16th centuries.
 - The word halberd is most likely equivalent to the German word Hellebarde, deriving from Middle High German halm (handle) and barte (battleaxe) joint to helmbarte
 - The halberd has been used as a court bodyguard weapon for centuries, and is still the ceremonial weapon of the Swiss Guard in the Vatican
+
+![Aegerisee](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-1/img/DJI_0292.JPG "Aegerisee")
+
+![Battle of Morgarten Monument](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-1/img/APC_7678.JPG "Battle of Morgarten monument")
+
 
 
 ## SEMPACHERSEE
