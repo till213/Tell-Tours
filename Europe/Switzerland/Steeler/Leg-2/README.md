@@ -30,6 +30,11 @@
 [![GoldenEye opening scene](https://img.youtube.com/vi/mSvuHSqqGSw/0.jpg)](https://www.youtube.com/watch?v=mSvuHSqqGSw "GoldenEye opening scene")
 
 
+## Furka Pass
+
+[![Bond car chase through Furka Pass in Switzerland](https://img.youtube.com/vi/3RdK51Igeqc/0.jpg)](https://www.youtube.com/watch?v=3RdK51Igeqc "Bond car chase through Furka Pass in Switzerland")
+
+
 ## Inferno Race
 
 - [Inferno Race Rules](https://www.inferno-muerren.ch/de/ausgabe-2021/reglement)
