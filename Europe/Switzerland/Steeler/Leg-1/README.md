@@ -2,7 +2,7 @@
 
 | Date     | 17 Dec 2020                                     |
 | -------- | ----------------------------------------------- |
-| Calendar | [Tell Tours - Zurich to Locarno.ics](iCalendar) |
+| Calendar | [Tell Tours - Zurich to Locarno.ics](Tell Tours - Zurich to Locarno.ics) |
 
 
 
