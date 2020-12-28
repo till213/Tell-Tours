@@ -37,7 +37,7 @@
 ## Schilthorn (Piz Gloria)
 
 
-[![OHMSS - Interviews with stuntmen, cameramen and assets](https://img.youtube.com/vi/ILnD3VUi714/0.jpg)](https://www.youtube.com/watch?v=ILnD3VUi714 "OHMSS - Interviews with stuntmen, cameramen and assets") 
+[![OHMSS: Interviews with stuntmen, cameramen and extras - and George Lazenby](https://img.youtube.com/vi/ILnD3VUi714/0.jpg)](https://www.youtube.com/watch?v=ILnD3VUi714 "OHMSS: Interviews with stuntmen, cameramen and extras - and George Lazenby") 
 
 
 ## Inferno Race
