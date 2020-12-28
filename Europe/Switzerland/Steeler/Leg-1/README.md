@@ -1,15 +1,26 @@
 # Zurich to Locarno
 
-| Date     | 17 Dec 2020                                     |
-| -------- | ----------------------------------------------- |
-| Calendar | ["Tell Tours - Zurich to Locarno.ics"](Tell Tours - Zurich to Locarno.ics) |
+| What            | Description
+| --------------- | ----------------
+| Date            | 16 December 2020
+| Time            | 1930Z
+| Server          | Europe West
+| Multiplayer     | All
+| Voice Chat      | On the official FS 2020 Discord event channel: https://discord.gg/msfs
+| Aircraft        | Cub Crafter X Cub (cruising speed will be between 90-100 knots)
+| Weather         | Few Clouds
+| Simulation Time | 0800 local
+| Flight Plan     | [Tell Tours - Zurich to Locarno.pln](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-1/Tell%20Tours%20-%20Zurich%20to%20Locarno.pln)
+| Calendar        | [Tell Tours - Zurich to Locarno.ics](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-1/Tell%20Tours%20-%20Zurich%20to%20Locarno.ics)
+| Community       | https://forums.flightsimulator.com/t/tell-tours-switzerland-from-north-to-south/335342
 
 
+# Show & Tell
 
 ## ZURICH AIRPORT
 
 - In the Zurich area, mixed civil and military air traffic developed **from 1909 onwards at Dübendorf** airfield
-- From **1919** , the airport was home to Swissair&#39;s predecessor **Ad Astra Aero** , and from **1932 also to Swissair.**
+- From **1919** , the airport was home to Swissair's predecessor **Ad Astra Aero** , and from **1932 also to Swissair.**
 - **In 1939, civil air traffic** had to be **suspended** at the outbreak of the Second World War for military strategic reasons.
 - **Zurich Airport** is the **largest international airport of Switzerland**
 - **Construction** works began on **5 May 1946**
@@ -18,7 +29,7 @@
 - The following year, Flughafen Zürich AG, trading under the **brand Unique** , became the new airport operator.
 - **The company dropped the brand Unique in favour of Zurich Airport and Flughafen Zürich in 2010.**
 - On **18 October 2001** , Germany and Switzerland signed a **treaty** regarding the **limitation of flights over Germany**.
-- Under the terms of this treaty, any **incoming aircraft after 22:00** had to approach Zürich from the east **to land on runway 28** , which, unlike the airport&#39;s other runways, **was not equipped with an instrument landing system**.
+- Under the terms of this treaty, any **incoming aircraft after 22:00** had to approach Zürich from the east **to land on runway 28** , which, unlike the airport's other runways, **was not equipped with an instrument landing system**.
 - **A month later,** at 22:06 on 24 November, an **inbound Crossair Avro RJ100** using this approach in conditions of **poor visibility crashed** into a range of hills near **Bassersdorf** and **exploded, killing 24 of the 33 people on board**.
 - **The flight had originally been scheduled to land on runway 14 before 22:00** , but it was **subject to delay** and was therefore diverted to runway 28.
 - [https://www.admin.ch/gov/de/start/dokumentation/medienmitteilungen.msg-id-7276.html](https://www.admin.ch/gov/de/start/dokumentation/medienmitteilungen.msg-id-7276.html)
@@ -56,7 +67,7 @@
 - The **Swiss National Museum** , building of **1898**
 - **Platzspitz** park; **during the 1980s, heroin users** would frequently gather at the park
 - Attempts to disperse them merely resulted in them regrouping elsewhere
-- Thus **in 1987 the authorities chose to allow illegal drug use and sales at the park** , in an effort to contain Zurich&#39;s growing drug problem.
+- Thus **in 1987 the authorities chose to allow illegal drug use and sales at the park** , in an effort to contain Zurich's growing drug problem.
 - **Police were not allowed to enter the park or make arrests**.
 - Drug dealers and users **arrived from all over Europe** , and crime became rampant as dealers fought for control and addicts (who numbered up to 1,000) stole to support their habit.
 - **Platzspitz, or Needle Park as it was then known, became a source of embarrassment** to the Zurich municipal council and **in 1992, police moved in to clear up the park**
@@ -83,27 +94,27 @@
 - **Grossmünster**
 - **Fraumünster**
 - **Predigerkirche**
-- **St. Peter** - The clock tower of St. Peter was for centuries Zürich&#39;s &#39;official local time&#39;
+- **St. Peter** - The clock tower of St. Peter was for centuries Zürich's 'official local time'
 - All public city clocks had to conform to it.
 - The church clock of St. Peter has the **largest tower clock face in Europe**
 
 
 ## BAHNHOFSTRASSE / PARADEPLATZ
 
-- **Bahnhofstrasse** is Zürich&#39;s **main**** downtown street**
-- **one of the world&#39;s most expensive and exclusive shopping avenues**.
+- **Bahnhofstrasse** is Zürich's **main**** downtown street**
+- **one of the world's most expensive and exclusive shopping avenues**.
 - **In 2011** , a study named the Bahnhofstrasse **the most expensive street for retail property in Europe** , and **the third most expensive worldwide**.
 - **In 2016 ranked ninth**.
 - **Paradeplatz** is one of the **most expensive pieces of real estate in Switzerland**
 - being the location of the **headquarters of both UBS and Credit Suisse**.
-- During the **17th century** , it served as a **livestock market** , known as Säumärt (&quot; **pig**** market**&quot;), renamed to**Neumarkt**(&quot;new market&quot;)**in 1819**...
+- During the **17th century** , it served as a **livestock market** , known as Säumärt (" **pig**** market**"), renamed to**Neumarkt**("new market")**in 1819**...
 - ...and finally to its current name following the **construction of Bahnhofstrasse (1865).**
 
 
 ## STREET-PARADE
 
 - The Street Parade is **one the most attended technoparade in the world** , since the **end of Love Parade 2010 in Berlin**.
-- First time in **1992** with around **1000 participants** and **two &quot;love mobiles&quot;**
+- First time in **1992** with around **1000 participants** and **two "love mobiles"**
 - **2015** : First time **1 million** participants
 
 
@@ -114,12 +125,12 @@
 - Main focus is to promote **emerging filmmakers from all over the world**.
 - In **2009** guest **Roman Polanski** was **arrested** at the airport Zurich
 - **House arrest** for **nine months** in his **chalet in Gstaad**
-- In **2011** he returned and **collected his &quot;A Tribute To&quot; award**
-- **90&#39;500** visitors in **2016**
+- In **2011** he returned and **collected his "A Tribute To" award**
+- **90'500** visitors in **2016**
 
 ## ZURICH (MISCELLANEOUS)
 
-- 100% renewable (&quot;green&quot;) electricity by default
+- 100% renewable ("green") electricity by default
 - Corine Mauch, mayor (Stadtpräsidentin), SP (Sozialdemokratische Partei Schweiz)
 
 
@@ -151,7 +162,7 @@
 - Its name originates from the **fishing vocabulary** ; in the **Middle Ages** it referred to the **right to pull up fishing nets** and hence to the right to fish.
 
 
-## AEGERISEE (FLY AT 5&#39;000 FT)
+## AEGERISEE (FLY AT 5'000 FT)
 
 - The **Battle of Morgarten** occurred on **15 November 1315** , when the **men of Schwyz** , **with support of their allies of Uri and Unterwalden** , **ambushed a Habsburg army** under the command of Duke Leopold I on the shores of Lake Ägeri, in the territory of Schwyz.
 - **The Habsburg army was routed** (unordered retreat), with numerous slain or drowned.
@@ -190,7 +201,7 @@
 
 - Lucerne is the **capital of the canton of Lucerne** and part of the district of the same name.
 - With a population of approximately **82,000 people** Lucerne is the **most populous town in Central Switzerland**
-- One of the city&#39;s famous landmarks is the **Chapel Bridge** (German: **Kapellbrücke** ), a **wooden bridge first erected in the 14th century**
+- One of the city's famous landmarks is the **Chapel Bridge** (German: **Kapellbrücke** ), a **wooden bridge first erected in the 14th century**
 - In **August 1993** , the **Kapellbrücke** in the centre of the city suffered from a **great fire** which **destroyed two thirds of its interior paintings**
 - The bridge was subsequently **reconstructed** and **reopened to the public in April 1994**
 - The **Culture and Congress Centre** in Lucerne (or **KKL** for **Kultur- und Kongresszentrum Luzern** ) is a multi-functional building
@@ -201,7 +212,7 @@
 
 ## VERKEHRSHAUS
 
-- The **Swiss Transport Museum** or Verkehrshaus der Schweiz (literally &quot;Transportation House of Switzerland&quot;) in Lucerne **opened in July 1959**
+- The **Swiss Transport Museum** or Verkehrshaus der Schweiz (literally "Transportation House of Switzerland") in Lucerne **opened in July 1959**
 - Exhibits all forms of transport including **trains** , **automobiles** , **ships** and **aircraft** ) as well as **communication technology**
 - Exhibits (airplanes)
   - a **Convair Coronado**
@@ -213,7 +224,7 @@
 ## BUOCHSA IRPORT (LSZC)
 
 - Follow the **motorway A2**
-  - built so that Mirage IIIS using [JATO](https://en.wikipedia.org/wiki/JATO) (&quot;jet assisted take-off&quot;) booster rockets could take off from this motorway
+  - built so that Mirage IIIS using [JATO](https://en.wikipedia.org/wiki/JATO) ("jet assisted take-off") booster rockets could take off from this motorway
   - But this opportunity was never used
 - **449.6 m (1475 ft)**
 - **Canton of Nidwalden**
@@ -251,10 +262,10 @@
 - The **building of Switzerland as a federal state** in the **first half of the 19th century** (1803–1848) **revived symbols** of the period of growth of the Old Swiss Confederacy in the Late Middle Ages, ...
 - ... **including the legends of William Tell** and **Arnold Winkelried** and the **Rütli oath**.
 - After the establishment of the federal state, **the Rütli oath became associated with the Swiss Federal Charter, a document dated to 1291**.
-- This choice was not straightforward, as it **went against Tschudi&#39;s date of 1307** , ...
+- This choice was not straightforward, as it **went against Tschudi's date of 1307** , ...
 - ... and historians could enumerate **a total of 82 similar documents** of the period of **1251 to 1386**.
 
-- The **decision was motivated pragmatically** , as the **modern Swiss capital of Bern in 1891 was going to celebrate the 700th anniversary of the city&#39;s foundation**...
+- The **decision was motivated pragmatically** , as the **modern Swiss capital of Bern in 1891 was going to celebrate the 700th anniversary of the city's foundation**...
 - ... and it was **convenient to place the 600th anniversary of the Confederacy in the same year**.
 
 
@@ -266,7 +277,7 @@
 
 - It was only after the **celebration of the 650th anniversary in 1941** , seen as an **important symbol of Swiss independence in times of war** , ...
 - ... **that the date of 1291 became universally associated with the Rütli oath**.
-- The **Swiss national holiday on 1 August**** marks the date of the Federal Charter**(dated to &quot;the beginning of August, 1291),**and thus the Rütli oath.**
+- The **Swiss national holiday on 1 August**** marks the date of the Federal Charter**(dated to "the beginning of August, 1291),**and thus the Rütli oath.**
 
 - Following a **public vote on 26 September 1993** , 1 August has been **an official national holiday since 1994**.
 
@@ -281,7 +292,7 @@
 
 - **In 1923** , there were **plans to demolish** it, but it was **preserved on the initiative** of **Max Oechslin, president of Naturforschende Gesellschaft Uri**.
 
-- **In 1970,** the Devil&#39;s Stone was **again scheduled for destruction** , to make way for the **N2 motorway**.
+- **In 1970,** the Devil's Stone was **again scheduled for destruction** , to make way for the **N2 motorway**.
 - This time, there was **a broad movement to preserve it** , and in 1971, **federal authorities agreed to move the stone,** with projected costs of **250,000 francs**.
 - This led to a **popular campaign opposing the plan** because the **cost was seen as excessive**.
 - The **cantonal government now argued** that there was no legal basis for the destruction of the stone because it had been the **property of Naturforschende Gesellschaft Uri since 1925**.
@@ -296,7 +307,7 @@
 
 - **Schöllenen Gorge** (Schöllenenschlucht)
 - In Early Modern Switzerland, a legend developed **which attributed the construction of the bridge to the Devil.**
-- The name **Teiffels Brucken** (&quot;Devil&#39;s Bridge&quot;, modern German: Teufelsbrücke) is **first recorded in 1587**.
+- The name **Teiffels Brucken** ("Devil's Bridge", modern German: Teufelsbrücke) is **first recorded in 1587**.
 
 - Legend: **the people of Uri recruited the Devil** for the difficult task of building the bridge.
 - The **Devil requested to receive the first thing to pass the bridge** in exchange for his help.
@@ -304,7 +315,7 @@
 - ... the people of Uri **sent across a dog by throwing a piece of bread** , and the dog was **promptly torn to pieces by the Devil**.
 
 - A **modern retelling** was published by **Meinrad Lienert** , Schweizer Sagen und Heldengeschichten ( **1915** ).
-- According to Lienert&#39;s version, **a goat was sent across the bridge** instead of a dog
+- According to Lienert's version, **a goat was sent across the bridge** instead of a dog
 
 - The **legend does not appear to have existed before the 16th century** , and its origin in local tradition is uncertain.
 - **Lauf-Belart (1924)** surmised that the name Teufelsbrücke was **originally due to an erroneous interpretation by learned travellers** , ...
@@ -325,7 +336,7 @@
 - Gotthard **Road Tunnel** ( **1980** )
 - **The Gotthard Base Tunnel** (German: Gotthard-Basistunnel is a railway tunnel through the Alps in Switzerland.
 - It opened on **1 June 2016** , and full service began on **11 December 2016**.
-- With a route **length of 57.09 km** (35.5 mi),[4] it is the **world&#39;s longest railway and deepest traffic tunnel.**..
+- With a route **length of 57.09 km** (35.5 mi),[4] it is the **world's longest railway and deepest traffic tunnel.**..
 - ... and **the first flat, low-level route through the Alps**.
 
 
@@ -334,9 +345,9 @@
 - **At 2,106 m** ( **6,909 ft** )
 - The **Swiss National Redoubt** (German: **Schweizer Reduit** ) was a **defensive plan** developed by the Swiss government **beginning in the 1880s** to respond to foreign invasion.
 - In the opening years of the **Second World War** the **plan was expanded and refined to deal with a potential German invasion**.
-- The term &quot; **National Redoubt**&quot; primarily refers to the **fortifications begun in the 1880s** that **secured the mountainous central part of Switzerland** , ...
+- The term " **National Redoubt**" primarily refers to the **fortifications begun in the 1880s** that **secured the mountainous central part of Switzerland** , ...
 - ... providing a **defended refuge for a retreating Swiss Army**.
-- This strategy was intended to **deter an invasion altogether by denying Switzerland&#39;s crucial transportation infrastructure to an aggressor**.
+- This strategy was intended to **deter an invasion altogether by denying Switzerland's crucial transportation infrastructure to an aggressor**.
 - **Redoubt Hospiz** , also known as **Forte Ospizio** , was **built in 1894** and **operated until 1947** near the summit of the Gotthard Pass.
 - The fort **mounted two single 120mm gun turrets**.
 - The fort is now operated as a **museum** and may be **visited by the public**.

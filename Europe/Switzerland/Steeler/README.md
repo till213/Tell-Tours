@@ -1,2 +1,11 @@
-# README
+# Switzerland
+
+A flight of four legs will guide us through Switzerland:
+
+* Zurich to Locarno
+* Locarno to Bern Belp
+* Bern Belp to Geneva
+* Geneva to St. Moritz
+
+On the way you will hear fun facts, about Switzerland's history (including William Tell, of course), about movie locations and everything else you want to ask during the flights.
 
