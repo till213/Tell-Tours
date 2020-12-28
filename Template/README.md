@@ -7,7 +7,7 @@ Short description & highlights of the flight, which may consist of several legs.
 
 Place all tour related files (this README.md, the various legs and optional photos...) under
 
-  <continent name> / <country name> / <name of guide>
+  &lt;continent name > / <c ountry name > / < name of guide >
 
 *Example:*
   
