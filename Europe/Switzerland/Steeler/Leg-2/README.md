@@ -34,6 +34,11 @@
 
 [![Bond car chase through Furka Pass in Switzerland](https://img.youtube.com/vi/3RdK51Igeqc/0.jpg)](https://www.youtube.com/watch?v=3RdK51Igeqc "Bond car chase through Furka Pass in Switzerland")
 
+## Schilthorn (Piz Gloria)
+
+
+[![OHMSS - Interviews with stuntmen, cameramen and assets](https://img.youtube.com/vi/ILnD3VUi714/0.jpg)](https://www.youtube.com/watch?v=ILnD3VUi714 "OHMSS - Interviews with stuntmen, cameramen and assets 
+
 
 ## Inferno Race
 
