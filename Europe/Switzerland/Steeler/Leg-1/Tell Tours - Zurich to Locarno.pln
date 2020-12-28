@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>LSZH to LSZL</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>10000</CruisingAlt>
+        <DepartureID>LSZH</DepartureID>
+        <DepartureLLA>N47° 27' 48.76",E8° 32' 59.80",+001398.17</DepartureLLA>
+        <DestinationID>LSZL</DestinationID>
+        <DestinationLLA>N46° 9' 42.11",E8° 52' 42.78",+000650.00</DestinationLLA>
+        <Descr>Tell Tours - Zurich to Locarno</Descr>
+        <DepartureName>Zurich</DepartureName>
+        <DestinationName>Locarno</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LSZH">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 27' 48.76",E8° 32' 59.80",+001398.17</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <RunwayNumberFP>28</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>LSZH</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Paradeplatz">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 22' 11.16",E8° 32' 21.07",+003261.40</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Tinas Turn">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 18' 48.28",E8° 34' 49.84",+004508.08</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Albispass">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 16' 33.53",E8° 31' 17.26",+005594.05</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Lucerne">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 3' 5.13",E8° 18' 25.89",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="St Niklausen">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 1' 22.84",E8° 21' 12.37",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Ennetmoos">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 57' 16.58",E8° 20' 11.15",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LSZC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 58' 27.89",E8° 23' 49.09",+010000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LSZC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Lake Lucerne">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 58' 50.92",E8° 31' 33.38",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Grosser Mythen">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 1' 47.19",E8° 41' 19.25",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Ruetli">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 58' 4.52",E8° 35' 36.27",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LS202">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N46° 56' 0.80",E8° 36' 23.10",+010000.00</WorldPosition>
+            <ICAO>
+                <ICAORegion>LS</ICAORegion>
+                <ICAOIdent>LS202</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Altdorf">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 52' 29.63",E8° 38' 29.08",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LS205">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N46° 46' 45.00",E8° 39' 20.80",+010000.00</WorldPosition>
+            <ICAO>
+                <ICAORegion>LS</ICAORegion>
+                <ICAOIdent>LS205</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LS206">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N46° 41' 51.50",E8° 36' 5.30",+010000.00</WorldPosition>
+            <ICAO>
+                <ICAORegion>LS</ICAORegion>
+                <ICAOIdent>LS206</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Goeschenen">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 39' 59.19",E8° 35' 21.33",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LS207">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N46° 38' 59.90",E8° 35' 25.10",+010000.00</WorldPosition>
+            <ICAO>
+                <ICAORegion>LS</ICAORegion>
+                <ICAOIdent>LS207</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Devils Bridge">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 38' 49.09",E8° 35' 26.40",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Gotthardstrasse">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 36' 22.96",E8° 34' 0.02",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Border">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 34' 53.40",E8° 33' 30.80",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Ascent">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 33' 46.14",E8° 33' 31.27",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="St Gotthard">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 33' 23.18",E8° 33' 56.31",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LS209">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N46° 32' 52.60",E8° 34' 3.60",+010000.00</WorldPosition>
+            <ICAO>
+                <ICAORegion>LS</ICAORegion>
+                <ICAOIdent>LS209</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Descent">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 31' 58.47",E8° 34' 21.17",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Airolo">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 31' 42.13",E8° 36' 27.34",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LSPM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 30' 45.40",E8° 41' 31.65",+010000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LSPM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Quinto">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 30' 35.93",E8° 42' 50.74",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Rodi">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 29' 21.20",E8° 44' 29.49",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Faido">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 28' 59.29",E8° 47' 24.70",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LS211">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N46° 28' 33.80",E8° 48' 17.40",+010000.00</WorldPosition>
+            <ICAO>
+                <ICAORegion>LS</ICAORegion>
+                <ICAOIdent>LS211</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Lavorgo">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 26' 28.07",E8° 50' 36.50",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Viadotto">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 25' 17.28",E8° 51' 30.15",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Giornico">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 24' 0.98",E8° 52' 28.93",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LS212">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N46° 21' 39.20",E8° 56' 39.30",+010000.00</WorldPosition>
+            <ICAO>
+                <ICAORegion>LS</ICAORegion>
+                <ICAOIdent>LS212</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Biasca">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 20' 40.86",E8° 58' 8.05",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Preonzo">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 15' 53.19",E9° 0' 5.12",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LS213">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N46° 13' 22.80",E9° 2' 21.20",+010000.00</WorldPosition>
+            <ICAO>
+                <ICAORegion>LS</ICAORegion>
+                <ICAOIdent>LS213</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Bellinzona">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 11' 30.23",E9° 1' 12.16",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Bellinzona South">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 10' 19.60",E8° 58' 2.77",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LSZL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 9' 42.11",E8° 52' 42.78",+010000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LSZL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

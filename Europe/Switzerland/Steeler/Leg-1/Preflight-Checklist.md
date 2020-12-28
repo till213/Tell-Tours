@@ -1,0 +1,31 @@
+# PREFLIGHT CHECKLIST
+
+- Introduction: "My nickname is Steeler…"
+- This is a **guided tour** , with commentaries. More in the beginning, fewer during flight
+- Actual flight time (90 knots average) around **1:15 hours**
+- Flight description
+  - **Clockwise** circling around objects
+    - Follow me
+    - Free flight
+    - Pause and watch my video stream
+  - Photogrammetry may take a while to download
+  - Mostly autopilot, with indications when to ascend and when to continue
+  - **Mixture leaning** (enrichment) not strictly necessary, but helpful
+    - Gotthard Pass highest point: **2,106 m (6,909 ft)**
+  - One planned landing in **Buochs** ()
+    - **449.6 m (1475 ft)**
+  - Default fuel (50%) sufficient
+    - Don&#39;t forget to switch tanks
+  - Final landing in **Locarno Airport** (**LSZL**)
+- Share Screen
+  - Crash Settings
+    - **Slew** : **Y** key
+      - **Altitude** : F1/F4 altitude
+      - **Direction** : 2, 4, 6, 8 (numerical keypoad)
+  - Traffic labels
+  - Weather settings
+- Introduction about Zurich Airport (screen sharing)
+- Last minute flight instructions
+  - Take-off until end of runway 28
+  - Turn left
+  - Manual flight to Zurich, circle clock-wise around POIs
