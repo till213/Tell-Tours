@@ -27,6 +27,8 @@
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Contra_Dam)
 
+[![GoldenEye opening scene](https://img.youtube.com/vi/mSvuHSqqGSw/0.jpg)](https://www.youtube.com/watch?v=mSvuHSqqGSw "GoldenEye opening scene")
+
 
 ## Inferno Race
 
