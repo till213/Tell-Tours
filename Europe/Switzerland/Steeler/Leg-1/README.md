@@ -176,7 +176,7 @@
 - Its name originates from the **fishing vocabulary** ; in the **Middle Ages** it referred to the **right to pull up fishing nets** and hence to the right to fish.
 
 
-## AEGERISEE (FLY AT 5'000 FT)
+## AEGERISEE
 
 - The **Battle of Morgarten** occurred on **15 November 1315** , when the **men of Schwyz** , **with support of their allies of Uri and Unterwalden** , **ambushed a Habsburg army** under the command of Duke Leopold I on the shores of Lake Ägeri, in the territory of Schwyz.
 - **The Habsburg army was routed** (unordered retreat), with numerous slain or drowned.
