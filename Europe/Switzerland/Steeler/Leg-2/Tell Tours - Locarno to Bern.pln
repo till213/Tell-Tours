@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>LSZH to LSGG</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>12500</CruisingAlt>
+        <DepartureID>LSZL</DepartureID>
+        <DepartureLLA>N46° 9' 42.11",E8° 52' 42.78",+000650.00</DepartureLLA>
+        <DestinationID>LSZB</DestinationID>
+        <DestinationLLA>N46° 54' 43.45",E7° 29' 49.26",+001671.50</DestinationLLA>
+        <Descr>Tell Tours - Locarno to Bern Belp</Descr>
+        <DepartureName>Locarno</DepartureName>
+        <DestinationName>Bern Belp</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LSZL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 9' 42.11",E8° 52' 42.78",+000650.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <RunwayNumberFP>26</RunwayNumberFP>
+            <RunwayDesignatorFP>RIGHT</RunwayDesignatorFP>
+            <ICAO>
+                <ICAOIdent>LSZL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Locarno">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 10' 0.14",E8° 47' 34.98",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Monte Verita">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 9' 28.98",E8° 45' 46.59",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Lago Maggiore">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 8' 36.26",E8° 49' 12.68",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Goldeneye">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 11' 47.01",E8° 50' 54.65",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Vogorno">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 13' 20.99",E8° 51' 30.85",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Corippo">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 14' 8.98",E8° 50' 28.22",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Verzasca I">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 14' 52.54",E8° 50' 42.07",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Lavertezzo">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 15' 29.76",E8° 50' 20.64",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Verzasca II">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 16' 17.59",E8° 48' 44.43",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Brione">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 17' 48.65",E8° 47' 23.95",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Gerra">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 19' 7.11",E8° 48' 13.67",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Frasco">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 20' 23.93",E8° 48' 7.10",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Sonogno">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 20' 58.70",E8° 47' 9.63",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Redorta (7200 ft)">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 21' 34.27",E8° 44' 3.34",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Sornico">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 23' 30.34",E8° 39' 33.53",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Lavizzara">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 24' 32.09",E8° 38' 45.12",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Fusio">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 26' 37.16",E8° 39' 47.73",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Sambuco I">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 27' 21.51",E8° 39' 36.09",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Sambuco II">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 28' 31.15",E8° 38' 5.52",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Naret">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 28' 42.57",E8° 34' 6.67",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Cristallina">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 29' 4.99",E8° 32' 56.52",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Ossasco">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 30' 46.35",E8° 32' 23.54",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Lucendro">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 32' 15.63",E8° 30' 45.03",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Realp">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 35' 16.09",E8° 29' 39.03",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Furkastrasse">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 35' 16.61",E8° 26' 34.05",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Furkapass">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 34' 20.97",E8° 24' 55.24",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Goldfinger">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 34' 27.79",E8° 23' 26.67",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Gletsch">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 33' 46.62",E8° 21' 45.51",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Oberwald">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 31' 58.23",E8° 21' 11.50",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Ulrichen">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 30' 6.14",E8° 17' 55.84",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Munster Airport">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 28' 51.02",E8° 15' 53.61",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="GS608">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N46° 26' 36.70",E8° 12' 39.60",+010000.00</WorldPosition>
+            <ICAO>
+                <ICAORegion>LS</ICAORegion>
+                <ICAOIdent>GS608</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="GS607">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N46° 19' 40.80",E8° 0' 51.80",+010000.00</WorldPosition>
+            <ICAO>
+                <ICAORegion>LS</ICAORegion>
+                <ICAOIdent>GS607</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Brig">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 18' 59.12",E7° 59' 15.19",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Brei">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 18' 28.82",E8° 0' 36.52",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Burge">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 21' 26.02",E7° 59' 43.86",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Gibidum">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 22' 15.46",E8° 0' 8.53",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Aletsch Forrest">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 23' 45.49",E8° 2' 0.78",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Glacier">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 26' 51.87",E8° 4' 45.59",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Konkordia">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 30' 5.20",E8° 2' 12.33",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Jungfrau (12000 ft)">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 32' 51.24",E7° 59' 6.84",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Piz Gloria">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 33' 25.54",E7° 50' 6.78",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Inferno I">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 33' 30.51",E7° 50' 50.83",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Inferno II">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 33' 13.79",E7° 51' 33.19",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Inferno II">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 33' 14.69",E7° 52' 33.10",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Murren">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 33' 37.41",E7° 53' 39.75",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Bei der Buche">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 34' 37.94",E7° 54' 32.00",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Lauterbrunnen">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 35' 51.11",E7° 54' 32.49",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Zweilutschinen">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 37' 56.33",E7° 54' 2.07",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Wilderswil">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 39' 52.41",E7° 51' 40.20",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LSMI">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 40' 35.60",E7° 52' 44.50",+010000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LSMI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Interlaken">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 41' 6.83",E7° 51' 12.99",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Lake of Thun">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 40' 17.24",E7° 44' 46.93",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="007 Marriage Proposal">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 45' 19.13",E7° 41' 12.51",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Thun">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 45' 30.72",E7° 37' 43.13",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LSZB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 54' 43.45",E7° 29' 49.26",+001650.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>LSZB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
