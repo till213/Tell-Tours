@@ -1,4 +1,4 @@
-# Zurich to Locarno
+# "From North to South" - Leg 1
 
 | What            | Description
 | --------------- | ----------------
@@ -15,7 +15,7 @@
 | Community       | [Switzerland Leg 1](https://forums.flightsimulator.com/t/tell-tours-switzerland-from-north-to-south/335342)
 
 
-# Show & Tell
+# Zurich (LSZH) to Locarno (LSZL)
 
 ## ZURICH AIRPORT
 

@@ -1,4 +1,4 @@
-# Leg 1 Name
+# Tour Leg Name
 
 | What            | Description
 | --------------- | ----------------
@@ -15,7 +15,7 @@
 | Community       | < optional link to community forum > (e.g. [Switzerland Leg 1](https://forums.flightsimulator.com/t/tell-tours-switzerland-from-north-to-south/335342))
 
 
-# Show & Tell
+# Tour Description
 
 ## Location / Point of Interest Name
 

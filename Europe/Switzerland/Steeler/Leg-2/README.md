@@ -1,4 +1,4 @@
-# Locarno to Bern
+# On Her Majesty's Secret Service - Leg 2
 
 | What            | Description
 | --------------- | ----------------
@@ -15,10 +15,16 @@
 | Community       | [Switzerland Leg 2](https://forums.flightsimulator.com/t/xyz/123) @todo proper URL
 
 
-# Show & Tell
+# Locarno (LSZL) to Bern Belp (LSZB)
 
 ## Locarno
 
 - Description
+- [Wikipedia](https://en.wikipedia.org/wiki/Locarno)
+
+
+## Verzasca Dam
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Contra_Dam)
 
 
