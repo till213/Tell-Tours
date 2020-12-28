@@ -325,7 +325,7 @@
         <Pos Lon="8.634867" Lat="46.475319" Alt="10000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>Naret</Ident>
+        <Ident>Naret (10000 ft)</Ident>
         <Type>USER</Type>
         <Pos Lon="8.568520" Lat="46.478493" Alt="10000.00"/>
       </Waypoint>
