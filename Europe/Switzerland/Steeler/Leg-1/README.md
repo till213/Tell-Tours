@@ -57,6 +57,8 @@
 - On the Letzigrund track on **21 June 1960, Armin Hary** was the **first human** being to **run the 100 metres in 10,0 seconds**
 - The current capacity is 25,000 for football events, 26,000 for athletics and 50,000 for concerts.
 
+![Letzigrund Stadion](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-1/img/IMGP8046.JPG "Letzigrund Stadion")
+
 
 ## MAIN STATION &amp; LANDESMUSEUM
 
@@ -110,6 +112,10 @@
 - During the **17th century** , it served as a **livestock market** , known as Säumärt (" **pig**** market**"), renamed to**Neumarkt**("new market")**in 1819**...
 - ...and finally to its current name following the **construction of Bahnhofstrasse (1865).**
 
+![Bahnhofstrasse](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-1/img/IMGP2120.JPG "Bahnhofstrasse")
+
+![Paradeplatz](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-1/img/IMGP9826-HDR.JPG "Paradeplatz")
+
 
 ## STREET-PARADE
 
@@ -154,6 +160,8 @@
 - The Albis chain was formed as the **left moraine of the glacier the bed of which is now Lake Zürich.**
 - The best known point is **Uetliberg** at **870 m** , overlooking the city of Zürich.
 - Other points of interest include the **Albishorn** (909m.) the **Bürglen** (also known as Bürglenstutz, the highest peak, 914.6m.), and the **Albis**** Pass**(**791** m.)
+
+![Alibs](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-1/img/IMGP4898.JPG "Alibs")
 
 
 ## ZUG
@@ -209,6 +217,9 @@
 - It was built according to the plans of the architect Jean Nouvel and was **inaugurated**** in 1998 **with a concert by the** Berlin Philharmonic Orchestra** (under the direction of Claudio Abbado).
 - Every year, towards the end of winter, **Fasnacht** ( **Carnival** ) breaks out in the streets, alleyways and squares of the old town.
 
+![Kapellbrücke](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-1/img/IMGP0272.JPG "Kappelbrücke")
+
+
 
 ## VERKEHRSHAUS
 
@@ -221,7 +232,7 @@
 - It also houses **EURECA** , a **4.5 tonne satellite** , which is among the **few space objects returned safely to earth**.
 
 
-## BUOCHSA IRPORT (LSZC)
+## BUOCHS AIRPORT (LSZC)
 
 - Follow the **motorway A2**
   - built so that Mirage IIIS using [JATO](https://en.wikipedia.org/wiki/JATO) ("jet assisted take-off") booster rockets could take off from this motorway
@@ -244,6 +255,7 @@
 
 ![Great Mythen](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-1/img/APC_0379.JPG "Great Mythen in snow")
 
+![Great Mythen View](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-1/img/IMGP3977-Pano.JPG "View from Great Mythen")
 
 ## RÜTLISCHWUR
 
@@ -285,6 +297,8 @@
 
 - [https://www.admin.ch/gov/de/start/bundesrat/geschichte-des-bundesrats/bundesbrief-von-1291.html](https://www.admin.ch/gov/de/start/bundesrat/geschichte-des-bundesrats/bundesbrief-von-1291.html)
 
+![William Tell Monument](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-1/img/IMG_9666.JPG "William Tell monument")
+
 
 ## DEVIL'S STONE
 
@@ -323,6 +337,11 @@
 - **Lauf-Belart (1924)** surmised that the name Teufelsbrücke was **originally due to an erroneous interpretation by learned travellers** , ...
 - ... **which only in the 17th century gave rise to the local legend involving the Devil**.
 
+![Devil's Bridge](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-1/img/IMG_9677.JPG "Painting depicting the tale of the Devil and the goat")
+
+![Devil's Bridge](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-1/img/IMG_9681.JPG "Devil's Bridge")
+
+
 ## SUWOROW MONUMENT
 
 - **Suworow-Monument** , 12 metres high
@@ -356,6 +375,8 @@
 - **First lieutenant Adrien Guex** (\* 1901) crashed and was **killed on 7 August 1927 in his Fokker D VII, 627**...
 - ... during a **reconnaissance** flight between the hospice and the fort **due to poor visibility.**
 - The **monument by Fausto Agnelli** was inaugurated on **18 August 1928**.
+
+![Adrien Guex Monument](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-1/img/IMG_1277.JPG "Monument for Adrien Guex")
 
 
 ## VALLE LEVENTINA
