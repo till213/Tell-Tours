@@ -20,26 +20,26 @@
 ## ZURICH AIRPORT
 
 - In the Zurich area, mixed civil and military air traffic developed **from 1909 onwards at Dübendorf** airfield
-- From **1919** , the airport was home to Swissair's predecessor **Ad Astra Aero** , and from **1932 also to Swissair.**
+- From **1919**, the airport was home to Swissair's predecessor **Ad Astra Aero**, and from **1932 also to Swissair.**
 - **In 1939, civil air traffic** had to be **suspended** at the outbreak of the Second World War for military strategic reasons.
 - **Zurich Airport** is the **largest international airport of Switzerland**
 - **Construction** works began on **5 May 1946**
 - Elevation: **1,416 ft / 432 m**
-- In **1999** , the Parliament of the canton of Zürich approved **privatization** of Zurich Airport.
-- The following year, Flughafen Zürich AG, trading under the **brand Unique** , became the new airport operator.
+- In **1999**, the Parliament of the canton of Zürich approved **privatization** of Zurich Airport.
+- The following year, Flughafen Zürich AG, trading under the **brand Unique**, became the new airport operator.
 - **The company dropped the brand Unique in favour of Zurich Airport and Flughafen Zürich in 2010.**
-- On **18 October 2001** , Germany and Switzerland signed a **treaty** regarding the **limitation of flights over Germany**.
-- Under the terms of this treaty, any **incoming aircraft after 22:00** had to approach Zürich from the east **to land on runway 28** , which, unlike the airport's other runways, **was not equipped with an instrument landing system**.
+- On **18 October 2001**, Germany and Switzerland signed a **treaty** regarding the **limitation of flights over Germany**.
+- Under the terms of this treaty, any **incoming aircraft after 22:00** had to approach Zürich from the east **to land on runway 28**, which, unlike the airport's other runways, **was not equipped with an instrument landing system**.
 - **A month later,** at 22:06 on 24 November, an **inbound Crossair Avro RJ100** using this approach in conditions of **poor visibility crashed** into a range of hills near **Bassersdorf** and **exploded, killing 24 of the 33 people on board**.
-- **The flight had originally been scheduled to land on runway 14 before 22:00** , but it was **subject to delay** and was therefore diverted to runway 28.
+- **The flight had originally been scheduled to land on runway 14 before 22:00**, but it was **subject to delay** and was therefore diverted to runway 28.
 - [https://www.admin.ch/gov/de/start/dokumentation/medienmitteilungen.msg-id-7276.html](https://www.admin.ch/gov/de/start/dokumentation/medienmitteilungen.msg-id-7276.html)
 
 
 ## ZURICH
 
-- Zürich is the **largest city in Switzerland** , and the capital of the canton of Zürich.
+- Zürich is the **largest city in Switzerland**, and the capital of the canton of Zürich.
 - As of January 2020, the municipality has **434,335 inhabitants**
-- Permanently settled for over 2,000 years, Zürich was **founded by the Romans** , who, in 15 BC, called it **Turicum**.
+- Permanently settled for over 2,000 years, Zürich was **founded by the Romans**, who, in 15 BC, called it **Turicum**.
 - Zürich is partnered with two sister cities: **Kunming** (China) and **San Francisco** (USA).
 
 
@@ -67,7 +67,7 @@
 - Zürich **Hauptbahnhof** is the **largest railway station in Switzerland**
 - The station was originally constructed as the **terminus of the Spanisch Brötli Bahn**, the **first railway built completely within Switzerland**.
 - Spanisch-Brötli-Bahn opened on 9 August 1847 and linked Zürich with Baden.
-- Serving up to **2,915 trains per day** , Zürich HB is **one of the busiest railway stations in the world.**
+- Serving up to **2,915 trains per day**, Zürich HB is **one of the busiest railway stations in the world.**
 - The **Swiss National Museum**, building of **1898**
 - **Platzspitz** park; **during the 1980s, heroin users** would frequently gather at the park
 - Attempts to disperse them merely resulted in them regrouping elsewhere
@@ -84,7 +84,7 @@
 - **Founded** by the Swiss Federal Government **in 1854**
 - **Sister institution EPFL in Lausanne**
 
-- **In 1895, at the age of 16** , **Albert Einstein took** the entrance examinations for the Swiss Federal Polytechnic School in Zürich (later the Eidgenössische Technische Hochschule, ETH).
+- **In 1895, at the age of 16**, **Albert Einstein took** the entrance examinations for the Swiss Federal Polytechnic School in Zürich (later the Eidgenössische Technische Hochschule, ETH).
 - He failed to reach the required standard in the general part of the examination, but obtained exceptional grades in physics and mathematics.
 - **At 17, he enrolled in the four-year mathematics and physics teaching diploma program at the Zürich polytechnic school.**
 - **From 1912 until 1914**, Albert Einstein was a **professor of theoretical physics at the ETH Zurich**
@@ -149,7 +149,7 @@
 ## GOLD COAST
 
 - The **Goldcoast** is noted for its **low tax rate** and **high property prices**.
-- The **opposite shore** , however, is derisively dubbed "**the Sniffle Coast**" (Swiss German dialect "**Pfnüselküste**") because its topography and north-easterly aspect mean that it **lies in the shadow of its own mountains**
+- The **opposite shore**, however, is derisively dubbed "**the Sniffle Coast**" (Swiss German dialect "**Pfnüselküste**") because its topography and north-easterly aspect mean that it **lies in the shadow of its own mountains**
 - **Tina Turner** lives in Küsnacht
 - https://www.handelszeitung.ch/geld/von-zollikon-bis-meilen-der-goldkustenreport
 
@@ -178,7 +178,7 @@
 
 ## AEGERISEE
 
-- The **Battle of Morgarten** occurred on **15 November 1315** , when the **men of Schwyz** , **with support of their allies of Uri and Unterwalden**, **ambushed a Habsburg army** under the command of Duke Leopold I on the shores of Lake Ägeri, in the territory of Schwyz.
+- The **Battle of Morgarten** occurred on **15 November 1315**, when the **men of Schwyz**, **with support of their allies of Uri and Unterwalden**, **ambushed a Habsburg army** under the command of Duke Leopold I on the shores of Lake Ägeri, in the territory of Schwyz.
 - **The Habsburg army was routed** (unordered retreat), with numerous slain or drowned.
 - The Swiss victory **consolidated the League of the Three Forest Cantons, which formed the core of the Swiss Confederacy**
 - There is some evidence to suggest that the attack at Morgarten involved the first recorded use of halberds against knights, the weapon that would become iconic of the Old Swiss Confederacy.
@@ -199,10 +199,10 @@
 - The battle was a **decisive Swiss victory** in which Duke Leopold and numerous Austrian nobles died.
 - The victory **helped turn the loosely allied Swiss Confederation into a more unified nation** and is seen as a **turning point in the growth of Switzerland**.
 - How and at what point the battle turned in favour of the confederates is a matter of debate.
-- Traditional Swiss historiography since the 16th century has attributed the turning of the tide to the heroic deed of **Arnold von Winkelried** , ...
-- ... who **opened a breach** in the Habsburg lines **by throwing himself into their pikes** , ...
+- Traditional Swiss historiography since the 16th century has attributed the turning of the tide to the heroic deed of **Arnold von Winkelried**, ...
+- ... who **opened a breach** in the Habsburg lines **by throwing himself into their pikes**, ...
 - ... taking them down with his body so that the confederates could attack through the opening.
-- Winkelried is **usually explained as a legendary figure introduced to explain the Swiss victory against the odds** , perhaps as late as a full century after the battle.
+- Winkelried is **usually explained as a legendary figure introduced to explain the Swiss victory against the odds**, perhaps as late as a full century after the battle.
 - The earliest evidence of the Winkelried legend is the depiction of the battle in the Lucerne Chronicle of 1513.
 - Not without justification, the **Battle of Sempach came to be seen as the decisive turning point** between the foundation of the confederacy as a loose pact in the 14th century, ...
 - ... and its growth into a significant political and military power during the 15th century.
@@ -210,7 +210,7 @@
 
 ## REUSS
 
-- The **Reuss** with a **length of 164 kilometres** is the **fourth largest river in Switzerland** (after the **Rhine** , **Aare** and **Rhône** )
+- The **Reuss** with a **length of 164 kilometres** is the **fourth largest river in Switzerland** (after the **Rhine**, **Aare** and **Rhône** )
 - The upper Reuss forms the main valley of the canton of Uri.
 - The course of the lower Reuss runs from Lake Lucerne to the confluence with the Aare at Brugg and Windisch.
 
@@ -220,7 +220,7 @@
 - Lucerne is the **capital of the canton of Lucerne** and part of the district of the same name.
 - With a population of approximately **82,000 people** Lucerne is the **most populous town in Central Switzerland**
 - One of the city's famous landmarks is the **Chapel Bridge** (German: **Kapellbrücke** ), a **wooden bridge first erected in the 14th century**
-- In **August 1993** , the **Kapellbrücke** in the centre of the city suffered from a **great fire** which **destroyed two thirds of its interior paintings**
+- In **August 1993**, the **Kapellbrücke** in the centre of the city suffered from a **great fire** which **destroyed two thirds of its interior paintings**
 - The bridge was subsequently **reconstructed** and **reopened to the public in April 1994**
 - The **Culture and Congress Centre** in Lucerne (or **KKL** for **Kultur- und Kongresszentrum Luzern** ) is a multi-functional building
 - a **concert hall** that is esteemed for its **high-profile acoustics**.
@@ -249,7 +249,7 @@
   - But this opportunity was never used
 - **449.6 m (1475 ft)**
 - **Canton of Nidwalden**
-- **Pilatus Aircraft** has its **headquarters** , along with a production plant, on the Buochs Airport in the Swiss canton of Nidwalden.
+- **Pilatus Aircraft** has its **headquarters**, along with a production plant, on the Buochs Airport in the Swiss canton of Nidwalden.
 - **During the 1950s and 1960s**, **Pilatus** developed on a **short takeoff and landing** (STOL) light civil transport aircraft, the **PC-6 Porter.**
 
 
@@ -289,19 +289,19 @@
 - This choice was not straightforward, as it **went against Tschudi's date of 1307**, ...
 - ... and historians could enumerate **a total of 82 similar documents** of the period of **1251 to 1386**.
 
-- The **decision was motivated pragmatically** , as the **modern Swiss capital of Bern in 1891 was going to celebrate the 700th anniversary of the city's foundation**...
+- The **decision was motivated pragmatically**, as the **modern Swiss capital of Bern in 1891 was going to celebrate the 700th anniversary of the city's foundation**...
 - ... and it was **convenient to place the 600th anniversary of the Confederacy in the same year**.
 
 
 ## ALTDORF
 
-- **Especially in Central Switzerland** , the opportunistic re-dating of the event was **resented** , and the **Rütli oath ...**
+- **Especially in Central Switzerland**, the opportunistic re-dating of the event was **resented**, and the **Rütli oath ...**
 - **... continued to be dated to 1307 well into the 20th century**.
-- Accordingly, the **600th anniversary** of the Confederacy was **celebrated** _ **again** _ **in 1907** , this time **in Altdorf**.
-- It was only after the **celebration of the 650th anniversary in 1941** , seen as an **important symbol of Swiss independence in times of war**, ...
+- Accordingly, the **600th anniversary** of the Confederacy was **celebrated** _ **again** _ **in 1907**, this time **in Altdorf**.
+- It was only after the **celebration of the 650th anniversary in 1941**, seen as an **important symbol of Swiss independence in times of war**, ...
 - ... **that the date of 1291 became universally associated with the Rütli oath**.
 - The **Swiss national holiday on 1 August** marks the date of the Federal Charter (dated to "the beginning of August, 1291), **and thus the Rütli oath.**
-- Following a **public vote on 26 September 1993** , 1 August has been **an official national holiday since 1994**.
+- Following a **public vote on 26 September 1993**, 1 August has been **an official national holiday since 1994**.
 
 - [https://www.admin.ch/gov/de/start/bundesrat/geschichte-des-bundesrats/bundesbrief-von-1291.html](https://www.admin.ch/gov/de/start/bundesrat/geschichte-des-bundesrats/bundesbrief-von-1291.html)
 
@@ -310,9 +310,9 @@
 
 ## DEVIL'S STONE
 
-- The **Devil's Stone** (Teufelsstein) is a **large block of granite** near **Göschenen** , with a height of c. **12 m** and a mass of c. **220 tons**.
-- In **1887** , it was **sold to the Maestrani Schweizer Schokoladenfabrik for 80 francs**.
-- **Painted yellow** , it now served as an **advertisement for chocolate**.
+- The **Devil's Stone** (Teufelsstein) is a **large block of granite** near **Göschenen**, with a height of c. **12 m** and a mass of c. **220 tons**.
+- In **1887**, it was **sold to the Maestrani Schweizer Schokoladenfabrik for 80 francs**.
+- **Painted yellow**, it now served as an **advertisement for chocolate**.
 - **In 1923**, there were **plans to demolish** it, but it was **preserved on the initiative** of **Max Oechslin, president of Naturforschende Gesellschaft Uri**.
 - **In 1970,** the Devil's Stone was **again scheduled for destruction**, to make way for the **N2 motorway**.
 - This time, there was **a broad movement to preserve it**, and in 1971, **federal authorities agreed to move the stone,** with projected costs of **250,000 francs**.
@@ -334,7 +334,7 @@
 - ... the people of Uri **sent across a dog by throwing a piece of bread**, and the dog was **promptly torn to pieces by the Devil**.
 - A **modern retelling** was published by **Meinrad Lienert**, Schweizer Sagen und Heldengeschichten (**1915**).
 - According to Lienert's version, **a goat was sent across the bridge** instead of a dog
-- The **legend does not appear to have existed before the 16th century** , and its origin in local tradition is uncertain.
+- The **legend does not appear to have existed before the 16th century**, and its origin in local tradition is uncertain.
 - **Lauf-Belart (1924)** surmised that the name Teufelsbrücke was **originally due to an erroneous interpretation by learned travellers**, ...
 - ... **which only in the 17th century gave rise to the local legend involving the Devil**.
 
@@ -356,7 +356,7 @@
 - **1882** Inauguration of the **Gotthard Railway Tunnel**
 - Gotthard **Road Tunnel** (**1980**)
 - **The Gotthard Base Tunnel** (German: Gotthard-Basistunnel is a railway tunnel through the Alps in Switzerland.
-- It opened on **1 June 2016** , and full service began on **11 December 2016**.
+- It opened on **1 June 2016**, and full service began on **11 December 2016**.
 - With a route **length of 57.09 km** (35.5 mi), it is the **world's longest railway and deepest traffic tunnel** ...
 - ... and the **first flat, low-level route through the Alps**.
 
@@ -366,10 +366,10 @@
 - **At 2,106 m** (**6,909 ft**)
 - The **Swiss National Redoubt** (German: **Schweizer Reduit** ) was a **defensive plan** developed by the Swiss government **beginning in the 1880s** to respond to foreign invasion.
 - In the opening years of the **Second World War** the **plan was expanded and refined to deal with a potential German invasion**.
-- The term " **National Redoubt**" primarily refers to the **fortifications begun in the 1880s** that **secured the mountainous central part of Switzerland** , ...
+- The term " **National Redoubt**" primarily refers to the **fortifications begun in the 1880s** that **secured the mountainous central part of Switzerland**, ...
 - ... providing a **defended refuge for a retreating Swiss Army**.
 - This strategy was intended to **deter an invasion altogether by denying Switzerland's crucial transportation infrastructure to an aggressor**.
-- **Redoubt Hospiz** , also known as **Forte Ospizio** , was **built in 1894** and **operated until 1947** near the summit of the Gotthard Pass.
+- **Redoubt Hospiz**, also known as **Forte Ospizio**, was **built in 1894** and **operated until 1947** near the summit of the Gotthard Pass.
 - The fort **mounted two single 120mm gun turrets**.
 - The fort is now operated as a **museum** and may be **visited by the public**.
 - **First lieutenant Adrien Guex** (\* 1901) crashed and was **killed on 7 August 1927 in his Fokker D VII, 627**...
