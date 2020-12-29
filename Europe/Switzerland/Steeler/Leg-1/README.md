@@ -46,7 +46,7 @@
 ## PRIME TOWER
 
 - The Prime Tower, is a skyscraper in Zurich, Switzerland.
-- At a height of **126 metres (413 ft**), it **was the highest skyscraper in Switzerland** from **2011 until 2015** , ...
+- At a height of **126 metres (413 ft**), it **was the highest skyscraper in Switzerland** from **2011 until 2015**, ...
 - ... **when the Roche Tower in Basel** (standing at **178**** metres** (584 ft)) was finished.
 
 ![Prime Tower](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-1/img/IMGP7599.JPG "Prime Tower")
@@ -65,15 +65,15 @@
 ## MAIN STATION &amp; LANDESMUSEUM
 
 - Zürich **Hauptbahnhof** is the **largest railway station in Switzerland**
-- The station was originally constructed as the **terminus of the Spanisch Brötli Bahn** , the **first railway built completely within Switzerland**.
+- The station was originally constructed as the **terminus of the Spanisch Brötli Bahn**, the **first railway built completely within Switzerland**.
 - Spanisch-Brötli-Bahn opened on 9 August 1847 and linked Zürich with Baden.
 - Serving up to **2,915 trains per day** , Zürich HB is **one of the busiest railway stations in the world.**
-- The **Swiss National Museum** , building of **1898**
+- The **Swiss National Museum**, building of **1898**
 - **Platzspitz** park; **during the 1980s, heroin users** would frequently gather at the park
 - Attempts to disperse them merely resulted in them regrouping elsewhere
-- Thus **in 1987 the authorities chose to allow illegal drug use and sales at the park** , in an effort to contain Zurich's growing drug problem.
+- Thus **in 1987 the authorities chose to allow illegal drug use and sales at the park**, in an effort to contain Zurich's growing drug problem.
 - **Police were not allowed to enter the park or make arrests**.
-- Drug dealers and users **arrived from all over Europe** , and crime became rampant as dealers fought for control and addicts (who numbered up to 1,000) stole to support their habit.
+- Drug dealers and users **arrived from all over Europe**, and crime became rampant as dealers fought for control and addicts (who numbered up to 1,000) stole to support their habit.
 - **Platzspitz, or Needle Park as it was then known, became a source of embarrassment** to the Zurich municipal council and **in 1992, police moved in to clear up the park**
 - Current movie: [Platzspitzbaby (2020)](https://www.imdb.com/title/tt9737798/)
 
@@ -87,7 +87,7 @@
 - **In 1895, at the age of 16** , **Albert Einstein took** the entrance examinations for the Swiss Federal Polytechnic School in Zürich (later the Eidgenössische Technische Hochschule, ETH).
 - He failed to reach the required standard in the general part of the examination, but obtained exceptional grades in physics and mathematics.
 - **At 17, he enrolled in the four-year mathematics and physics teaching diploma program at the Zürich polytechnic school.**
-- **From 1912 until 1914** , Albert Einstein was a **professor of theoretical physics at the ETH Zurich**
+- **From 1912 until 1914**, Albert Einstein was a **professor of theoretical physics at the ETH Zurich**
 
 - **Prof. Niklaus Wirth** became **1968 Professor of Informatics** at ETH Zürich, He **retired** in **1999**.
 - Known for Modula and later **Pascal** (and Oberon)
@@ -98,8 +98,8 @@
 - **Grossmünster**
 - **Fraumünster**
 - **Predigerkirche**
-- **St. Peter** - The clock tower of St. Peter was for centuries Zürich's 'official local time'
-- All public city clocks had to conform to it.
+- **St. Peter** - The clock tower of St. Peter was for centuries Zürich's official local time
+- All public city clocks had to conform to it
 - The church clock of St. Peter has the **largest tower clock face in Europe**
 
 
@@ -107,12 +107,12 @@
 
 - **Bahnhofstrasse** is Zürich's **main**** downtown street**
 - **one of the world's most expensive and exclusive shopping avenues**.
-- **In 2011** , a study named the Bahnhofstrasse **the most expensive street for retail property in Europe** , and **the third most expensive worldwide**.
+- **In 2011**, a study named the Bahnhofstrasse **the most expensive street for retail property in Europe**, and **the third most expensive worldwide**.
 - **In 2016 ranked ninth**.
 - **Paradeplatz** is one of the **most expensive pieces of real estate in Switzerland**
 - being the location of the **headquarters of both UBS and Credit Suisse**.
-- During the **17th century** , it served as a **livestock market** , known as Säumärt (" **pig**** market**"), renamed to**Neumarkt**("new market")**in 1819**...
-- ...and finally to its current name following the **construction of Bahnhofstrasse (1865).**
+- During the **17th century**, it served as a **livestock market**, known as Säumärt ("**pig market**"), renamed to**Neumarkt** ("new market") **in 1819**...
+- ...and finally to its current name following the **construction of Bahnhofstrasse (1865)**
 
 ![Bahnhofstrasse](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-1/img/IMGP2120.JPG "Bahnhofstrasse")
 
@@ -121,7 +121,7 @@
 
 ## STREET-PARADE
 
-- The Street Parade is **one the most attended technoparade in the world** , since the **end of Love Parade 2010 in Berlin**.
+- The Street Parade is **one the most attended technoparade in the world**, since the **end of Love Parade 2010 in Berlin**.
 - First time in **1992** with around **1000 participants** and **two "love mobiles"**
 - **2015** : First time **1 million** participants
 
@@ -164,7 +164,7 @@
 
 - The Albis is a chain of hills in the Canton of Zürich, Switzerland, stretching for some **19 km from Sihlbrugg in the south**** to Waldegg near Zürich in the north**.
 - The Albis chain was formed as the **left moraine of the glacier the bed of which is now Lake Zürich.**
-- The best known point is **Uetliberg** at **870 m** , overlooking the city of Zürich.
+- The best known point is **Uetliberg** at **870 m**, overlooking the city of Zürich.
 - Other points of interest include the **Albishorn** (909m.) the **Bürglen** (also known as Bürglenstutz, the highest peak, 914.6m.), and the **Albis**** Pass**(**791** m.)
 
 ![Alibs](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-1/img/IMGP4898.JPG "Alibs")
@@ -178,9 +178,9 @@
 
 ## AEGERISEE
 
-- The **Battle of Morgarten** occurred on **15 November 1315** , when the **men of Schwyz** , **with support of their allies of Uri and Unterwalden** , **ambushed a Habsburg army** under the command of Duke Leopold I on the shores of Lake Ägeri, in the territory of Schwyz.
+- The **Battle of Morgarten** occurred on **15 November 1315** , when the **men of Schwyz** , **with support of their allies of Uri and Unterwalden**, **ambushed a Habsburg army** under the command of Duke Leopold I on the shores of Lake Ägeri, in the territory of Schwyz.
 - **The Habsburg army was routed** (unordered retreat), with numerous slain or drowned.
-- The Swiss victory **consolidated the League of the Three Forest Cantons, which formed the core of the Swiss Confederacy.**
+- The Swiss victory **consolidated the League of the Three Forest Cantons, which formed the core of the Swiss Confederacy**
 - There is some evidence to suggest that the attack at Morgarten involved the first recorded use of halberds against knights, the weapon that would become iconic of the Old Swiss Confederacy.
 - A halberd (also called halbard, halbert or Swiss voulge) is a two-handed pole weapon that came to prominent use during the 14th, 15th, and 16th centuries.
 - The word halberd is most likely equivalent to the German word Hellebarde, deriving from Middle High German halm (handle) and barte (battleaxe) joint to helmbarte
@@ -194,8 +194,8 @@
 
 ## SEMPACHERSEE
 
-- The **Battle of Sempach** was fought on **9 July 1386** , ...
-- ... between **Leopold III, Duke of Austria and the Old Swiss Confederacy.**
+- The **Battle of Sempach** was fought on **9 July 1386**, ...
+- ... between **Leopold III, Duke of Austria and the Old Swiss Confederacy**
 - The battle was a **decisive Swiss victory** in which Duke Leopold and numerous Austrian nobles died.
 - The victory **helped turn the loosely allied Swiss Confederation into a more unified nation** and is seen as a **turning point in the growth of Switzerland**.
 - How and at what point the battle turned in favour of the confederates is a matter of debate.
@@ -234,12 +234,12 @@
 ## VERKEHRSHAUS
 
 - The **Swiss Transport Museum** or Verkehrshaus der Schweiz (literally "Transportation House of Switzerland") in Lucerne **opened in July 1959**
-- Exhibits all forms of transport including **trains** , **automobiles** , **ships** and **aircraft** ) as well as **communication technology**
+- Exhibits all forms of transport including **trains**, **automobiles**, **ships** and **aircraft** ) as well as **communication technology**
 - Exhibits (airplanes)
   - a **Convair Coronado**
   - the **only existing Lockheed Orion single-engine airliner** (a single-engined passenger aircraft **built in 1931** for commercial airlines)
   - In all, Lockheed built a **total of 35 Orions** costing **$25,000 each new**.
-- It also houses **EURECA** , a **4.5 tonne satellite** , which is among the **few space objects returned safely to earth**.
+- It also houses **EURECA**, a **4.5 tonne satellite**, which is among the **few space objects returned safely to earth**.
 
 
 ## BUOCHS AIRPORT (LSZC)
@@ -250,13 +250,13 @@
 - **449.6 m (1475 ft)**
 - **Canton of Nidwalden**
 - **Pilatus Aircraft** has its **headquarters** , along with a production plant, on the Buochs Airport in the Swiss canton of Nidwalden.
-- **During the 1950s and 1960s** , **Pilatus** developed on a **short takeoff and landing** (STOL) light civil transport aircraft, the **PC-6 Porter.**
+- **During the 1950s and 1960s**, **Pilatus** developed on a **short takeoff and landing** (STOL) light civil transport aircraft, the **PC-6 Porter.**
 
 
 ## BRUNNEN SZ
 
 - **Winston Churchill** spent his **honeymoon** in Brunnen
-- **J.M.W. Turner** painted **several views from Brunnen** , among his late watercolours, in the **1840s**
+- **J.M.W. Turner** painted **several views from Brunnen**, among his late watercolours, in the **1840s**
 
 
 ## GROSSER MYTHEN
@@ -269,7 +269,7 @@
 
 ## RÜTLISCHWUR
 
-- The **Rütlischwur** is the **legendary oath** taken at the foundation of the Old Swiss Confederacy **by the representatives** of **the three founding cantons, Uri, Schwyz and Unterwalden,**** traditionally dated to 1291**
+- The **Rütlischwur** is the **legendary oath** taken at the foundation of the Old Swiss Confederacy **by the representatives** of **the three founding cantons, Uri, Schwyz and Unterwalden**, traditionally **dated to 1291**
 - It is **named for the site** of the oath-taking, the Rütli, a meadow above Lake Uri near Seelisberg.
 - Recorded in Swiss historiography from the 15th century, the oath is **notably featured in the play William Tell** (Wilhelm Tell) **by Friedrich Schiller (1804).**
 
@@ -286,7 +286,7 @@
 - The **building of Switzerland as a federal state** in the **first half of the 19th century** (1803–1848) **revived symbols** of the period of growth of the Old Swiss Confederacy in the Late Middle Ages, ...
 - ... **including the legends of William Tell** and **Arnold Winkelried** and the **Rütli oath**.
 - After the establishment of the federal state, **the Rütli oath became associated with the Swiss Federal Charter, a document dated to 1291**.
-- This choice was not straightforward, as it **went against Tschudi's date of 1307** , ...
+- This choice was not straightforward, as it **went against Tschudi's date of 1307**, ...
 - ... and historians could enumerate **a total of 82 similar documents** of the period of **1251 to 1386**.
 
 - The **decision was motivated pragmatically** , as the **modern Swiss capital of Bern in 1891 was going to celebrate the 700th anniversary of the city's foundation**...
@@ -298,11 +298,9 @@
 - **Especially in Central Switzerland** , the opportunistic re-dating of the event was **resented** , and the **Rütli oath ...**
 - **... continued to be dated to 1307 well into the 20th century**.
 - Accordingly, the **600th anniversary** of the Confederacy was **celebrated** _ **again** _ **in 1907** , this time **in Altdorf**.
-
-- It was only after the **celebration of the 650th anniversary in 1941** , seen as an **important symbol of Swiss independence in times of war** , ...
+- It was only after the **celebration of the 650th anniversary in 1941** , seen as an **important symbol of Swiss independence in times of war**, ...
 - ... **that the date of 1291 became universally associated with the Rütli oath**.
-- The **Swiss national holiday on 1 August**** marks the date of the Federal Charter**(dated to "the beginning of August, 1291),**and thus the Rütli oath.**
-
+- The **Swiss national holiday on 1 August** marks the date of the Federal Charter (dated to "the beginning of August, 1291), **and thus the Rütli oath.**
 - Following a **public vote on 26 September 1993** , 1 August has been **an official national holiday since 1994**.
 
 - [https://www.admin.ch/gov/de/start/bundesrat/geschichte-des-bundesrats/bundesbrief-von-1291.html](https://www.admin.ch/gov/de/start/bundesrat/geschichte-des-bundesrats/bundesbrief-von-1291.html)
@@ -315,17 +313,13 @@
 - The **Devil's Stone** (Teufelsstein) is a **large block of granite** near **Göschenen** , with a height of c. **12 m** and a mass of c. **220 tons**.
 - In **1887** , it was **sold to the Maestrani Schweizer Schokoladenfabrik for 80 francs**.
 - **Painted yellow** , it now served as an **advertisement for chocolate**.
-
-- **In 1923** , there were **plans to demolish** it, but it was **preserved on the initiative** of **Max Oechslin, president of Naturforschende Gesellschaft Uri**.
-
-- **In 1970,** the Devil's Stone was **again scheduled for destruction** , to make way for the **N2 motorway**.
-- This time, there was **a broad movement to preserve it** , and in 1971, **federal authorities agreed to move the stone,** with projected costs of **250,000 francs**.
+- **In 1923**, there were **plans to demolish** it, but it was **preserved on the initiative** of **Max Oechslin, president of Naturforschende Gesellschaft Uri**.
+- **In 1970,** the Devil's Stone was **again scheduled for destruction**, to make way for the **N2 motorway**.
+- This time, there was **a broad movement to preserve it**, and in 1971, **federal authorities agreed to move the stone,** with projected costs of **250,000 francs**.
 - This led to a **popular campaign opposing the plan** because the **cost was seen as excessive**.
 - The **cantonal government now argued** that there was no legal basis for the destruction of the stone because it had been the **property of Naturforschende Gesellschaft Uri since 1925**.
-- On **1 September 1972** , the **Federal Council**** finally agreed to moving the stone **, and it** was moved 127 metres in an operation costing CHF 335,000**.
-
-- It is **now situated on the ramp of exit 40 (Göschenen)** of the motorway, at the **entrance of Gotthard Road Tunnel** , ...
-
+- On **1 September 1972**, the Federal Council finally agreed to moving the stone, and it was **moved 127 metres in an operation costing CHF 335,000**.
+- It is **now situated on the ramp of exit 40 (Göschenen)** of the motorway, at the **entrance of Gotthard Road Tunnel**, ...
 - ... visible both from the railway and from the motorway.
 
 
@@ -334,46 +328,42 @@
 - **Schöllenen Gorge** (Schöllenenschlucht)
 - In Early Modern Switzerland, a legend developed **which attributed the construction of the bridge to the Devil.**
 - The name **Teiffels Brucken** ("Devil's Bridge", modern German: Teufelsbrücke) is **first recorded in 1587**.
-
 - Legend: **the people of Uri recruited the Devil** for the difficult task of building the bridge.
 - The **Devil requested to receive the first thing to pass the bridge** in exchange for his help.
 - To trick the Devil, who expected to receive the soul of the first man to pass the bridge, ...
-- ... the people of Uri **sent across a dog by throwing a piece of bread** , and the dog was **promptly torn to pieces by the Devil**.
-
-- A **modern retelling** was published by **Meinrad Lienert** , Schweizer Sagen und Heldengeschichten ( **1915** ).
+- ... the people of Uri **sent across a dog by throwing a piece of bread**, and the dog was **promptly torn to pieces by the Devil**.
+- A **modern retelling** was published by **Meinrad Lienert**, Schweizer Sagen und Heldengeschichten (**1915**).
 - According to Lienert's version, **a goat was sent across the bridge** instead of a dog
-
 - The **legend does not appear to have existed before the 16th century** , and its origin in local tradition is uncertain.
-- **Lauf-Belart (1924)** surmised that the name Teufelsbrücke was **originally due to an erroneous interpretation by learned travellers** , ...
+- **Lauf-Belart (1924)** surmised that the name Teufelsbrücke was **originally due to an erroneous interpretation by learned travellers**, ...
 - ... **which only in the 17th century gave rise to the local legend involving the Devil**.
 
 ![Devil's Bridge](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-1/img/IMG_9677.JPG "Painting depicting the tale of the Devil and the goat")
-
 ![Devil's Bridge](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-1/img/IMG_9681.JPG "Devil's Bridge")
 
 
 ## SUWOROW MONUMENT
 
-- **Suworow-Monument** , 12 metres high
+- **Suworow-Monument**, 12 metres high
 - **Built 1899 in memory of the fallen of the battle**...
 - ... between the **Russian** and the **French army, in September 25 1799**
-- **Owner** of the area 563 m² is the **Russian embassy in Berne**
+- **Owner** of the area 563 m² is the **Russian embassy in Bern**
 
 
 ## GOTTHARDTUNNEL
 
 - **Urseren Valley**
 - **1882** Inauguration of the **Gotthard Railway Tunnel**
-- Gotthard **Road Tunnel** ( **1980** )
+- Gotthard **Road Tunnel** (**1980**)
 - **The Gotthard Base Tunnel** (German: Gotthard-Basistunnel is a railway tunnel through the Alps in Switzerland.
 - It opened on **1 June 2016** , and full service began on **11 December 2016**.
-- With a route **length of 57.09 km** (35.5 mi),[4] it is the **world's longest railway and deepest traffic tunnel.**..
-- ... and **the first flat, low-level route through the Alps**.
+- With a route **length of 57.09 km** (35.5 mi), it is the **world's longest railway and deepest traffic tunnel** ...
+- ... and the **first flat, low-level route through the Alps**.
 
 
 ## ST. GOTTHARD PASS
 
-- **At 2,106 m** ( **6,909 ft** )
+- **At 2,106 m** (**6,909 ft**)
 - The **Swiss National Redoubt** (German: **Schweizer Reduit** ) was a **defensive plan** developed by the Swiss government **beginning in the 1880s** to respond to foreign invasion.
 - In the opening years of the **Second World War** the **plan was expanded and refined to deal with a potential German invasion**.
 - The term " **National Redoubt**" primarily refers to the **fortifications begun in the 1880s** that **secured the mountainous central part of Switzerland** , ...
