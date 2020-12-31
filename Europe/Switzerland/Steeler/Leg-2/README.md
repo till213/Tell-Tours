@@ -30,6 +30,8 @@
 - [Wiki: Locarno](https://en.wikipedia.org/wiki/Locarno)
 - [Wiki: Locarno Film Festival](https://en.wikipedia.org/wiki/Locarno_Festival)
 
+![Locarno](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-2/img/IMGP6104.jpg "Locarno")
+
 
 ## Verzasca Dam
 
@@ -43,6 +45,7 @@
 - [Pilatus PC-6 Turbo-Porter](https://www.vtg.admin.ch/de/einsatzmittel/luft/pc-6-turbo-porter.html)
 - [Wiki: Contra Dam](https://en.wikipedia.org/wiki/Contra_Dam)
 
+GoldenEye opening scene ([YouTube](https://www.youtube.com/watch?v=mSvuHSqqGSw)):
 [![GoldenEye opening scene](https://img.youtube.com/vi/mSvuHSqqGSw/0.jpg)](https://www.youtube.com/watch?v=mSvuHSqqGSw "GoldenEye opening scene")
 
 ![Verzasca Dam](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-2/img/IMGP6174.JPG "Verzasca Dam")
@@ -56,6 +59,10 @@
 - The **first traces of settlement **in the area are from the **early 2nd millennium BC**, in its southern part
 
 - [Wiki: Valle Verzasca](https://en.wikipedia.org/wiki/Valle_Verzasca)
+
+![Versasca](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-2/img/IMGP6215.jpg "Versasca")
+
+![Versasca](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-2/img/IMGP6196.jpg "Versasca")
 
 
 ## Corippo
@@ -92,7 +99,10 @@
 - [Wiki: Furka Pass](https://en.wikipedia.org/wiki/Furka_Pass)
 - [On the Tracks of 007](https://www.onthetracksof007.com)
 
+Bond car chase through Furka Pass ([YouTube](https://www.youtube.com/watch?v=3RdK51Igeqc)):
 [![Bond car chase through Furka Pass in Switzerland](https://img.youtube.com/vi/3RdK51Igeqc/0.jpg)](https://www.youtube.com/watch?v=3RdK51Igeqc "Bond car chase through Furka Pass in Switzerland")
+
+![Furka Pass](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-2/img/APC_5008.jpg "Furka Pass")
 
 
 ## Munster Airfield
@@ -138,6 +148,10 @@ Building of a new asphalt runway (with fancy music ;))
 - [James Bond Shooting Locations](https://routes.tips/blog/alps_007_james_bond_shooting_locations)
 - [Wiki: Schilthorn](https://en.wikipedia.org/wiki/Schilthorn)
 
+On Her Majestys Secret Service - Assault on Piz Gloria ([YouTube](https://www.youtube.com/watch?v=P2pqUKtQ-_8)):
+[![On Her Majestys Secret Service - Assault on Piz Gloria](https://img.youtube.com/vi/P2pqUKtQ-_8/0.jpg)](https://www.youtube.com/watch?v=P2pqUKtQ-_8 "On Her Majestys Secret Service - Assault on Piz Gloria") 
+
+OHMSS: Interviews with stuntmen, cameramen and extras ([YouTube](https://www.youtube.com/watch?v=ILnD3VUi714)):
 [![OHMSS: Interviews with stuntmen, cameramen and extras - and George Lazenby](https://img.youtube.com/vi/ILnD3VUi714/0.jpg)](https://www.youtube.com/watch?v=ILnD3VUi714 "OHMSS: Interviews with stuntmen, cameramen and extras - and George Lazenby") 
 
 
@@ -163,6 +177,10 @@ Building of a new asphalt runway (with fancy music ;))
 - Since **2005** the **Greenfield (Music) Festival** takes place
 - [Wiki: Interlaken Air Base](https://en.wikipedia.org/wiki/Interlaken_Air_Base)
 
+
+## Thun
+
+![Thun](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-2/img/APC_0041.jpg "Thun")
 
 ## Bern-Belp Airport (LSZB / LSMB)
 
