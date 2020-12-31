@@ -61,9 +61,9 @@ GoldenEye opening scene ([YouTube](https://www.youtube.com/watch?v=mSvuHSqqGSw))
 
 - [Wiki: Valle Verzasca](https://en.wikipedia.org/wiki/Valle_Verzasca)
 
-![Versasca](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-2/img/IMGP6215.jpg "Versasca")
+![Versasca](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-2/img/IMGP6215.JPG "Versasca")
 
-![Versasca](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-2/img/IMGP6196.jpg "Versasca")
+![Versasca](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-2/img/IMGP6196.JPG "Versasca")
 
 
 ## Corippo
@@ -104,7 +104,7 @@ Bond car chase through Furka Pass ([YouTube](https://www.youtube.com/watch?v=3Rd
 
 [![Bond car chase through Furka Pass in Switzerland](https://img.youtube.com/vi/3RdK51Igeqc/0.jpg)](https://www.youtube.com/watch?v=3RdK51Igeqc "Bond car chase through Furka Pass in Switzerland")
 
-![Furka Pass](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-2/img/APC_5008.jpg "Furka Pass")
+![Furka Pass](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-2/img/APC_5008.JPG "Furka Pass")
 
 
 ## Munster Airfield
@@ -155,6 +155,7 @@ On Her Majestys Secret Service - Assault on Piz Gloria ([YouTube](https://www.yo
 [![On Her Majestys Secret Service - Assault on Piz Gloria](https://img.youtube.com/vi/P2pqUKtQ-_8/0.jpg)](https://www.youtube.com/watch?v=P2pqUKtQ-_8 "On Her Majestys Secret Service - Assault on Piz Gloria") 
 
 OHMSS: Interviews with stuntmen, cameramen and extras ([YouTube](https://www.youtube.com/watch?v=ILnD3VUi714)):
+
 [![OHMSS: Interviews with stuntmen, cameramen and extras - and George Lazenby](https://img.youtube.com/vi/ILnD3VUi714/0.jpg)](https://www.youtube.com/watch?v=ILnD3VUi714 "OHMSS: Interviews with stuntmen, cameramen and extras - and George Lazenby") 
 
 
@@ -183,7 +184,7 @@ OHMSS: Interviews with stuntmen, cameramen and extras ([YouTube](https://www.you
 
 ## Thun
 
-![Thun](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-2/img/APC_0041.jpg "Thun")
+![Thun](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-2/img/APC_0041.JPG "Thun")
 
 ## Bern-Belp Airport (LSZB / LSMB)
 
