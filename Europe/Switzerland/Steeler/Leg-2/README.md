@@ -46,6 +46,7 @@
 - [Wiki: Contra Dam](https://en.wikipedia.org/wiki/Contra_Dam)
 
 GoldenEye opening scene ([YouTube](https://www.youtube.com/watch?v=mSvuHSqqGSw)):
+
 [![GoldenEye opening scene](https://img.youtube.com/vi/mSvuHSqqGSw/0.jpg)](https://www.youtube.com/watch?v=mSvuHSqqGSw "GoldenEye opening scene")
 
 ![Verzasca Dam](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-2/img/IMGP6174.JPG "Verzasca Dam")
@@ -100,6 +101,7 @@ GoldenEye opening scene ([YouTube](https://www.youtube.com/watch?v=mSvuHSqqGSw))
 - [On the Tracks of 007](https://www.onthetracksof007.com)
 
 Bond car chase through Furka Pass ([YouTube](https://www.youtube.com/watch?v=3RdK51Igeqc)):
+
 [![Bond car chase through Furka Pass in Switzerland](https://img.youtube.com/vi/3RdK51Igeqc/0.jpg)](https://www.youtube.com/watch?v=3RdK51Igeqc "Bond car chase through Furka Pass in Switzerland")
 
 ![Furka Pass](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-2/img/APC_5008.jpg "Furka Pass")
@@ -149,6 +151,7 @@ Building of a new asphalt runway (with fancy music ;))
 - [Wiki: Schilthorn](https://en.wikipedia.org/wiki/Schilthorn)
 
 On Her Majestys Secret Service - Assault on Piz Gloria ([YouTube](https://www.youtube.com/watch?v=P2pqUKtQ-_8)):
+
 [![On Her Majestys Secret Service - Assault on Piz Gloria](https://img.youtube.com/vi/P2pqUKtQ-_8/0.jpg)](https://www.youtube.com/watch?v=P2pqUKtQ-_8 "On Her Majestys Secret Service - Assault on Piz Gloria") 
 
 OHMSS: Interviews with stuntmen, cameramen and extras ([YouTube](https://www.youtube.com/watch?v=ILnD3VUi714)):
