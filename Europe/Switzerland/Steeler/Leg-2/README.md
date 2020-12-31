@@ -14,6 +14,8 @@
 | Calendar        | [Tell Tours - Locarno to Bern.ics](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-2/Tell%20Tours%20-%20Locarno%20to%20Bern.ics)
 | Community       | [Switzerland Leg 2](https://forums.flightsimulator.com/t/xyz/123) @todo proper URL
 
+![Flightplan](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-2/img/ILSZL-LSZB-Flightplan.jpg "Flightplan")
+
 
 # Locarno (LSZL) to Bern Belp (LSZB)
 
