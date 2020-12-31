@@ -35,15 +35,17 @@
 
 - The **Contra Dam**, commonly known as the **Verzasca Dam** and the Locarno Dam, is an arch dam on the Verzasca River in the **Val Verzasca**
 - It was constructed between **1961 and 1965** 
-- Starting shortly after its reservoir was filled, a series of earthquakes related to its water load occurred until 1971. 
+- Starting shortly after its reservoir was filled, a **series of earthquakes** related to its water load occurred **until 1971**
 - The dam became a popular bungee jumping venue after a James Bond stuntman jumped off it in the **opening scene of the 1995 film GoldenEye**; 
 - a stunt voted as the **best movie stunt of all time in a 2002** Sky Movies poll
 - With a **Pilatus PC-6/B2-H4 Turbo-Porter**
+- [Ai & Space - Airplanes of James Bond](https://www.airspacemag.com/daily-planet/airplanes-james-bond-180957171/)
+- [Pilatus PC-6 Turbo-Porter](https://www.vtg.admin.ch/de/einsatzmittel/luft/pc-6-turbo-porter.html)
+- [Wiki: Contra Dam](https://en.wikipedia.org/wiki/Contra_Dam)
 
 [![GoldenEye opening scene](https://img.youtube.com/vi/mSvuHSqqGSw/0.jpg)](https://www.youtube.com/watch?v=mSvuHSqqGSw "GoldenEye opening scene")
 
-- [Ai & Space - Airplanes of James Bond](https://www.airspacemag.com/daily-planet/airplanes-james-bond-180957171/)
-- [Wiki: Contra Dam](https://en.wikipedia.org/wiki/Contra_Dam)
+![Verzasca Dam](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-2/img/IMGP6174.JPG "Verzasca Dam")
 
 
 ## Valle Versasca
