@@ -11,7 +11,7 @@
 | Weather         | Few Clouds
 | Simulation Time | 1400 local
 | Flight Plan     | [Tell Tours - Geneva to Samedan.pln](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-4/Tell%20Tours%20-%20Bern%20to%20Geneva.pln)
-| Calendar        | [Tell Tours - Geneva to Samedan.ics](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-4/Tell%20Tours%20-%20Bern%20to%20Geneva.ics)
+| Calendar        | [Tell Tours - Geneva to Samedan.ics](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-4/Tell%20Tours%20-%20Geneva%20to%20Samedan.ics)
 | FS Formum       | [Switzerland Leg 4](https://forums.flightsimulator.com/t/xyz/123) @todo proper URL
 
 ![Flightplan](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-4/img/LSGG-LSGG-Flightplan.jpg "Flightplan")
