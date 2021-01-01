@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Belp to Geneva</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8000.000</CruisingAlt>
+        <DepartureID>LSZB</DepartureID>
+        <DepartureLLA>N46° 54' 43.45",E7° 29' 49.26",+001671.50</DepartureLLA>
+        <DestinationID>LSGG</DestinationID>
+        <DestinationLLA>N46° 14' 17.07",E6° 6' 32.30",+001388.00</DestinationLLA>
+        <Descr>Tell Tours - Bern Belp to Geneva</Descr>
+        <DepartureName>Belp</DepartureName>
+        <DestinationName>Geneva</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LSZB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 54' 43.45",E7° 29' 49.26",+001671.50</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <RunwayNumberFP>32</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>LSZB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Bern">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 56' 47.37",E7° 26' 39.32",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="ULMES">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N46° 57' 18.10",E7° 17' 33.50",+010000.00</WorldPosition>
+            <ICAO>
+                <ICAORegion>LS</ICAORegion>
+                <ICAOIdent>ULMES</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Murten">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 55' 42.49",E7° 7' 2.31",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Alien">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 35' 2.93",E7° 4' 56.73",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Grandvilla">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 32' 23.00",E7° 5' 3.79",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Lac de Lessoc">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 29' 52.09",E7° 2' 59.73",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Allieres">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 28' 11.69",E7° 0' 29.01",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Les Cases">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 27' 17.25",E6° 59' 33.93",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Freddy">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 25' 55.61",E6° 54' 33.03",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Geneva">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 30' 31.23",E6° 38' 2.64",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Vufflens">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 31' 29.37",E6° 28' 33.59",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Geneva">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 11' 59.40",E6° 9' 0.85",+004040.80</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="D045B">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N46° 16' 37.41",E6° 10' 0.44",+002494.18</WorldPosition>
+            <ICAO>
+                <ICAORegion>LS</ICAORegion>
+                <ICAOIdent>D045B</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LSGG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 14' 17.07",E6° 6' 32.30",+001388.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LSGG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
