@@ -28,3 +28,9 @@
 
 ![Example](https://github.com/till213/Tell-Tours/blob/main/Template/Leg-1/img/example.jpg "New York (example)")
 
+
+## Introduction to Markdown Syntax
+
+- [Markdown Tutorial](https://www.markdowntutorial.com/)
+- [GitHub: Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+  
