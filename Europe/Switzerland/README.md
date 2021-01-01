@@ -1,6 +1,6 @@
 # Switzerland
 
-The following guides offer the following tours:
+The following guided tours exist:
 
 - [Steeler](https://github.com/till213/Tell-Tours/tree/main/Europe/Switzerland/Steeler)
   
