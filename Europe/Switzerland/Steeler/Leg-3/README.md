@@ -1,4 +1,4 @@
-# "C'est la Suisse" - Leg 3
+# "Smoke on the Water" - Leg 3
 
 | What            | Description
 | --------------- | ----------------
