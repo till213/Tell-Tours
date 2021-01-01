@@ -17,4 +17,4 @@
 ![Flightplan](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-4/img/LSGG-LSGG-Flightplan.jpg "Flightplan")
 
 
-# Geneva (LSGG) to Samedan (LSGG)
+# Geneva (LSGG) to Samedan (LSZS)
