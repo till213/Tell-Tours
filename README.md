@@ -12,6 +12,12 @@ This repository shall both serve as an archive for flight plans (e.g. &ast;.pln 
 
 The [Template](https://github.com/till213/Tell-Tours/tree/main/Template) may be useful to create new flight descriptions.
 
+## Tours
+
+Guided tours in the following continents exist:
+
+- [Europe](https://github.com/till213/Tell-Tours/tree/main/Europe)
+
 ## Resources
 
 * [Little Navmap](https://albar965.github.io/littlenavmap.html)
