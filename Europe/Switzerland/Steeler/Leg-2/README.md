@@ -12,7 +12,7 @@
 | Simulation Time | 0800 local
 | Flight Plan     | [Tell Tours - Locarno to Bern.pln](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-2/Tell%20Tours%20-%20Locarno%20to%20Bern.pln)
 | Calendar        | [Tell Tours - Locarno to Bern.ics](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-2/Tell%20Tours%20-%20Locarno%20to%20Bern.ics)
-| Community       | [Switzerland Leg 2](https://forums.flightsimulator.com/t/xyz/123) @todo proper URL
+| FS Formum       | [Switzerland Leg 2](https://forums.flightsimulator.com/t/xyz/123) @todo proper URL
 
 ![Flightplan](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-2/img/LSZL-LSZB-Flightplan.jpg "Flightplan")
 
@@ -168,7 +168,7 @@ OHMSS: Interviews with stuntmen, cameramen and extras ([YouTube](https://www.you
 - Current rules: around 20 checkpoints
 - **Sir Arnold Lunn**, founder of Alpine racing: "The Inferno remains today the only important Alpine race which is a real test of Alpine Skiing, for though there is usually a piste down to Mürren, the rest of the **race down to Lauterbrunnen** is almost always run on **natural snow**."
 - Good skiers require 45 minutes on average, the winners in around 15 minutes
-- [Inferno Race Rules](https://www.inferno-muerren.ch/de/ausgabe-2021/reglement)
+- [Inferno Race Rules](https://www.inferno-muerren.ch/en/edition-2021/regulations)
 - [Wiki: Inferno Race](https://de.wikipedia.org/wiki/Internationales_Inferno-Rennen_M%C3%BCrren)
 
 
