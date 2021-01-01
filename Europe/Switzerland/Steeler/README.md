@@ -2,7 +2,7 @@
 
 A flight of four legs will guide us through Switzerland:
 
-* [Zurich to Locarno - "From North to Sout"](https://github.com/till213/Tell-Tours/tree/main/Europe/Switzerland/Steeler/Leg-1)
+* [Zurich to Locarno - "From North to South"](https://github.com/till213/Tell-Tours/tree/main/Europe/Switzerland/Steeler/Leg-1)
 * [Locarno to Bern Belp - "On Her Majesty's Secret Service"](https://github.com/till213/Tell-Tours/tree/main/Europe/Switzerland/Steeler/Leg-2)
 * [Bern Belp to Geneva - "Smoke on the Water"](https://github.com/till213/Tell-Tours/tree/main/Europe/Switzerland/Steeler/Leg-3)
 * [Geneva to Samedan - "Hot Potatoe"](https://github.com/till213/Tell-Tours/tree/main/Europe/Switzerland/Steeler/Leg-4)
