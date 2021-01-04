@@ -1,4 +1,4 @@
-# "Hot Potatoe" - Leg 4
+# "Hot Potato" - Leg 4
 
 | What            | Description
 | --------------- | ----------------
