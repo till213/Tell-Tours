@@ -4,7 +4,7 @@
 | --------------- | ----------------
 | Date            | January 15 2021
 | Time            | 1930Z
-| Server          | Europe West
+| Server          | North Europe
 | Multiplayer     | All
 | Voice Chat      | Event channel on the official FS2020 Discord server https://discord.gg/msfs
 | Aircraft        | Cub Crafter X Cub (cruising speed will be between 90-100 knots)
