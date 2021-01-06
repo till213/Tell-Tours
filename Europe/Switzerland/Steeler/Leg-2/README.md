@@ -114,13 +114,19 @@ Bond car chase through Furka Pass ([YouTube](https://www.youtube.com/watch?v=3Rd
 - **Runway 23**
 - [Homepage](https://www.flugplatzmuenster.ch/)
 
-An instructional video filmed in Munster about the Swiss Airforce intercepting a glider which wrongly enters a class C MIL ON airspace:
+Approach to Münster (LSPU) with a Cessna 172 ([YouTube](https://www.youtube.com/watch?v=qSdWdvFClTA)):
+
+[![Experience an Approach to Münster LSPU | Switzerland From Above](https://img.youtube.com/vi/qSdWdvFClTA/0.jpg)](https://www.youtube.com/watch?v=qSdWdvFClTA "Experience an Approach to Münster LSPU | Switzerland From Above") 
+
+An instructional video filmed in Munster about the Swiss Airforce intercepting a glider which wrongly enters a class C MIL ON airspace ([YouTube](https://www.youtube.com/watch?v=sxCm6UBtK1Q)):
 
 [![Luftraumverletzung über den Alpen im Luftraum C bei MIL ON - Live Identifikation](https://img.youtube.com/vi/sxCm6UBtK1Q/0.jpg)](https://www.youtube.com/watch?v=sxCm6UBtK1Q "Luftraumverletzung über den Alpen im Luftraum C bei MIL ON - Live Identifikation") 
 
-Building of a new asphalt runway (with fancy music ;))
+Building of a new asphalt runway (with fancy music ;)) ([YouTube](https://www.youtube.com/watch?v=-Z6un63WwFU))
 
 [![Asphalteinbau und Markierungen Flugplatz Münster 2018](https://img.youtube.com/vi/-Z6un63WwFU/0.jpg)](https://www.youtube.com/watch?v=-Z6un63WwFU "Asphalteinbau und Markierungen Flugplatz Münster 2018")
+
+
 
 
 ## Rhône
@@ -182,9 +188,22 @@ OHMSS: Interviews with stuntmen, cameramen and extras ([YouTube](https://www.you
 - [Wiki: Interlaken Air Base](https://en.wikipedia.org/wiki/Interlaken_Air_Base)
 
 
+## Farm Building
+
+- Film location of On Her Majesty's Secret Service
+- Bond proposes to Tracy
+
+
 ## Thun
 
 ![Thun](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-2/img/APC_0041.JPG "Thun")
+
+- Outflow into river Aare
+- 11th biggest town in Switzerland (around 45,000 population)
+- Thun Castle built in the 12th century, today houses the Thun Castle museum
+- [Wiki: Thun](https://en.wikipedia.org/wiki/Thun)
+- [Wiki: Thun Castle](https://en.wikipedia.org/wiki/Thun_Castle)
+
 
 ## Bern-Belp Airport (LSZB / LSMB)
 
