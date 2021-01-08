@@ -52,20 +52,6 @@ GoldenEye opening scene ([YouTube](https://www.youtube.com/watch?v=mSvuHSqqGSw))
 ![Verzasca Dam](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-2/img/IMGP6174.JPG "Verzasca Dam")
 
 
-## Valle Versasca
-
-- As of 2004, total population of **3,200**
-- The valley is formed by the **Verzasca River**
-- Valle Verzasca extends over a **length of 25 kilometres (16 mi)** in north–south direction
-- The **first traces of settlement **in the area are from the **early 2nd millennium BC**, in its southern part
-
-- [Wiki: Valle Verzasca](https://en.wikipedia.org/wiki/Valle_Verzasca)
-
-![Versasca](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-2/img/IMGP6215.JPG "Versasca")
-
-![Versasca](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-2/img/IMGP6196.JPG "Versasca")
-
-
 ## Corippo
 
 - **Corippo** is a former municipality in the district of Locarno
@@ -82,10 +68,24 @@ GoldenEye opening scene ([YouTube](https://www.youtube.com/watch?v=mSvuHSqqGSw))
 - [Wiki: Corippo](https://en.wikipedia.org/wiki/Corippo)
 
 
+## Valle Versasca
+
+- As of 2004, total population of **3,200**
+- The valley is formed by the **Verzasca River**
+- Valle Verzasca extends over a **length of 25 kilometres (16 mi)** in north–south direction
+- The **first traces of settlement **in the area are from the **early 2nd millennium BC**, in its southern part
+
+- [Wiki: Valle Verzasca](https://en.wikipedia.org/wiki/Valle_Verzasca)
+
+![Versasca](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-2/img/IMGP6215.JPG "Versasca")
+
+![Versasca](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-2/img/IMGP6196.JPG "Versasca")
+
+
 ## Val Bedretto
 
 - Valley from **Nufenen Pass** to **Airolo**
-- Origin of the T**icino River**
+- Origin of the **Ticino River**
 - In the north: **Saint-Gotthard Massif**, in the south: **Ticino Alps**
 - James Bond **Goldfinger**: Bond ditches Tilly
 - [Wiki: Val Bedretto](https://de.wikipedia.org/wiki/Val_Bedretto)
