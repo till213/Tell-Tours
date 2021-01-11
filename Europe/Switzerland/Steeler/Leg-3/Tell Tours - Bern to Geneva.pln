@@ -41,6 +41,13 @@
             <ATCWaypointType>User</ATCWaypointType>
             <WorldPosition>N46° 55' 42.49",E7° 7' 2.31",+010000.00</WorldPosition>
         </ATCWaypoint>
+        <ATCWaypoint id="LSMP">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 50' 35.14",E6° 54' 56.69",+010000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LSMP</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
         <ATCWaypoint id="Alien">
             <ATCWaypointType>User</ATCWaypointType>
             <WorldPosition>N46° 35' 2.93",E7° 4' 56.73",+010000.00</WorldPosition>

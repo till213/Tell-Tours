@@ -4,7 +4,7 @@
     <Header>
       <FlightplanType>VFR</FlightplanType>
       <CruisingAlt>10000</CruisingAlt>
-      <CreationDate>2020-12-28T15:10:30</CreationDate>
+      <CreationDate>2021-01-11T18:49:51</CreationDate>
       <FileVersion>1.0</FileVersion>
       <ProgramName>Little Navmap</ProgramName>
       <ProgramVersion>2.6.6</ProgramVersion>
@@ -26,17 +26,17 @@
       <Waypoint>
         <Ident>Paradeplatz</Ident>
         <Type>USER</Type>
-        <Pos Lon="8.539186" Lat="47.369766" Alt="3580.19"/>
+        <Pos Lon="8.539186" Lat="47.369766" Alt="3261.40"/>
       </Waypoint>
       <Waypoint>
         <Ident>Tinas Turn</Ident>
         <Type>USER</Type>
-        <Pos Lon="8.580511" Lat="47.313412" Alt="5040.15"/>
+        <Pos Lon="8.580511" Lat="47.313412" Alt="4508.08"/>
       </Waypoint>
       <Waypoint>
         <Ident>Albispass</Ident>
         <Type>USER</Type>
-        <Pos Lon="8.521462" Lat="47.275982" Alt="6311.92"/>
+        <Pos Lon="8.521462" Lat="47.275982" Alt="5594.06"/>
       </Waypoint>
       <Waypoint>
         <Ident>Lucerne</Ident>
@@ -530,6 +530,12 @@
         <Pos Lon="7.117309" Lat="46.928471" Alt="10000.00"/>
       </Waypoint>
       <Waypoint>
+        <Name>Militärflugplatz Payerne</Name>
+        <Ident>LSMP</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="6.915748" Lat="46.843094" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
         <Ident>Alien</Ident>
         <Type>USER</Type>
         <Pos Lon="7.082425" Lat="46.584148" Alt="10000.00"/>
@@ -572,13 +578,13 @@
       <Waypoint>
         <Ident>Geneva</Ident>
         <Type>USER</Type>
-        <Pos Lon="6.150236" Lat="46.199833" Alt="4670.97"/>
+        <Pos Lon="6.150236" Lat="46.199833" Alt="4040.80"/>
       </Waypoint>
       <Waypoint>
         <Ident>D045B</Ident>
         <Region>LS</Region>
         <Type>WAYPOINT</Type>
-        <Pos Lon="6.166789" Lat="46.277058" Alt="2756.95"/>
+        <Pos Lon="6.166789" Lat="46.277058" Alt="2494.17"/>
       </Waypoint>
       <Waypoint>
         <Name>Genf</Name>

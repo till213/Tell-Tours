@@ -127,8 +127,6 @@ Building of a new asphalt runway (with fancy music ;)) ([YouTube](https://www.yo
 [![Asphalteinbau und Markierungen Flugplatz Münster 2018](https://img.youtube.com/vi/-Z6un63WwFU/0.jpg)](https://www.youtube.com/watch?v=-Z6un63WwFU "Asphalteinbau und Markierungen Flugplatz Münster 2018")
 
 
-
-
 ## Rhône
 
 - The Rhône is **one of the major rivers of Europe** and has **twice the average discharge of the Loire** (which is the **longest French river**)
