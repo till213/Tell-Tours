@@ -16,5 +16,12 @@
 
 ![Flightplan](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-4/img/LSGG-LSGG-Flightplan.jpg "Flightplan")
 
+## Optional Sceneries
+
+| Description                         | Download
+| ----------------------------------- | ---------------------------------------------------------------------
+| Saint Moritz - Samedan Airport LSZS | https://flightsim.to/file/3361/saint-moritz-samedan-airport-lszs-v1-0
+
+
 
 # Geneva (LSGG) to Samedan (LSZS)

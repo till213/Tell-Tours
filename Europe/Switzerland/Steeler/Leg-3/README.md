@@ -16,6 +16,16 @@
 
 ![Flightplan](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-3/img/LSZB-LSGG-Flightplan.jpg "Flightplan")
 
+## Optional Sceneries
+
+| Description                 | Download
+| --------------------------- | ----------------------------------------------------------
+| Bern                        | https://flightsim.to/file/2181/bern-switzerland
+| Lausanne                    | https://flightsim.to/file/2516/lausanne-switzerland
+| Château de Vufflens         | https://flightsim.to/file/2842/chateau-de-vufflens-vufflens-castle-suisse-switzerland
+| Geneva                      | https://flightsim.to/file/2848/geneva-city-switzerland
+| Geneva LSGG Aerial Textures | https://flightsim.to/file/4516/geneva-lsgg-aerial-textures
+
 
 # Bern-Belp (LSZB) to Geneva (LSGG)
 
@@ -56,3 +66,12 @@
 * According to the **consociational model** of democracy adopted in Switzerland, left-wing, right-wing and centrist parties all **share executive power**
 
 * [admin.ch: Direct Democracy](https://www.eda.admin.ch/aboutswitzerland/en/home/politik/uebersicht/direkte-demokratie.html)
+
+
+## Lake Geneva
+
+* Lake Geneva is a deep lake on the **north side of the Alps**, shared between Switzerland and France
+* It is one of the **largest lakes in Western Europe** and the largest on the course of the **Rhône**
+* The shore between Nyon and Lausanne is called La Côte because it is flatter
+* Between **Lausanne and Vevey** it is called **Lavaux** and is famous for its **hilly vineyards**
+* [Wiki: Lake Geneva](https://en.wikipedia.org/wiki/Lake_Geneva)

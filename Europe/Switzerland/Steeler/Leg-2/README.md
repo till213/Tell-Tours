@@ -16,6 +16,12 @@
 
 ![Flightplan](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-2/img/LSZL-LSZB-Flightplan.jpg "Flightplan")
 
+## Optional Sceneries
+
+| Description                 | Download
+| --------------------------- | ----------------------------------------------------------
+| Thun                        | https://flightsim.to/file/2523/thun
+
 
 # Locarno (LSZL) to Bern Belp (LSZB)
 
