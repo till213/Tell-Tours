@@ -48,6 +48,29 @@
                 <ICAOIdent>LSMP</ICAOIdent>
             </ICAO>
         </ATCWaypoint>
+        <ATCWaypoint id="Chambrelie">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 58' 2.09",E6° 48' 45.05",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Champ du Moulin">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 57' 35.53",E6° 46' 30.00",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Creux du Van">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 56' 1.67",E6° 43' 14.10",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LSGY">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 45' 42.90",E6° 36' 47.53",+010000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LSGY</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Bulle">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 37' 2.66",E7° 3' 28.97",+010000.00</WorldPosition>
+        </ATCWaypoint>
         <ATCWaypoint id="Alien">
             <ATCWaypointType>User</ATCWaypointType>
             <WorldPosition>N46° 35' 2.93",E7° 4' 56.73",+010000.00</WorldPosition>
@@ -68,11 +91,11 @@
             <ATCWaypointType>User</ATCWaypointType>
             <WorldPosition>N46° 27' 17.25",E6° 59' 33.93",+010000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="Freddy">
+        <ATCWaypoint id="Freddie">
             <ATCWaypointType>User</ATCWaypointType>
             <WorldPosition>N46° 25' 55.61",E6° 54' 33.03",+010000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="Geneva">
+        <ATCWaypoint id="Lausanne">
             <ATCWaypointType>User</ATCWaypointType>
             <WorldPosition>N46° 30' 31.23",E6° 38' 2.64",+010000.00</WorldPosition>
         </ATCWaypoint>
@@ -83,6 +106,10 @@
         <ATCWaypoint id="Geneva">
             <ATCWaypointType>User</ATCWaypointType>
             <WorldPosition>N46° 11' 59.40",E6° 9' 0.85",+004040.80</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="CERN">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 13' 56.84",E6° 3' 7.58",+004403.96</WorldPosition>
         </ATCWaypoint>
         <ATCWaypoint id="D045B">
             <ATCWaypointType>Intersection</ATCWaypointType>

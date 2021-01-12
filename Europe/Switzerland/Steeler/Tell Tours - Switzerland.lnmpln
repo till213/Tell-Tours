@@ -4,7 +4,7 @@
     <Header>
       <FlightplanType>VFR</FlightplanType>
       <CruisingAlt>10000</CruisingAlt>
-      <CreationDate>2021-01-11T18:49:51</CreationDate>
+      <CreationDate>2021-01-12T16:20:57</CreationDate>
       <FileVersion>1.0</FileVersion>
       <ProgramName>Little Navmap</ProgramName>
       <ProgramVersion>2.6.6</ProgramVersion>
@@ -536,6 +536,32 @@
         <Pos Lon="6.915748" Lat="46.843094" Alt="10000.00"/>
       </Waypoint>
       <Waypoint>
+        <Ident>Chambrelien</Ident>
+        <Type>USER</Type>
+        <Pos Lon="6.812513" Lat="46.967247" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Champ du Moulin</Ident>
+        <Type>USER</Type>
+        <Pos Lon="6.775000" Lat="46.959869" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Creux du Van</Ident>
+        <Type>USER</Type>
+        <Pos Lon="6.720583" Lat="46.933796" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Yverdon-Les-Bains</Name>
+        <Ident>LSGY</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="6.613204" Lat="46.761917" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Bulle</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.058047" Lat="46.617405" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
         <Ident>Alien</Ident>
         <Type>USER</Type>
         <Pos Lon="7.082425" Lat="46.584148" Alt="10000.00"/>
@@ -561,7 +587,7 @@
         <Pos Lon="6.992759" Lat="46.454792" Alt="10000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>Freddy</Ident>
+        <Ident>Freddie</Ident>
         <Type>USER</Type>
         <Pos Lon="6.909175" Lat="46.432114" Alt="10000.00"/>
       </Waypoint>
@@ -578,7 +604,12 @@
       <Waypoint>
         <Ident>Geneva</Ident>
         <Type>USER</Type>
-        <Pos Lon="6.150236" Lat="46.199833" Alt="4040.80"/>
+        <Pos Lon="6.150236" Lat="46.199833" Alt="5788.98"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>CERN</Ident>
+        <Type>USER</Type>
+        <Pos Lon="6.052105" Lat="46.232456" Alt="4296.59"/>
       </Waypoint>
       <Waypoint>
         <Ident>D045B</Ident>
