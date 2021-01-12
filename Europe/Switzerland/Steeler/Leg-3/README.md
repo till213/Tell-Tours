@@ -146,10 +146,41 @@
 ## Payerne (LSMP)
 
 * Elevation: 447 m (1467 ft)
+* Runway 23 (right)
 * On **8 July 2010**, Payerne Air Base was the location from which the long-range experimental **solar-powered aircraft Solar Impulse 1** achieved the **world's first manned 26-hour solar-powered flight**
 * Payerne also became the **home base** for the **successor Solar Impulse 2** (HB-SIB) aircraft, with the aircraft's first flight made from Payerne on 2 June 2014.
 * Began the **journey around the world** from Al Bateen Executive Airport on **9 March 2015**
 * [Wiki: Solar Impulse 2](https://en.wikipedia.org/wiki/Solar_Impulse#Solar_Impulse_2_(HB-SIB))
+
+
+## Lake Neuchâtel
+
+* **Lake Neuchâtel** is a lake primarily in Romandy, in the French-speaking part of Switzerland
+* The lake lies mainly in the **canton of Neuchâtel**, but is also shared by the cantons of **Vaud**, **Fribourg**, and **Bern**
+* With a surface of **218.3 km2** (84 sq mi), Lake Neuchâtel is the **largest lake located entirely in Switzerland**
+* [Wiki: Lake Neuchâtel](https://en.wikipedia.org/wiki/Lake_Neuch%C3%A2tel)
+
+
+## Creux du Van
+
+* The **Creux du Van** is a natural rocky cirque approximately **1,400 metres wide and 150 metres deep**
+* It is located in the **Val de Travers** district, in the canton of **Neuchâtel**
+* [Wiki: Creux du van](https://en.wikipedia.org/wiki/Creux_du_Van)
+
+
+## Yverdon-les-Bains
+
+* **Canton of Vaud**
+* The **population** of Yverdon-les-Bains, as of December 2019, was **30,156**
+* It is known for its **thermal springs** and is an important regional centre for **commerce** and **tourism**
+
+
+## Aerodrome Yverdon
+
+* Runway 05
+* Elevation: 433 m (1,421 ft)
+* https://lsgy.ch/
+
 
 ## Gruyères
 
@@ -166,6 +197,14 @@
 * [Wiki: Gruyères](https://en.wikipedia.org/wiki/Gruy%C3%A8res)
 * [Wiki: Gruyères Castle](https://en.wikipedia.org/wiki/Gruy%C3%A8res_Castle)
 * [IMDb: Alien](https://www.imdb.com/title/tt0078748/?ref_=fn_al_tt_1)
+
+
+## Saane/Sarine
+
+* The Sarine (in French) or Saane (in German) is a **major river of Switzerland**
+* It is **128 km** (80 mi) long
+* It is a tributary of the Aare
+* [Wiki: Saane/Sarine](https://en.wikipedia.org/wiki/Saane/Sarine)
 
 
 ## Montreux
