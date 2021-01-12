@@ -192,7 +192,6 @@
 ![Battle of Morgarten Monument](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-1/img/APC_7678.JPG "Battle of Morgarten monument")
 
 
-
 ## SEMPACHERSEE
 
 - The **Battle of Sempach** was fought on **9 July 1386**, ...
