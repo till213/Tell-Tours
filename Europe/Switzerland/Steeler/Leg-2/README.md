@@ -14,7 +14,7 @@
 | Calendar        | [Tell Tours - Locarno to Bern.ics](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-2/Tell%20Tours%20-%20Locarno%20to%20Bern.ics)
 | FS Forum        | [[Tell Tours] Switzerland - "On Her Majesty's Secret Service"](https://forums.flightsimulator.com/t/tell-tours-switzerland-on-her-majestys-secret-service-leg-2/345001)
 
-![Flightplan](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-2/img/LSZL-LSZB-Flightplan.jpg "Flightplan")
+![Flight plan](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-2/img/LSZL-LSZB-Flightplan.jpg "Flight plan")
 
 ## Optional Sceneries
 
