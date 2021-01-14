@@ -12,7 +12,7 @@
 | Simulation Time | 1630 local (1530 UTC)
 | Flight Plan     | [Tell Tours - Geneva to Samedan.pln](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-4/Tell%20Tours%20-%20Bern%20to%20Geneva.pln)
 | Calendar        | [Tell Tours - Geneva to Samedan.ics](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-4/Tell%20Tours%20-%20Geneva%20to%20Samedan.ics)
-| FS Formum       | [[Tell Tours] Switzerland - "Hot Potato"](https://forums.flightsimulator.com/t/tell-tours-switzerland-hot-potato-leg-4/345071/)
+| FS Forum        | [[Tell Tours] Switzerland - "Hot Potato"](https://forums.flightsimulator.com/t/tell-tours-switzerland-hot-potato-leg-4/345071/)
 
 ![Flight plan](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-4/img/LSGG-LSZS-Flightplan.jpg "Flight plan")
 

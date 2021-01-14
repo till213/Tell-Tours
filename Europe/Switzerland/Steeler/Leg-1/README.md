@@ -12,7 +12,7 @@
 | Simulation Time | 0800 local
 | Flight Plan     | [Tell Tours - Zurich to Locarno.pln](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-1/Tell%20Tours%20-%20Zurich%20to%20Locarno.pln)
 | Calendar        | [Tell Tours - Zurich to Locarno.ics](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-1/Tell%20Tours%20-%20Zurich%20to%20Locarno.ics)
-| Community       | [Switzerland Leg 1](https://forums.flightsimulator.com/t/tell-tours-switzerland-from-north-to-south-leg-1/335342)
+| FS Forum        | [Switzerland Leg 1](https://forums.flightsimulator.com/t/tell-tours-switzerland-from-north-to-south-leg-1/335342)
 
 ![Flight plan](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-1/img/LSZH-LSZL-Flightplan.jpg "Flight plan")
 
