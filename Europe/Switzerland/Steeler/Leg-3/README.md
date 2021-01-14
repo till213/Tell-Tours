@@ -14,7 +14,7 @@
 | Calendar        | [Tell Tours - Bern to Geneva.ics](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-3/Tell%20Tours%20-%20Bern%20to%20Geneva.ics)
 | FS Forum        | [[Tell Tours] Switzerland - "Smoke on the Water"](https://forums.flightsimulator.com/t/tell-tours-switzerland-smoke-on-the-water-leg-3/345068/)
 
-![Flight plan](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-3/img/LSZB-LSGG-Flightplan.jpg "Flight plan")
+![Flight plan](./img/LSZB-LSGG-Flightplan.jpg "Flight plan")
 
 ## Optional Sceneries
 
