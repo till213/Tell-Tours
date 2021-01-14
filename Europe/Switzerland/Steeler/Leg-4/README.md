@@ -14,7 +14,7 @@
 | Calendar        | [Tell Tours - Geneva to Samedan.ics](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-4/Tell%20Tours%20-%20Geneva%20to%20Samedan.ics)
 | FS Forum        | [[Tell Tours] Switzerland - "Hot Potato"](https://forums.flightsimulator.com/t/tell-tours-switzerland-hot-potato-leg-4/345071/)
 
-![Flight plan](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-4/img/LSGG-LSZS-Flightplan.jpg "Flight plan")
+![Flight plan](./img/LSGG-LSZS-Flightplan.jpg "Flight plan")
 
 ## Optional Sceneries
 

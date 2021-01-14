@@ -14,7 +14,7 @@
 | Calendar        | [Tell Tours - Locarno to Bern.ics](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-2/Tell%20Tours%20-%20Locarno%20to%20Bern.ics)
 | FS Forum        | [[Tell Tours] Switzerland - "On Her Majesty's Secret Service"](https://forums.flightsimulator.com/t/tell-tours-switzerland-on-her-majestys-secret-service-leg-2/345001)
 
-![Flight plan](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-2/img/LSZL-LSZB-Flightplan.jpg "Flight plan")
+![Flight plan](./img/LSZL-LSZB-Flightplan.jpg "Flight plan")
 
 ## Optional Sceneries
 
@@ -36,7 +36,7 @@
 - [Wiki: Locarno](https://en.wikipedia.org/wiki/Locarno)
 - [Wiki: Locarno Film Festival](https://en.wikipedia.org/wiki/Locarno_Festival)
 
-![Locarno](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-2/img/IMGP6104.jpg "Locarno")
+![Locarno](./img/IMGP6104.jpg "Locarno")
 
 
 ## Verzasca Dam
@@ -55,7 +55,7 @@ GoldenEye opening scene ([YouTube](https://www.youtube.com/watch?v=mSvuHSqqGSw))
 
 [![GoldenEye opening scene](https://img.youtube.com/vi/mSvuHSqqGSw/0.jpg)](https://www.youtube.com/watch?v=mSvuHSqqGSw "GoldenEye opening scene")
 
-![Verzasca Dam](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-2/img/IMGP6174.JPG "Verzasca Dam")
+![Verzasca Dam](./img/IMGP6174.JPG "Verzasca Dam")
 
 
 ## Corippo
@@ -83,9 +83,9 @@ GoldenEye opening scene ([YouTube](https://www.youtube.com/watch?v=mSvuHSqqGSw))
 
 - [Wiki: Valle Verzasca](https://en.wikipedia.org/wiki/Valle_Verzasca)
 
-![Versasca](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-2/img/IMGP6215.JPG "Versasca")
+![Versasca](./img/IMGP6215.JPG "Versasca")
 
-![Versasca](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-2/img/IMGP6196.JPG "Versasca")
+![Versasca](./img/IMGP6196.JPG "Versasca")
 
 
 ## Val Bedretto
@@ -110,7 +110,7 @@ Bond car chase through Furka Pass ([YouTube](https://www.youtube.com/watch?v=3Rd
 
 [![Bond car chase through Furka Pass in Switzerland](https://img.youtube.com/vi/3RdK51Igeqc/0.jpg)](https://www.youtube.com/watch?v=3RdK51Igeqc "Bond car chase through Furka Pass in Switzerland")
 
-![Furka Pass](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-2/img/APC_5008.JPG "Furka Pass")
+![Furka Pass](./img/APC_5008.JPG "Furka Pass")
 
 
 ## Munster Airfield
@@ -200,7 +200,7 @@ OHMSS: Interviews with stuntmen, cameramen and extras ([YouTube](https://www.you
 
 ## Thun
 
-![Thun](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-2/img/APC_0041.JPG "Thun")
+![Thun](./img/APC_0041.JPG "Thun")
 
 - Outflow into river Aare
 - 11th biggest town in Switzerland (around 45,000 population)

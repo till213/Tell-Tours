@@ -14,7 +14,7 @@
 | Calendar        | [Tell Tours - Zurich to Locarno.ics](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-1/Tell%20Tours%20-%20Zurich%20to%20Locarno.ics)
 | FS Forum        | [Switzerland Leg 1](https://forums.flightsimulator.com/t/tell-tours-switzerland-from-north-to-south-leg-1/335342)
 
-![Flight plan](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-1/img/LSZH-LSZL-Flightplan.jpg "Flight plan")
+![Flight plan](./img/LSZH-LSZL-Flightplan.jpg "Flight plan")
 
 # Zurich (LSZH) to Locarno (LSZL)
 
@@ -50,7 +50,7 @@
 - At a height of **126 metres (413 ft**), it **was the highest skyscraper in Switzerland** from **2011 until 2015**, ...
 - ... **when the Roche Tower in Basel** (standing at **178**** metres** (584 ft)) was finished.
 
-![Prime Tower](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-1/img/IMGP7599.JPG "Prime Tower")
+![Prime Tower](./img/IMGP7599.JPG "Prime Tower")
 
 
 ## LETZIGRUND STADION
@@ -60,7 +60,7 @@
 - On the Letzigrund track on **21 June 1960, Armin Hary** was the **first human** being to **run the 100 metres in 10,0 seconds**
 - The current capacity is 25,000 for football events, 26,000 for athletics and 50,000 for concerts.
 
-![Letzigrund Stadion](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-1/img/IMGP8046.JPG "Letzigrund Stadion")
+![Letzigrund Stadion](./img/IMGP8046.JPG "Letzigrund Stadion")
 
 
 ## MAIN STATION &amp; LANDESMUSEUM
@@ -115,9 +115,9 @@
 - During the **17th century**, it served as a **livestock market**, known as Säumärt ("**pig market**"), renamed to**Neumarkt** ("new market") **in 1819**...
 - ...and finally to its current name following the **construction of Bahnhofstrasse (1865)**
 
-![Bahnhofstrasse](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-1/img/IMGP2120.JPG "Bahnhofstrasse")
+![Bahnhofstrasse](./img/IMGP2120.JPG "Bahnhofstrasse")
 
-![Paradeplatz](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-1/img/IMGP9826-HDR.JPG "Paradeplatz")
+![Paradeplatz](./img/IMGP9826-HDR.JPG "Paradeplatz")
 
 
 ## STREET-PARADE
@@ -126,7 +126,7 @@
 - First time in **1992** with around **1000 participants** and **two "love mobiles"**
 - **2015** : First time **1 million** participants
 
-![Street Parade](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-1/img/IMGP7307.JPG "Street Parade in Zurich")
+![Street Parade](./img/IMGP7307.JPG "Street Parade in Zurich")
 
 
 ## ZURICH FILM FESTIVAL
@@ -139,7 +139,7 @@
 - In **2011** he returned and **collected his "A Tribute To" award**
 - **90'500** visitors in **2016**
 
-![Oliver Stone](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-1/img/IMGP1581-Bearbeitet.JPG "Oliver Stone at the Zurich Film Festival (ZFF)")
+![Oliver Stone](./img/IMGP1581-Bearbeitet.JPG "Oliver Stone at the Zurich Film Festival (ZFF)")
 
 ## ZURICH (MISCELLANEOUS)
 
@@ -168,7 +168,7 @@
 - The best known point is **Uetliberg** at **870 m**, overlooking the city of Zürich.
 - Other points of interest include the **Albishorn** (909m.) the **Bürglen** (also known as Bürglenstutz, the highest peak, 914.6m.), and the **Albis**** Pass**(**791** m.)
 
-![Alibs](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-1/img/IMGP4898.JPG "Alibs")
+![Alibs](./img/IMGP4898.JPG "Alibs")
 
 
 ## ZUG
@@ -187,9 +187,9 @@
 - The word halberd is most likely equivalent to the German word Hellebarde, deriving from Middle High German halm (handle) and barte (battleaxe) joint to helmbarte
 - The halberd has been used as a court bodyguard weapon for centuries, and is still the ceremonial weapon of the Swiss Guard in the Vatican
 
-![Aegerisee](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-1/img/DJI_0292.JPG "Aegerisee")
+![Aegerisee](./img/DJI_0292.JPG "Aegerisee")
 
-![Battle of Morgarten Monument](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-1/img/APC_7678.JPG "Battle of Morgarten monument")
+![Battle of Morgarten Monument](./img/APC_7678.JPG "Battle of Morgarten monument")
 
 
 ## SEMPACHERSEE
@@ -227,7 +227,7 @@
 - It was built according to the plans of the architect Jean Nouvel and was **inaugurated**** in 1998 **with a concert by the** Berlin Philharmonic Orchestra** (under the direction of Claudio Abbado).
 - Every year, towards the end of winter, **Fasnacht** ( **Carnival** ) breaks out in the streets, alleyways and squares of the old town.
 
-![Kapellbrücke](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-1/img/IMGP0272.JPG "Kappelbrücke")
+![Kapellbrücke](./img/IMGP0272.JPG "Kappelbrücke")
 
 
 
@@ -263,9 +263,9 @@
 
 - **Grossen** Mythen **1898** m ü. M. und des **Kleinen** Mythen **1811** m ü. M.
 
-![Great Mythen](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-1/img/APC_0379.JPG "Great Mythen in snow")
+![Great Mythen](./img/APC_0379.JPG "Great Mythen in snow")
 
-![Great Mythen View](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-1/img/IMGP3977-Pano.JPG "View from Great Mythen")
+![Great Mythen View](./img/IMGP3977-Pano.JPG "View from Great Mythen")
 
 ## RÜTLISCHWUR
 
@@ -305,7 +305,7 @@
 
 - [https://www.admin.ch/gov/de/start/bundesrat/geschichte-des-bundesrats/bundesbrief-von-1291.html](https://www.admin.ch/gov/de/start/bundesrat/geschichte-des-bundesrats/bundesbrief-von-1291.html)
 
-![William Tell Monument](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-1/img/IMG_9666.JPG "William Tell monument")
+![William Tell Monument](./img/IMG_9666.JPG "William Tell monument")
 
 
 ## DEVIL'S STONE
@@ -338,8 +338,8 @@
 - **Lauf-Belart (1924)** surmised that the name Teufelsbrücke was **originally due to an erroneous interpretation by learned travellers**, ...
 - ... **which only in the 17th century gave rise to the local legend involving the Devil**.
 
-![Devil's Bridge](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-1/img/IMG_9677.JPG "Painting depicting the tale of the Devil and the goat")
-![Devil's Bridge](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-1/img/IMG_9681.JPG "Devil's Bridge")
+![Devil's Bridge](./img/IMG_9677.JPG "Painting depicting the tale of the Devil and the goat")
+![Devil's Bridge](./img/IMG_9681.JPG "Devil's Bridge")
 
 
 ## SUWOROW MONUMENT
@@ -376,7 +376,7 @@
 - ... during a **reconnaissance** flight between the hospice and the fort **due to poor visibility.**
 - The **monument by Fausto Agnelli** was inaugurated on **18 August 1928**.
 
-![Adrien Guex Monument](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-1/img/IMG_1277.JPG "Monument for Adrien Guex")
+![Adrien Guex Monument](./img/IMG_1277.JPG "Monument for Adrien Guex")
 
 
 ## VALLE LEVENTINA
