@@ -1,4 +1,250 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SimBase.Document Type="AceXML" version="1,0">
     <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>LSGG to LSZS</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>5000</CruisingAlt>
+        <DepartureID>LSGG</DepartureID>
+        <DepartureLLA>N46° 14' 17.07",E6° 6' 32.30",+010000.00</DepartureLLA>
+        <DestinationID>LSZS</DestinationID>
+        <DestinationLLA>N46° 32' 3.40",E9° 53' 2.47",+005587.00</DestinationLLA>
+        <Descr>Tell Tours - Geneva to Samedan</Descr>
+        <DepartureName>Geneva</DepartureName>
+        <DestinationName>Samedan</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LSGG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 14' 17.07",E6° 6' 32.30",+010000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LSGG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Lake Geneva I">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 24' 13.16",E6° 20' 4.61",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Lake Geneva II">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 26' 17.99",E6° 42' 23.16",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Noville">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 22' 54.95",E6° 54' 3.64",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Bex">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 14' 52.42",E6° 59' 55.58",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Dorenaz">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 8' 56.43",E7° 2' 31.23",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Martiny">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 6' 2.21",E7° 4' 25.60",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LSGS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 13' 9.93",E7° 19' 34.39",+010000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LSGS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Sierre">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 17' 20.65",E7° 32' 6.04",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Leuk">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 19' 5.26",E7° 37' 59.83",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Agarn">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 17' 47.98",E7° 39' 48.67",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Raron">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 18' 41.17",E7° 48' 0.24",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Lonza">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 17' 42.86",E7° 53' 23.94",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Glis">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 18' 38.23",E7° 58' 40.20",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="GS608">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N46° 26' 36.70",E8° 12' 39.60",+010000.00</WorldPosition>
+            <ICAO>
+                <ICAORegion>LS</ICAORegion>
+                <ICAOIdent>GS608</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Ulrichen">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 30' 6.98",E8° 17' 57.17",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Oberwald">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 31' 56.11",E8° 21' 13.80",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Gletsch">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 33' 46.62",E8° 21' 45.48",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Goldfinger">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 34' 27.74",E8° 23' 26.75",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Furkapass">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 34' 21.19",E8° 24' 58.63",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Furkastrasse">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 35' 17.46",E8° 26' 34.03",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Realp">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 35' 16.08",E8° 29' 39.08",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Tilly">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 36' 16.25",E8° 31' 12.88",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Hospental">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 37' 7.22",E8° 34' 0.55",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Andermatt">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 38' 1.83",E8° 35' 39.23",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Oberalpsee">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 39' 30.79",E8° 39' 12.44",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Oberalppass">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 39' 37.50",E8° 40' 15.28",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Via Alpsu">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 38' 54.81",E8° 41' 12.27",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Selva">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 39' 36.36",E8° 43' 13.32",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Pontaningen">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 39' 58.73",E8° 44' 55.38",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Sedrun">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 40' 48.23",E8° 46' 41.05",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Mompe Tujetsch">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 40' 44.84",E8° 49' 58.42",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Disentis">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 41' 50.55",E8° 51' 19.84",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Cavardiras">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 42' 37.96",E8° 53' 5.13",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Rabius">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 44' 2.86",E8° 57' 31.79",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Brigels">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 45' 15.68",E9° 3' 45.05",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Rueun">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 46' 41.20",E9° 8' 58.79",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Castrisch">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 46' 32.20",E9° 13' 52.95",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Isla">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 47' 37.31",E9° 17' 59.72",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Rhine">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 49' 25.02",E9° 24' 27.30",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Rhotenbrunnen">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 46' 10.61",E9° 25' 36.36",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Fürstenaubruck">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 42' 48.45",E9° 27' 1.13",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Tiefencastel">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 39' 41.31",E9° 34' 30.32",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Savognin">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 35' 49.79",E9° 35' 51.66",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Rona">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 33' 39.16",E9° 37' 31.73",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Scalotta">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 30' 49.48",E9° 37' 40.66",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Lai da Marmorera">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 29' 23.10",E9° 38' 24.88",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Bivio">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 28' 4.85",E9° 39' 1.80",+009568.82</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Via da Gügla">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 27' 51.23",E9° 41' 15.24",+009057.49</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Alp Güglia">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 28' 23.95",E9° 44' 40.00",+008260.78</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Silvaplana">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 27' 34.21",E9° 47' 43.07",+007514.83</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="St Moritz">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 29' 9.64",E9° 50' 10.54",+006747.92</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Celerina Staz">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 30' 29.51",E9° 51' 44.96",+006181.23</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LSZS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 32' 3.40",E9° 53' 2.47",+005587.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LSZS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
 </SimBase.Document>

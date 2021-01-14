@@ -10,7 +10,7 @@
         <DestinationID>LSGG</DestinationID>
         <DestinationLLA>N46° 14' 17.07",E6° 6' 32.30",+001388.00</DestinationLLA>
         <Descr>Tell Tours - Bern Belp to Geneva</Descr>
-        <DepartureName>Belp</DepartureName>
+        <DepartureName>Bern Belp</DepartureName>
         <DestinationName>Geneva</DestinationName>
         <AppVersion>
             <AppVersionMajor>11</AppVersionMajor>
