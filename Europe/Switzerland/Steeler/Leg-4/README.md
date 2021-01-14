@@ -20,7 +20,7 @@
 
 | Description                         | Download                                                              | Comment
 | ----------------------------------- | --------------------------------------------------------------------- | -------
-| Geneva                              | https://flightsim.to/file/2848/geneva-city-switzerland                | Same scenery as for previous leg 3
+| Geneva                              | https://flightsim.to/file/2848/geneva-city-switzerland                | Same scenery as for [previous leg 3](../Leg-3/README.md)
 | Saint Moritz - Samedan Airport LSZS | https://flightsim.to/file/3361/saint-moritz-samedan-airport-lszs-v1-0 | Requires the SDR Scenery Pack v1-0
 | Airport assets                      | https://flightsim.to/file/6072/sdr-scenery-pack-v1-0                  |
 
