@@ -2,14 +2,13 @@
 <SimBase.Document Type="AceXML" version="1,0">
     <Descr>AceXML Document</Descr>
     <FlightPlan.FlightPlan>
-        <Title>LSGG to LSZS</Title>
+        <Title>Geneva to Samedan</Title>
         <FPType>VFR</FPType>
-        <RouteType>Direct</RouteType>
-        <CruisingAlt>5000</CruisingAlt>
+        <CruisingAlt>8000.000</CruisingAlt>
         <DepartureID>LSGG</DepartureID>
-        <DepartureLLA>N46° 14' 17.07",E6° 6' 32.30",+010000.00</DepartureLLA>
+        <DepartureLLA>N46° 14' 17.07",E6° 6' 32.30",+001388.00</DepartureLLA>
         <DestinationID>LSZS</DestinationID>
-        <DestinationLLA>N46° 32' 3.40",E9° 53' 2.47",+005587.00</DestinationLLA>
+        <DestinationLLA>N46° 32' 3.41",E9° 53' 2.47",+005587.50</DestinationLLA>
         <Descr>Tell Tours - Geneva to Samedan</Descr>
         <DepartureName>Geneva</DepartureName>
         <DestinationName>Samedan</DestinationName>

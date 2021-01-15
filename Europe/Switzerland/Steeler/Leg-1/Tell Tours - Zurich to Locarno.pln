@@ -4,7 +4,6 @@
     <FlightPlan.FlightPlan>
         <Title>LSZH to LSZL</Title>
         <FPType>VFR</FPType>
-        <RouteType>Direct</RouteType>
         <CruisingAlt>10000</CruisingAlt>
         <DepartureID>LSZH</DepartureID>
         <DepartureLLA>N47° 27' 48.76",E8° 32' 59.80",+001398.17</DepartureLLA>
