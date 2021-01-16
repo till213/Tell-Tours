@@ -6,6 +6,7 @@
 
 If you want to reach the most people the easiest way is probably to:
 
+#### Flight Simulator Community Fly-In Events
 - Announce your upcoming tour(s) on the [Flight Simulator Communty Fly-In Events forum](https://forums.flightsimulator.com/c/community/community-fly-in-events/) by creating a new [calendar entry](https://forums.flightsimulator.com/c/community/community-fly-in-events/l/calendar)
   - Example: https://forums.flightsimulator.com/t/tell-tours-switzerland-from-north-to-south-leg-1/335342
   - The description does not have to be as long as in the given example, but it should contain the following information:
@@ -13,6 +14,8 @@ If you want to reach the most people the easiest way is probably to:
     - Type of airplane(s)
     - Server, communication (voice chat) and optional weather settings
     - Who is the expected audience ("everyone welcome", "experienced pilots", "knowledgable in ATC communication", ...)
+    
+#### MSFS Discord Server    
 - Use the official **Microsoft Flight Simulator (MSFS) Discord server** for communication & streaming: https://discord.gg/msfs
  - You also need to announce your tour in Discord in order that the MSFS administrators know about it and open up the "event channel"
  - Do so by filling out the form that you find pinned at the top of the **#community-flyins** text channel (under "How to submit an event")
