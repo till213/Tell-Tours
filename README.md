@@ -21,3 +21,19 @@ Guided tours in the following continents exist:
 ## Resources
 
 * [Little Navmap](https://albar965.github.io/littlenavmap.html)
+
+## Create Your Own Tours
+
+### How-To
+
+This repository shall be "flight simulator agnostic", that is you can share your flight plans for various flight simulators such as FS 2020, Prepar3D, X-Plane and others.
+
+The way how to announce and do the actual community events probably depends on the actual flight simulator respective community. So here are some guides how to get you started:
+
+- [MS Flight Simulator 2020](./TOURS.FS2020.md)
+
+## Collaboration Wanted
+
+If you are preparing a tour - or have already done so - and want to share your flight plans and tour notes with the posteriority then I am looking forward to add you as *collaborator* to this github repository!
+
+You find my contact details (e-mail) on my [github profile](https://github.com/till213). Or contact me via [Discord](https://discord.com/): my nickname is **Steeler#8662**.
