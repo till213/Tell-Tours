@@ -10,11 +10,11 @@
 | Aircraft        | Cub Crafter X Cub (cruising speed will be between 90-100 knots)
 | Weather         | Live Weather (or Few Clouds)
 | Simulation Time | 1400 local
-| Flight Plan     | [Tell Tours - Bern to Geneva.pln](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-3/Tell%20Tours%20-%20Bern%20to%20Geneva.pln)
-| Calendar        | [Tell Tours - Bern to Geneva.ics](https://github.com/till213/Tell-Tours/blob/main/Europe/Switzerland/Steeler/Leg-3/Tell%20Tours%20-%20Bern%20to%20Geneva.ics)
+| Flight Plan     | [Tell Tours - Bern to Geneva.pln](./Tell%20Tours%20-%20Bern%20to%20Geneva.pln)
+| Calendar        | [Tell Tours - Bern to Geneva.ics](./Tell%20Tours%20-%20Bern%20to%20Geneva.ics)
 | FS Forum        | [[Tell Tours] Switzerland - "Smoke on the Water"](https://forums.flightsimulator.com/t/tell-tours-switzerland-smoke-on-the-water-leg-3/345068/)
 
-![Flight plan](./img/LSZB-LSGG-Flightplan.jpg "Flight plan")
+[![Flight plan - leg 3](./img/LSZB-LSGG-Flightplan.jpg)](./Tell%20Tours%20-%20Bern%20to%20Geneva.pln "Flight plan - leg 3") 
 
 ## Optional Sceneries
 
@@ -324,5 +324,5 @@
 
 ## Airport Geneva (LSGG)
 
-* Elevation: 1,411 ft / 430 m
-* Runway 22
+* Elevation: **1,411 ft / 430 m**
+* **Runway 22**
