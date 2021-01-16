@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>KJFK to KPHL</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>10000</CruisingAlt>
+        <DepartureID>KJFK</DepartureID>
+        <DepartureLLA>N40° 38' 43.18",W73° 48' 36.38",+000012.00</DepartureLLA>
+        <DestinationID>KPHL</DestinationID>
+        <DestinationLLA>N39° 52' 26.21",W75° 14' 14.74",+000015.00</DestinationLLA>
+        <Descr>KJFK, KPHL</Descr>
+        <DepartureName>Kennedy International</DepartureName>
+        <DestinationName>Philadelphia International</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KJFK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N40° 38' 28.93",W73° 46' 39.62",+000012.00</WorldPosition>
+            <RunwayNumberFP>13</RunwayNumberFP>
+            <RunwayDesignatorFP>RIGHT</RunwayDesignatorFP>
+            <ICAO>
+                <ICAOIdent>KJFK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KPHL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N39° 52' 26.21",W75° 14' 14.74",+000015.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KPHL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
