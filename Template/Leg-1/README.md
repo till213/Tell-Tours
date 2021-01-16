@@ -11,7 +11,7 @@
 | Weather         | < settings > (e.g. Few Clouds)
 | Simulation Time | < settings > (e.g. 0800 local)
 | Flight Plan     | [Example Flight Plan.pln](./Example%20Flight%20Plan.pln)
-| Calendar        | < optional link to *.ics iCalendar file >
+| Calendar        | [Example iCalendar.ics](./Template.ics)
 | Community       | < optional link to community forum > (e.g. [Switzerland Leg 1](https://forums.flightsimulator.com/t/tell-tours-switzerland-from-north-to-south/335342))
 
 
