@@ -169,7 +169,6 @@ A View to a Kill - opening ski scene ([YouTube](https://www.youtube.com/watch?v=
 [![A View to a Kill - opening ski scene](https://img.youtube.com/vi/_44MTHVlAw4/0.jpg)](https://www.youtube.com/watch?v=_44MTHVlAw4 "A View to a Kill - opening ski scene") 
 
 ![St. Moritz](./img/IMG_9199.jpg "St. Moritz")
-
 ![St. Moritz](./img/IMG_9197.jpg "St. Moritz")
 
 

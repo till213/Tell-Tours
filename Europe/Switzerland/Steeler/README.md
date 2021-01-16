@@ -9,3 +9,4 @@ A flight of four legs will guide us through Switzerland:
 
 On the way you will hear fun facts about Switzerland's history (including William Tell, of course), about movie locations and everything else you want to ask during the flights.
 
+[![Tell Tours - Switzerland](./img/Tell-Tours-Switzerland-Map.jpg)](./Tell-Tours-Switzerland.lnmpln "Tell Tours - Switzerland") 
