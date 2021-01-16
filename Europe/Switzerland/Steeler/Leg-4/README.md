@@ -89,12 +89,19 @@
 * Aerobatic teams such as the **Frecce Tricolori** from Italy and the **Patrouille de France** have performed there
 * [Wiki: Sion](https://en.wikipedia.org/wiki/Sion,_Switzerland)
 
+![Valais](./img/APC_0470-Pano.jpg "Valais")
+
+![Valais](./img/APC_6916-Pano.jpg "Valais")
+
+![Grimselpass](./img/APC_5012.jpg "Grimselpass")
 
 ## Furkapass
 
-* Elevation:** 2,429 m (7,969 ft)**
+* Elevation: **2,429 m (7,969 ft)**
 * Border between Valais and Uri
 * [Wiki: Furka Pass](https://en.wikipedia.org/wiki/Furka_Pass)
+
+![Furka](./img/IMGP7543.jpg "Furka")
 
 
 ## Tilly
@@ -120,6 +127,9 @@
 * Border between Uri and Graubünden (**canton of Grisons**)
 * **The Rhine springs from a source nearby** (Tomasee), which can be accessed by hiking two hours from Oberalp Pass
 * [Wiki: Oberalp Pass](https://en.wikipedia.org/wiki/Oberalp_Pass)
+
+![Oberalppass](./img/DJI_0106.jpg "Oberalppass")
+
 
 ## Vorderrhein
 
@@ -155,6 +165,10 @@ The Spy Who Loved Me - opening ski scene ([YouTube](https://www.youtube.com/watc
 A View to a Kill - opening ski scene ([YouTube](https://www.youtube.com/watch?v=_44MTHVlAw4)):
 
 [![A View to a Kill - opening ski scene](https://img.youtube.com/vi/_44MTHVlAw4/0.jpg)](https://www.youtube.com/watch?v=_44MTHVlAw4 "A View to a Kill - opening ski scene") 
+
+![St. Moritz](./img/IMG_9199.jpg "St. Moritz")
+
+![St. Moritz](./img/IMG_9197.jpg "St. Moritz")
 
 
 ## Famous People Who Stayed in St. Moritz
