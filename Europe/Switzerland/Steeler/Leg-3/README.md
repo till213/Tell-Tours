@@ -48,6 +48,9 @@
 * [Wiki: Bern](https://en.wikipedia.org/wiki/Bern)
 * [admin.ch Facts & Figures](https://www.eda.admin.ch/aboutswitzerland/en/home/politik/uebersicht/politisches-system-der-schweiz---fakten-und-zahlen.html)
 
+![Bern](./img/IMG_0310.jpg "Bern")
+![Zytglogge](./img/IMG_5557.jpg "Zytglogge")
+
 ## Swiss Political System – Facts and Figures
 
 ### Direct democracy
@@ -142,6 +145,9 @@
 * [Wiki: Murten](https://en.wikipedia.org/wiki/Murten)
 * [Wiki: Battle of Morat](https://en.wikipedia.org/wiki/Battle_of_Morat)
 
+![Murten](./img/IMG_4355.jpg "Murten")
+![Murten](./img/IMG_4375.jpg "Murten")
+
 
 ## Payerne (LSMP)
 
@@ -167,12 +173,17 @@
 * It is located in the **Val de Travers** district, in the canton of **Neuchâtel**
 * [Wiki: Creux du van](https://en.wikipedia.org/wiki/Creux_du_Van)
 
+![Creux-du-Van](./img/APC_7338.jpg "Creux-du-Van")
+![Creux-du-Van](./img/APC_7344-Pano.jpg "Creux-du-Van")
+
 
 ## Yverdon-les-Bains
 
 * **Canton of Vaud**
 * The **population** of Yverdon-les-Bains, as of December 2019, was **30,156**
 * It is known for its **thermal springs** and is an important regional centre for **commerce** and **tourism**
+
+![Yverdon-les-Bains](./img/IMG_4207.jpg "Yverdon-les-Bains")
 
 
 ## Aerodrome Yverdon
@@ -197,6 +208,9 @@
 * [Wiki: Gruyères](https://en.wikipedia.org/wiki/Gruy%C3%A8res)
 * [Wiki: Gruyères Castle](https://en.wikipedia.org/wiki/Gruy%C3%A8res_Castle)
 * [IMDb: Alien](https://www.imdb.com/title/tt0078748/?ref_=fn_al_tt_1)
+
+![Gruyères](./img/IMG_9051.jpg "Gruyères")
+![H.R. Giger museum](./img/IMG_9074.jpg "H.R. Giger museum")
 
 
 ## Saane/Sarine
@@ -242,6 +256,8 @@
 * [Wiki: Smoke on the Water](https://en.wikipedia.org/wiki/Smoke_on_the_Water)
 * [Wiki: Freddie Mercury](https://en.wikipedia.org/wiki/Freddie_Mercury)
 
+![Freddie Mercury statue](./img/IMG_2277.jpg "Freddie Mercury statue")
+![Montreux Jazz Festival - The Hives](./img/IMG_7028.jpg "Montreux Jazz Festival - The Hives")
 
 ## Lausanne
 

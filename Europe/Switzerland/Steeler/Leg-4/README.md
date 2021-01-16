@@ -140,6 +140,8 @@
 * [Wiki: Vorderrhein](https://en.wikipedia.org/wiki/Vorderrhein)
 * [Wiki: Hinterrhein](https://en.wikipedia.org/wiki/Hinterrhein_(river))
 
+![Caumasee](./img/IMG_1849.jpg "Caumasee")
+
 
 ## St. Moritz
 
