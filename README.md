@@ -18,10 +18,6 @@ Guided tours in the following continents exist:
 
 - [Europe](./Europe)
 
-## Resources
-
-* [Little Navmap](https://albar965.github.io/littlenavmap.html)
-
 ## Create Your Own Tours
 
 ### How-To
@@ -37,3 +33,7 @@ The way how to announce and carry out the actual community event probably depend
 If you are preparing a tour - or have already done so - and want to share your flight plans and tour notes with the posteriority then I am looking forward to add you as *collaborator* to this github repository!
 
 You find my contact details (e-mail) on my [github profile](https://github.com/till213). Or contact me via [Discord](https://discord.com/): my nickname is **Steeler#8662**.
+
+## Resources
+
+* [Little Navmap](https://albar965.github.io/littlenavmap.html)
