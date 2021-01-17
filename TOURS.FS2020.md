@@ -6,7 +6,7 @@
 
 If you want to reach the most people the easiest way is probably to:
 
-#### Flight Simulator Community Fly-In Events
+#### Flight Simulator Forum
 - Announce your upcoming tour(s) on the [Flight Simulator Communty Fly-In Events forum](https://forums.flightsimulator.com/c/community/community-fly-in-events/) by creating a new [calendar entry](https://forums.flightsimulator.com/c/community/community-fly-in-events/l/calendar)
   - Example: https://forums.flightsimulator.com/t/tell-tours-switzerland-from-north-to-south-leg-1/335342
   - The description does not have to be as long as in the given example, but it should contain the following information:
