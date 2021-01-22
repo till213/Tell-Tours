@@ -12,7 +12,7 @@ Who knows... maybe in the future this will be a place for more *Tell Tours* arou
 
 This repository shall both serve as an archive for flight plans (e.g. &ast;.pln for Flight Simulator 2020) and guide's notes about the visited locations as well as an "online notebook" for upcoming community flights.
 
-The [Template](./Template) may be useful to create new flight descriptions.
+The [Template](./Template) may be useful for creating new flight notes.
 
 ## Tours
 
