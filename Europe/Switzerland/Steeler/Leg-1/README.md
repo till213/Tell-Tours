@@ -14,7 +14,13 @@
 | Calendar        | [Tell Tours - Zurich to Locarno.ics](./Tell%20Tours%20-%20Zurich%20to%20Locarno.ics)
 | FS Forum        | [[Tell Tours] Switzerland - "From North to South"](https://forums.flightsimulator.com/t/tell-tours-switzerland-from-north-to-south-leg-1/335342)
 
-[![Flight plan - leg 1](./img/LSZH-LSZL-Flightplan.jpg)](./Tell%20Tours%20-%20Zurich%20to%20Locarno.pln "Flight plan - leg 1") 
+[![Flight plan - leg 1](./img/LSZH-LSZL-Flightplan.jpg)](./Tell%20Tours%20-%20Zurich%20to%20Locarno.pln "Flight plan - leg 1")
+
+## Optional Sceneries
+
+| Description    | Download
+| -------------- | ----------------------------------------------------------
+| Grosser Mythen | https://flightsim.to/file/1776/mythen-wip
 
 # Zurich (LSZH) to Locarno (LSZL)
 
