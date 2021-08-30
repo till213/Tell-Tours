@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmpln.xsd">
+  <Flightplan>
+    <Header>
+      <FlightplanType>IFR</FlightplanType>
+      <CruisingAlt>10000</CruisingAlt>
+      <CreationDate>2021-08-30T17:09:52</CreationDate>
+      <FileVersion>1.0</FileVersion>
+      <ProgramName>Little Navmap</ProgramName>
+      <ProgramVersion>2.6.15</ProgramVersion>
+      <Documentation>https://www.littlenavmap.org/lnmpln.html</Documentation>
+    </Header>
+    <SimData>MSFS</SimData>
+    <NavData Cycle="1801">NAVIGRAPH</NavData>
+    <Departure>
+      <Pos Lon="7.597128" Lat="46.759052" Alt="1837.00"/>
+      <Start>14</Start>
+      <Type>None</Type>
+    </Departure>
+    <Waypoints>
+      <Waypoint>
+        <Name>Thun</Name>
+        <Ident>LSZW</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="7.600555" Lat="46.756390" Alt="1837.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP1</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.643465" Lat="46.721504" Alt="2740.90"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP2</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.640718" Lat="46.674412" Alt="3674.60"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP3</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.577203" Lat="46.659805" Alt="4585.28"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP4</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.453264" Lat="46.657921" Alt="6270.91"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP5</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.377389" Lat="46.622089" Alt="7523.51"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Zweisimmen</Name>
+        <Ident>LSTZ</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="7.381111" Lat="46.551666" Alt="8919.58"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>St.-Stephan Mil</Name>
+        <Ident>LSTS</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="7.412572" Lat="46.497440" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP6</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.443994" Lat="46.457375" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP7</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.450174" Lat="46.380688" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP8</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.413610" Lat="46.361382" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP9</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.449831" Lat="46.331875" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP10</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.449831" Lat="46.304253" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP11</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.616857" Lat="46.316109" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP12</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.683633" Lat="46.306862" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Raron</Name>
+        <Ident>LSTA</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="7.821667" Lat="46.304443" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP13</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.882761" Lat="46.293102" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP14</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.874864" Lat="46.231152" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP15</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.799333" Lat="46.176266" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP16</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.781137" Lat="46.097996" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP17</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.747148" Lat="46.020805" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP18</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.664751" Lat="45.980026" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP19</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.548879" Lat="46.000301" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP20</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.540124" Lat="46.069420" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP21</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.448114" Lat="46.156528" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP22</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.405542" Lat="46.237801" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Sion</Name>
+        <Ident>LSGS</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="7.326944" Lat="46.219166" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP23</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.072519" Lat="46.111324" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP24</Ident>
+        <Type>USER</Type>
+        <Pos Lon="6.964715" Lat="46.256321" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP25</Ident>
+        <Type>USER</Type>
+        <Pos Lon="6.872705" Lat="46.396198" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP26</Ident>
+        <Type>USER</Type>
+        <Pos Lon="6.820906" Lat="46.426971" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP27</Ident>
+        <Type>USER</Type>
+        <Pos Lon="6.679071" Lat="46.456310" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP28</Ident>
+        <Type>USER</Type>
+        <Pos Lon="6.519469" Lat="46.456547" Alt="8547.05"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP29</Ident>
+        <Type>USER</Type>
+        <Pos Lon="6.324461" Lat="46.386490" Alt="5543.95"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Geneva</Name>
+        <Ident>LSGG</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="6.109445" Lat="46.238335" Alt="1388.00"/>
+      </Waypoint>
+    </Waypoints>
+  </Flightplan>
+</LittleNavmap>
