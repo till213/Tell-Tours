@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>LSZR to LSZA</Title>
+        <FPType>IFR</FPType>
+        <RouteType>LowAlt</RouteType>
+        <CruisingAlt>10000</CruisingAlt>
+        <DepartureID>LSZR</DepartureID>
+        <DepartureLLA>N47° 29' 15.66",E9° 33' 13.12",+001306.00</DepartureLLA>
+        <DestinationID>LSZA</DestinationID>
+        <DestinationLLA>N46° 0' 13.01",E8° 54' 37.00",+000907.00</DestinationLLA>
+        <Descr>LSZR, LSZA</Descr>
+        <DeparturePosition>PARKING 10</DeparturePosition>
+        <DepartureName>Altenrhein</DepartureName>
+        <DestinationName>Lugano</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LSZR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 29' 6.00",E9° 33' 43.00",+001306.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LSZR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="St Gallen">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 25' 23.31",E9° 22' 36.05",+004073.86</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Appenzell">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 19' 46.56",E9° 24' 35.32",+005979.54</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Weissbad">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 18' 36.32",E9° 26' 7.30",+006496.43</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Wildkirchl">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 16' 54.97",E9° 25' 33.74",+007068.05</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Santis">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 14' 36.68",E9° 21' 47.02",+008206.49</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Laui">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 13' 0.62",E9° 18' 55.51",+009037.30</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Unterwasse">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 11' 41.11",E9° 18' 33.01",+009482.87</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Starkenbac">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 11' 1.02",E9° 15' 2.05",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Neu Sankt">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 13' 45.05",E9° 11' 36.64",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Under Scho">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 14' 43.71",E9° 8' 10.37",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LSPV">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 12' 17.00",E8° 52' 3.00",+010000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LSPV</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Einsiedeln">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 7' 36.15",E8° 45' 8.95",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Morgarten">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 6' 24.73",E8° 38' 33.45",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Steinen">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 3' 0.02",E8° 36' 47.12",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Goldau">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 2' 47.76",E8° 32' 41.78",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Immensee">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 5' 44.38",E8° 27' 41.75",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Luzern">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 3' 1.58",E8° 18' 18.42",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Stansstad">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 58' 34.21",E8° 20' 11.09",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="A2">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 57' 49.55",E8° 21' 54.68",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LSZC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 58' 28.00",E8° 23' 49.00",+010000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LSZC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Vierwaldst">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 59' 33.18",E8° 27' 12.88",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Vierwaldst">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 59' 5.36",E8° 32' 8.28",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Brunnen">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 59' 40.97",E8° 36' 8.52",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Rutli">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 58' 4.48",E8° 35' 33.72",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Altdorf">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 52' 54.71",E8° 38' 37.77",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Erstfeld">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 49' 3.32",E8° 38' 51.81",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Amsteg">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 46' 14.72",E8° 40' 14.24",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Wassen">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 42' 25.52",E8° 36' 3.06",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Goschenen">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 40' 6.79",E8° 35' 18.80",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Teufelsbru">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 38' 51.04",E8° 35' 26.82",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Andermatt">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 38' 5.99",E8° 35' 32.94",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Ticino">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 34' 53.66",E8° 33' 31.14",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="St Gotthar">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 33' 18.25",E8° 33' 56.69",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Tremola">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 32' 29.21",E8° 34' 24.69",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Airolo">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 31' 38.99",E8° 36' 30.93",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LSPM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 30' 45.00",E8° 41' 36.00",+010000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LSPM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Rodi">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 29' 24.54",E8° 44' 19.98",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Chiggiogna">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 28' 3.63",E8° 49' 22.64",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Personico">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 22' 13.47",E8° 55' 10.25",+009968.14</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Biasca">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 21' 23.33",E8° 58' 6.18",+009245.29</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Preonzo">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 15' 56.63",E8° 59' 57.73",+007398.16</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Bellinzona">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 12' 53.52",E9° 2' 47.00",+006202.12</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Bellinzona">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 11' 28.49",E9° 1' 35.31",+005660.33</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Contone">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 9' 0.82",E8° 55' 11.02",+003985.47</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Bironico">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 6' 49.76",E8° 55' 58.28",+003242.09</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Moschera">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 5' 6.41",E8° 57' 5.43",+002618.27</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LSZA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 0' 13.01",E8° 54' 37.00",+000907.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LSZA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

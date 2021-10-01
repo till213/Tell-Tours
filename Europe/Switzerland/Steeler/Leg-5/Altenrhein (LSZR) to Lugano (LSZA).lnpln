@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmpln.xsd">
+  <Flightplan>
+    <Header>
+      <FlightplanType>IFR</FlightplanType>
+      <CruisingAlt>10000</CruisingAlt>
+      <CreationDate>2021-10-01T16:37:30+02:00</CreationDate>
+      <FileVersion>1.0</FileVersion>
+      <ProgramName>Little Navmap</ProgramName>
+      <ProgramVersion>2.6.16</ProgramVersion>
+      <Documentation>https://www.littlenavmap.org/lnmpln.html</Documentation>
+    </Header>
+    <SimData>MSFS</SimData>
+    <NavData Cycle="1801">NAVIGRAPH</NavData>
+    <Departure>
+      <Pos Lon="9.553645" Lat="47.487682" Alt="1306.00"/>
+      <Start>PARKING 10</Start>
+      <Type>Parking</Type>
+    </Departure>
+    <Waypoints>
+      <Waypoint>
+        <Name>Altenrhein</Name>
+        <Ident>LSZR</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="9.561945" Lat="47.485001" Alt="1306.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>St Gallen Monastery</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.376680" Lat="47.423141" Alt="4073.86"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Appenzell</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.409811" Lat="47.329601" Alt="5979.54"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Weissbad</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.435361" Lat="47.310089" Alt="6496.43"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Wildkirchli</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.426038" Lat="47.281937" Alt="7068.05"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Säntis</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.363061" Lat="47.243523" Alt="8206.49"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Laui</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.315418" Lat="47.216839" Alt="9037.30"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Unterwasser</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.309170" Lat="47.194752" Alt="9482.87"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Starkenbach</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.250569" Lat="47.183617" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Neu Sankt Johann</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.193511" Lat="47.229179" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Under Schorüti</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.136214" Lat="47.245476" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Wangen-Lachen</Name>
+        <Ident>LSPV</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="8.867500" Lat="47.204723" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Einsiedeln Monastery</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.752486" Lat="47.126709" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Morgarten</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.642626" Lat="47.106869" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Steinen</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.613089" Lat="47.050007" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Goldau</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.544939" Lat="47.046600" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Immensee</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.461597" Lat="47.095661" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Luzern</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.305117" Lat="47.050438" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Stansstad</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.336414" Lat="46.976170" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>A2</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.365189" Lat="46.963764" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Buochs</Name>
+        <Ident>LSZC</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="8.396945" Lat="46.974445" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Vierwaldstättersee I</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.453578" Lat="46.992550" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Vierwaldstättersee II</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.535633" Lat="46.984821" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Brunnen</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.602366" Lat="46.994713" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Rütli</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.592699" Lat="46.967911" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Altdorf</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.643825" Lat="46.881863" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Erstfeld</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.647725" Lat="46.817589" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Amsteg</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.670622" Lat="46.770756" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Wassen</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.600850" Lat="46.707088" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Göschenen</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.588555" Lat="46.668552" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Teufelsbrücke</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.590783" Lat="46.647511" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Andermatt</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.592484" Lat="46.634998" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Ticino</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.558650" Lat="46.581573" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>St Gotthard</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.565747" Lat="46.555069" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Tremola</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.573525" Lat="46.541447" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Airolo</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.608592" Lat="46.527496" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Ambri</Name>
+        <Ident>LSPM</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="8.693333" Lat="46.512501" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Rodi</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.738883" Lat="46.490150" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Chiggiogna</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.822955" Lat="46.467674" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Personico</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.919514" Lat="46.370407" Alt="9968.14"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Biasca</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.968384" Lat="46.356480" Alt="9245.29"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Preonzo</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.999370" Lat="46.265732" Alt="7398.16"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Bellinzona Nord</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.046389" Lat="46.214867" Alt="6202.12"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Bellinzona</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.026475" Lat="46.191246" Alt="5660.33"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Contone</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.919727" Lat="46.150227" Alt="3985.47"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Bironico</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.932856" Lat="46.113823" Alt="3242.09"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Moschera</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.951509" Lat="46.085114" Alt="2618.27"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Lugano</Name>
+        <Ident>LSZA</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="8.910277" Lat="46.003613" Alt="907.00"/>
+      </Waypoint>
+    </Waypoints>
+  </Flightplan>
+</LittleNavmap>
