@@ -1,4 +1,4 @@
-# "The Monastery Mile" - Leg 5
+# "Abbey Road" - Leg 5
 
 | What            | Description
 | --------------- | ----------------
@@ -7,12 +7,12 @@
 | Server          | North Europe
 | Multiplayer     | All
 | Voice Chat      | Event channel on the official FS2020 Discord server https://discord.gg/msfs
-| Aircraft        | Pilatus PC-6
+| Aircraft        | Pilatus PC-6, X-Cub, Ju-52 (cruise speed around 100 knots)
 | Weather         | Live Weather (or Scattered Clouds, Snow Coverage: 20)
-| Simulation Time | 1630 local (1530 UTC)
+| Simulation Time | 0730 local (0630 UTC)
 | Flight Plan     | [Altenrhein (LSZR) to Lugano (LSZA).pln](./Altenrheins%20(LSZR)s%20ts%20Luganos%20(LSZA).pln)
-| Calendar        | [Tell Tours - Geneva to Samedan.ics](./Tell%20Tours%20-%20Geneva%20to%20Samedan.ics)
-| FS Forum        | [[Tell Tours] Switzerland - "The Monastery Mile"](https://forums.flightsimulator.com/t/tell-tours-switzerland-hot-potato-leg-4/345071/)
+| Calendar        | [Tell Tours - Altenrhein to Lugano.ics](./Tell%20Tours%20-%20Geneva%20to%20Samedan.ics)
+| FS Forum        | [[Tell Tours] Switzerland - "Abbey Road"](https://forums.flightsimulator.com/t/tell-tours-switzerland-hot-potato-leg-4/345071/)
 
 [![Flight plan - leg 5](./img/LSZR-LSZA-Flightplan.jpg)](./Altenrheins%20(LSZR)s%20ts%20Luganos%20(LSZA).pln "Flight plan - leg 5") 
 
@@ -237,66 +237,76 @@
 - Recorded in Swiss historiography from the 15th century, the oath is **notably featured in the play William Tell** (Wilhelm Tell) **by Friedrich Schiller (1804).**
 
 - **Werner Stauffacher** of Schwyz was threatened by **reeve Gessler** (Vogt) because **he had dared to build a stone house.**
-- Stauffacher escaped to Uri, and **formed a secret pact against the reeves** (Vögte).
+- Stauffacher escaped to Uri, and **formed a secret pact against the reeves** (Vögte)
 
-- The report from **Chronicon Helveticum** by **Aegidius Tschudi** (c. **1570** ) became the **canonical form in Swiss historiography**.
+- The report from **Chronicon Helveticum** by **Aegidius Tschudi** (c. **1570** ) became the **canonical form in Swiss historiography**
 - Tschudi retains the names of the three oath-takers (Eidgenossen)
   - **Werner Stauffacher** for Schwyz,
   - **Walter Fürst** for Uri and
-  - **Arnold of Melchtal** for Unterwalden.
+  - **Arnold of Melchtal** for Unterwalden
 - **Tschudi** dates the **oath to 1307**
 
 - The **building of Switzerland as a federal state** in the **first half of the 19th century** (1803–1848) **revived symbols** of the period of growth of the Old Swiss Confederacy in the Late Middle Ages, ...
-- ... **including the legends of William Tell** and **Arnold Winkelried** and the **Rütli oath**.
-- After the establishment of the federal state, **the Rütli oath became associated with the Swiss Federal Charter, a document dated to 1291**.
+- ... **including the legends of William Tell** and **Arnold Winkelried** and the **Rütli oath**
+- After the establishment of the federal state, **the Rütli oath became associated with the Swiss Federal Charter, a document dated to 1291**
 - This choice was not straightforward, as it **went against Tschudi's date of 1307**, ...
-- ... and historians could enumerate **a total of 82 similar documents** of the period of **1251 to 1386**.
+- ... and historians could enumerate **a total of 82 similar documents** of the period of **1251 to 1386**
 
 - The **decision was motivated pragmatically**, as the **modern Swiss capital of Bern in 1891 was going to celebrate the 700th anniversary of the city's foundation**...
-- ... and it was **convenient to place the 600th anniversary of the Confederacy in the same year**.
+- ... and it was **convenient to place the 600th anniversary of the Confederacy in the same year**
 
-## ALTDORF
+## Altdorf
 
 - **Especially in Central Switzerland**, the opportunistic re-dating of the event was **resented**, and the **Rütli oath ...**
-- **... continued to be dated to 1307 well into the 20th century**.
-- Accordingly, the **600th anniversary** of the Confederacy was **celebrated** _ **again** _ **in 1907**, this time **in Altdorf**.
+- **... continued to be dated to 1307 well into the 20th century**
+- Accordingly, the **600th anniversary** of the Confederacy was **celebrated** _ **again** _ **in 1907**, this time **in Altdorf**
 - It was only after the **celebration of the 650th anniversary in 1941**, seen as an **important symbol of Swiss independence in times of war**, ...
-- ... **that the date of 1291 became universally associated with the Rütli oath**.
+- ... **that the date of 1291 became universally associated with the Rütli oath**
 - The **Swiss national holiday on 1 August** marks the date of the Federal Charter (dated to "the beginning of August, 1291), **and thus the Rütli oath.**
-- Following a **public vote on 26 September 1993**, 1 August has been **an official national holiday since 1994**.
+- Following a **public vote on 26 September 1993**, 1 August has been **an official national holiday since 1994**
 
 - [https://www.admin.ch/gov/de/start/bundesrat/geschichte-des-bundesrats/bundesbrief-von-1291.html](https://www.admin.ch/gov/de/start/bundesrat/geschichte-des-bundesrats/bundesbrief-von-1291.html)
 
 ![William Tell Monument](./img/IMG_9666.jpg "William Tell monument")
 
+## Gotthardtunnel
+
+- **Urseren Valley**
+- **1882** Inauguration of the **Gotthard Railway Tunnel**
+- Gotthard **Road Tunnel** (**1980**)
+- **The Gotthard Base Tunnel** (German: Gotthard-Basistunnel is a railway tunnel through the Alps in Switzerland
+- It opened on **1 June 2016**, and full service began on **11 December 2016**
+- With a route **length of 57.09 km** (35.5 mi), it is the **world's longest railway and deepest traffic tunnel** ...
+- ... and the **first flat, low-level route through the Alps**
+
 ## DEVIL'S STONE
 
-- The **Devil's Stone** (Teufelsstein) is a **large block of granite** near **Göschenen**, with a height of c. **12 m** and a mass of c. **220 tons**.
-- In **1887**, it was **sold to the Maestrani Schweizer Schokoladenfabrik for 80 francs**.
-- **Painted yellow**, it now served as an **advertisement for chocolate**.
-- **In 1923**, there were **plans to demolish** it, but it was **preserved on the initiative** of **Max Oechslin, president of Naturforschende Gesellschaft Uri**.
-- **In 1970,** the Devil's Stone was **again scheduled for destruction**, to make way for the **N2 motorway**.
-- This time, there was **a broad movement to preserve it**, and in 1971, **federal authorities agreed to move the stone,** with projected costs of **250,000 francs**.
+- The **Devil's Stone** (Teufelsstein) is a **large block of granite** near **Göschenen**, with a height of c. **12 m** and a mass of c. **220 tons**
+- In **1887**, it was **sold to the Maestrani Schweizer Schokoladenfabrik for 80 francs**
+- **Painted yellow**, it now served as an **advertisement for chocolate**
+- **In 1923**, there were **plans to demolish** it, but it was **preserved on the initiative** of **Max Oechslin, president of Naturforschende Gesellschaft Uri**
+- **In 1970,** the Devil's Stone was **again scheduled for destruction**, to make way for the **N2 motorway**
+- This time, there was **a broad movement to preserve it**, and in 1971, **federal authorities agreed to move the stone,** with projected costs of **250,000 francs**
 - This led to a **popular campaign opposing the plan** because the **cost was seen as excessive**.
-- The **cantonal government now argued** that there was no legal basis for the destruction of the stone because it had been the **property of Naturforschende Gesellschaft Uri since 1925**.
-- On **1 September 1972**, the Federal Council finally agreed to moving the stone, and it was **moved 127 metres in an operation costing CHF 335,000**.
+- The **cantonal government now argued** that there was no legal basis for the destruction of the stone because it had been the **property of Naturforschende Gesellschaft Uri since 1925**
+- On **1 September 1972**, the Federal Council finally agreed to moving the stone, and it was **moved 127 metres in an operation costing CHF 335,000**
 - It is **now situated on the ramp of exit 40 (Göschenen)** of the motorway, at the **entrance of Gotthard Road Tunnel**, ...
-- ... visible both from the railway and from the motorway.
+- ... visible both from the railway and from the motorway
 
 ## DEVIL'S BRIDGE
 
 - **Schöllenen Gorge** (Schöllenenschlucht)
 - In Early Modern Switzerland, a legend developed **which attributed the construction of the bridge to the Devil.**
-- The name **Teiffels Brucken** ("Devil's Bridge", modern German: Teufelsbrücke) is **first recorded in 1587**.
+- The name **Teiffels Brucken** ("Devil's Bridge", modern German: Teufelsbrücke) is **first recorded in 1587**
 - Legend: **the people of Uri recruited the Devil** for the difficult task of building the bridge.
 - The **Devil requested to receive the first thing to pass the bridge** in exchange for his help.
 - To trick the Devil, who expected to receive the soul of the first man to pass the bridge, ...
-- ... the people of Uri **sent across a dog by throwing a piece of bread**, and the dog was **promptly torn to pieces by the Devil**.
-- A **modern retelling** was published by **Meinrad Lienert**, Schweizer Sagen und Heldengeschichten (**1915**).
+- ... the people of Uri **sent across a dog by throwing a piece of bread**, and the dog was **promptly torn to pieces by the Devil**
+- A **modern retelling** was published by **Meinrad Lienert**, Schweizer Sagen und Heldengeschichten (**1915**)
 - According to Lienert's version, **a goat was sent across the bridge** instead of a dog
-- The **legend does not appear to have existed before the 16th century**, and its origin in local tradition is uncertain.
+- The **legend does not appear to have existed before the 16th century**, and its origin in local tradition is uncertain
 - **Lauf-Belart (1924)** surmised that the name Teufelsbrücke was **originally due to an erroneous interpretation by learned travellers**, ...
-- ... **which only in the 17th century gave rise to the local legend involving the Devil**.
+- ... **which only in the 17th century gave rise to the local legend involving the Devil**
 
 ## SUWOROW MONUMENT
 
@@ -305,15 +315,14 @@
 - ... between the **Russian** and the **French army, in September 25 1799**
 - **Owner** of the area 563 m² is the **Russian embassy in Bern**
 
-## GOTTHARDTUNNEL
+## Val Bedretto
 
-- **Urseren Valley**
-- **1882** Inauguration of the **Gotthard Railway Tunnel**
-- Gotthard **Road Tunnel** (**1980**)
-- **The Gotthard Base Tunnel** (German: Gotthard-Basistunnel is a railway tunnel through the Alps in Switzerland.
-- It opened on **1 June 2016**, and full service began on **11 December 2016**.
-- With a route **length of 57.09 km** (35.5 mi), it is the **world's longest railway and deepest traffic tunnel** ...
-- ... and the **first flat, low-level route through the Alps**.
+- Filming location: James Bond, Goldeneye
+- Valley from **Nufenen Pass** to **Airolo**
+- Origin of the **Ticino River**
+- In the north: **Saint-Gotthard Massif**, in the south: **Ticino Alps**
+- James Bond **Goldfinger**: Bond ditches Tilly
+- [Wiki: Val Bedretto](https://de.wikipedia.org/wiki/Val_Bedretto)
 
 ## ST. GOTTHARD PASS
 
@@ -330,17 +339,20 @@
 - ... during a **reconnaissance** flight between the hospice and the fort **due to poor visibility.**
 - The **monument by Fausto Agnelli** was inaugurated on **18 August 1928**
 
-## VALLE LEVENTINA
+## Valle Leventina
 
 - Ticino river
-- Until Biasca
 
+## Bellinzona
 
-## BELLINZONA
+- Bellinzona is a municipality, a historic Swiss town, and the capital of the canton of Ticino in Switzerland
+- The town is famous for its three castles (Castelgrande, Montebello, Sasso Corbaro) that have been UNESCO World Heritage Sites since 2000
+- The site of **Castelgrande** has been fortified since at least the late 1st century BC and until the 13th century it was the only fortification in Bellinzona
+- During its history the castle has been known as the stronghold (before the 13th century), the Old Castle in the 14–15th centuries, Un Castle after 1506 and Saint Michael's Castle from 1818
+- [Wiki: Bellinzona](https://en.wikipedia.org/wiki/Bellinzona)
+- [Wiki: Castles of Bellinzona](https://en.wikipedia.org/wiki/Castles_of_Bellinzona)
 
-- Capital of Ticino
-
-## LUGANO AIRPORT (LSZA)
+## Lugano Airport (LSZA)
 
 - Elevation: 915 ft / 279 m
 - The airport's instrument approach procedure is quite challenging because of its steep angle of descent of 6.65°, more than double the standard approach angle of 3° and steeper than London City's 5.5°
