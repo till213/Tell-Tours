@@ -41,7 +41,7 @@
             <ATCWaypointType>User</ATCWaypointType>
             <WorldPosition>N47° 16' 54.97",E9° 25' 33.74",+007044.02</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="Säntis">
+        <ATCWaypoint id="Saentis">
             <ATCWaypointType>User</ATCWaypointType>
             <WorldPosition>N47° 14' 36.68",E9° 21' 47.02",+008182.45</WorldPosition>
         </ATCWaypoint>
@@ -61,7 +61,7 @@
             <ATCWaypointType>User</ATCWaypointType>
             <WorldPosition>N47° 13' 45.05",E9° 11' 36.64",+010000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="Under Schorüti">
+        <ATCWaypoint id="Under Schorueti">
             <ATCWaypointType>User</ATCWaypointType>
             <WorldPosition>N47° 14' 43.71",E9° 8' 10.37",+010000.00</WorldPosition>
         </ATCWaypoint>
@@ -111,11 +111,11 @@
                 <ICAOIdent>LSZC</ICAOIdent>
             </ICAO>
         </ATCWaypoint>
-        <ATCWaypoint id="Vierwaldstättersee I">
+        <ATCWaypoint id="Vierwaldstaettersee I">
             <ATCWaypointType>User</ATCWaypointType>
             <WorldPosition>N46° 59' 33.18",E8° 27' 12.88",+010000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="Vierwaldstättersee II">
+        <ATCWaypoint id="Vierwaldstaettersee II">
             <ATCWaypointType>User</ATCWaypointType>
             <WorldPosition>N46° 59' 5.36",E8° 32' 8.28",+010000.00</WorldPosition>
         </ATCWaypoint>
@@ -123,7 +123,7 @@
             <ATCWaypointType>User</ATCWaypointType>
             <WorldPosition>N46° 59' 40.97",E8° 36' 8.52",+010000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="Rütli">
+        <ATCWaypoint id="Ruetli">
             <ATCWaypointType>User</ATCWaypointType>
             <WorldPosition>N46° 58' 4.48",E8° 35' 33.72",+010000.00</WorldPosition>
         </ATCWaypoint>
@@ -143,11 +143,11 @@
             <ATCWaypointType>User</ATCWaypointType>
             <WorldPosition>N46° 42' 25.52",E8° 36' 3.06",+010000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="Göschenen">
+        <ATCWaypoint id="Goeschenen">
             <ATCWaypointType>User</ATCWaypointType>
             <WorldPosition>N46° 40' 6.79",E8° 35' 18.80",+010000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="Teufelsbrücke">
+        <ATCWaypoint id="Teufelsbruecke">
             <ATCWaypointType>User</ATCWaypointType>
             <WorldPosition>N46° 38' 51.04",E8° 35' 26.82",+010000.00</WorldPosition>
         </ATCWaypoint>
