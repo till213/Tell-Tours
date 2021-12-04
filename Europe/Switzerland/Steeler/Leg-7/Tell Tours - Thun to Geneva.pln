@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>LSZW to LSGG</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>10000</CruisingAlt>
+        <DepartureID>LSZW</DepartureID>
+        <DepartureLLA>N46° 45' 32.59",E7° 35' 49.66",+001837.00</DepartureLLA>
+        <DestinationID>LSGG</DestinationID>
+        <DestinationLLA>N46° 14' 18.00",E6° 6' 34.00",+001388.00</DestinationLLA>
+        <Descr>LSZW, LSGG</Descr>
+        <DeparturePosition>14</DeparturePosition>
+        <DepartureName>Thun</DepartureName>
+        <DestinationName>Genf</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LSZW">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 45' 23.00",E7° 36' 2.00",+001837.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LSZW</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Spiez">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 41' 26.92",E7° 40' 37.42",+003755.98</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Oey">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 39' 34.93",E7° 34' 38.88",+005471.85</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Oberwil">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 39' 25.86",E7° 26' 11.44",+007683.46</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Schwarzenmatt">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 37' 24.62",E7° 21' 56.83",+009033.94</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LSTZ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 33' 6.00",E7° 22' 52.00",+010000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LSTZ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Lenk">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 27' 32.23",E7° 26' 36.08",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Ascend">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 22' 54.75",E7° 27' 0.64",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Armeillon">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 21' 40.38",E7° 25' 3.48",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Crans">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 18' 17.49",E7° 28' 6.94",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Varen">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 18' 59.43",E7° 36' 25.34",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Susten">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 18' 25.98",E7° 38' 24.81",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LSTA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 18' 16.00",E7° 49' 18.00",+010000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LSTA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Visp">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 17' 46.06",E7° 53' 2.26",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Stalden">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 14' 3.70",E7° 52' 17.15",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Stankt Niklaus">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 10' 38.99",E7° 48' 10.03",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Zermatt">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 1' 10.02",E7° 44' 47.30",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Matterhorn">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 58' 35.19",E7° 39' 30.83",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Lac des Dix I">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 1' 59.96",E7° 24' 24.18",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Lac des Dix II">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 3' 52.65",E7° 23' 45.98",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Grande Dixence">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 4' 50.15",E7° 24' 11.82",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Mache">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 9' 19.66",E7° 23' 29.99",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Ossona">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 10' 51.24",E7° 25' 5.43",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Bramois">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 14' 10.74",E7° 24' 12.71",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LSGS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 13' 9.00",E7° 19' 37.00",+010000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LSGS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Martigny">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 6' 20.95",E7° 4' 44.88",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Chessel">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 20' 57.89",E6° 53' 41.78",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Chillon">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 24' 51.27",E6° 55' 39.40",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Montreux">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 26' 21.12",E6° 54' 17.28",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Vevey">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 27' 42.85",E6° 50' 43.75",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Notre Dame">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 31' 21.24",E6° 38' 7.62",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="SPR">
+            <ATCWaypointType>VOR</ATCWaypointType>
+            <WorldPosition>N46° 28' 7.29",E6° 26' 53.00",+009493.57</WorldPosition>
+            <ICAO>
+                <ICAORegion>LS</ICAORegion>
+                <ICAOIdent>SPR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LSGG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 14' 18.00",E6° 6' 34.00",+001388.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LSGG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

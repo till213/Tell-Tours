@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmpln.xsd">
+  <Flightplan>
+    <Header>
+      <FlightplanType>VFR</FlightplanType>
+      <CruisingAlt>10000</CruisingAlt>
+      <CreationDate>2021-12-04T18:28:35+01:00</CreationDate>
+      <FileVersion>1.1</FileVersion>
+      <ProgramName>Little Navmap</ProgramName>
+      <ProgramVersion>2.6.17</ProgramVersion>
+      <Documentation>https://www.littlenavmap.org/lnmpln.html</Documentation>
+    </Header>
+    <SimData>MSFS</SimData>
+    <NavData Cycle="1801">NAVIGRAPH</NavData>
+    <Departure>
+      <Pos Lon="7.597128" Lat="46.759052" Alt="1837.00"/>
+      <Start>14</Start>
+      <Type>Runway</Type>
+      <Heading>140.425</Heading>
+    </Departure>
+    <Waypoints>
+      <Waypoint>
+        <Name>Thun</Name>
+        <Ident>LSZW</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="7.600555" Lat="46.756390" Alt="1837.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Spiez</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.677062" Lat="46.690811" Alt="3755.98"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Oey</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.577466" Lat="46.659702" Alt="5471.85"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Oberwil</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.436511" Lat="46.657185" Alt="7683.46"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Schwarzenmatt</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.365786" Lat="46.623505" Alt="9033.94"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Zweisimmen</Name>
+        <Ident>LSTZ</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="7.381111" Lat="46.551666" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Lenk</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.443356" Lat="46.458954" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Ascend</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.450179" Lat="46.381874" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Armeillon</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.417634" Lat="46.361217" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Crans</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.468595" Lat="46.304859" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Varen</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.607040" Lat="46.316509" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Susten</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.640224" Lat="46.307217" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Raron</Name>
+        <Ident>LSTA</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="7.821667" Lat="46.304443" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Visp</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.883962" Lat="46.296127" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Stalden</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.871430" Lat="46.234360" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Stankt Niklaus</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.802786" Lat="46.177498" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Zermatt</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.746472" Lat="46.019451" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Matterhorn</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.658564" Lat="45.976440" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Lac des Dix I</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.406717" Lat="46.033321" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Lac des Dix II</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.396106" Lat="46.064625" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Grande Dixence</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.403283" Lat="46.080597" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Mache</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.391664" Lat="46.155460" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Ossona</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.418175" Lat="46.180901" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Bramois</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.403530" Lat="46.236317" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Sion</Name>
+        <Ident>LSGS</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="7.326944" Lat="46.219166" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Martigny</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.079133" Lat="46.105820" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Monthey</Ident>
+        <Type>USER</Type>
+        <Pos Lon="6.966242" Lat="46.254303" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Chessel</Ident>
+        <Type>USER</Type>
+        <Pos Lon="6.894940" Lat="46.349415" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Chillon</Ident>
+        <Type>USER</Type>
+        <Pos Lon="6.927612" Lat="46.414242" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Montreux</Ident>
+        <Type>USER</Type>
+        <Pos Lon="6.904800" Lat="46.439201" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Vevey</Ident>
+        <Type>USER</Type>
+        <Pos Lon="6.845485" Lat="46.461903" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Notre Dame</Ident>
+        <Type>USER</Type>
+        <Pos Lon="6.635450" Lat="46.522568" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>St Prex</Name>
+        <Ident>SPR</Ident>
+        <Region>LS</Region>
+        <Type>VOR</Type>
+        <Pos Lon="6.448056" Lat="46.468693" Alt="9493.57"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Genf</Name>
+        <Ident>LSGG</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="6.109445" Lat="46.238335" Alt="1388.00"/>
+      </Waypoint>
+    </Waypoints>
+  </Flightplan>
+</LittleNavmap>
