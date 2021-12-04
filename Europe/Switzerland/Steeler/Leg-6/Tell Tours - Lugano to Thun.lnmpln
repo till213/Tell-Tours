@@ -2,324 +2,260 @@
 <LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmpln.xsd">
   <Flightplan>
     <Header>
-      <FlightplanType>IFR</FlightplanType>
+      <FlightplanType>VFR</FlightplanType>
       <CruisingAlt>10000</CruisingAlt>
-      <CreationDate>2021-09-09T20:57:50+02:00</CreationDate>
-      <FileVersion>1.0</FileVersion>
+      <CreationDate>2021-12-04T11:50:28+01:00</CreationDate>
+      <FileVersion>1.1</FileVersion>
       <ProgramName>Little Navmap</ProgramName>
-      <ProgramVersion>2.6.16</ProgramVersion>
+      <ProgramVersion>2.6.17</ProgramVersion>
       <Documentation>https://www.littlenavmap.org/lnmpln.html</Documentation>
     </Header>
     <SimData>MSFS</SimData>
     <NavData Cycle="1801">NAVIGRAPH</NavData>
     <Departure>
-      <Pos Lon="8.907105" Lat="46.001717" Alt="907.00"/>
-      <Start>PARKING 3</Start>
+      <Pos Lon="8.908060" Lat="46.002419" Alt="897.00"/>
+      <Start>PARKING 32</Start>
       <Type>Parking</Type>
+      <Heading>199.053</Heading>
     </Departure>
     <Waypoints>
       <Waypoint>
-        <Name>Lugano</Name>
+        <Name>Lugano Airport</Name>
         <Ident>LSZA</Ident>
         <Type>AIRPORT</Type>
-        <Pos Lon="8.910277" Lat="46.003613" Alt="907.00"/>
+        <Pos Lon="8.910277" Lat="46.003613" Alt="897.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP1</Ident>
+        <Ident>Manno</Ident>
         <Type>USER</Type>
-        <Pos Lon="8.925582" Lat="46.036541" Alt="1592.48"/>
+        <Pos Lon="8.925581" Lat="46.036541" Alt="1596.73"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP2</Ident>
+        <Ident>Lugano</Ident>
         <Type>USER</Type>
-        <Pos Lon="8.963176" Lat="46.012104" Alt="2300.86"/>
+        <Pos Lon="8.963175" Lat="46.012104" Alt="2317.65"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP3</Ident>
+        <Ident>Figino</Ident>
         <Type>USER</Type>
-        <Pos Lon="8.912364" Lat="45.977760" Alt="3276.56"/>
+        <Pos Lon="8.905939" Lat="45.950703" Alt="3792.62"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP4</Ident>
+        <Ident>Ponte Tresa</Ident>
         <Type>USER</Type>
-        <Pos Lon="8.857468" Lat="45.968693" Alt="4053.46"/>
+        <Pos Lon="8.854870" Lat="45.968185" Alt="4590.47"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP5</Ident>
+        <Ident>Ronco</Ident>
         <Type>USER</Type>
-        <Pos Lon="8.830002" Lat="45.989567" Alt="4613.81"/>
+        <Pos Lon="8.832211" Lat="45.993771" Alt="5196.17"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP6</Ident>
+        <Ident>Luino</Ident>
         <Type>USER</Type>
-        <Pos Lon="8.727692" Lat="46.022236" Alt="6163.28"/>
+        <Pos Lon="8.728228" Lat="46.022087" Alt="6760.22"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP7</Ident>
+        <Ident>Brissago</Ident>
         <Type>USER</Type>
-        <Pos Lon="8.727005" Lat="46.122749" Alt="8154.58"/>
+        <Pos Lon="8.711639" Lat="46.119774" Alt="8743.37"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP8</Ident>
+        <Ident>Locarno</Ident>
         <Type>USER</Type>
-        <Pos Lon="8.788031" Lat="46.155933" Alt="9219.45"/>
+        <Pos Lon="8.793436" Lat="46.166904" Alt="10000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP9</Ident>
+        <Ident>Tegna</Ident>
         <Type>USER</Type>
-        <Pos Lon="8.753183" Lat="46.186012" Alt="9983.42"/>
+        <Pos Lon="8.744534" Lat="46.186115" Alt="10000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP10</Ident>
+        <Ident>Gordevio</Ident>
         <Type>USER</Type>
-        <Pos Lon="8.743169" Lat="46.220406" Alt="10000.00"/>
+        <Pos Lon="8.745091" Lat="46.228703" Alt="10000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP11</Ident>
+        <Ident>Maggia</Ident>
         <Type>USER</Type>
-        <Pos Lon="8.694503" Lat="46.252403" Alt="10000.00"/>
+        <Pos Lon="8.710352" Lat="46.243900" Alt="10000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP12</Ident>
+        <Ident>Someo</Ident>
         <Type>USER</Type>
-        <Pos Lon="8.669069" Lat="46.281124" Alt="10000.00"/>
+        <Pos Lon="8.665956" Lat="46.286255" Alt="10000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP13</Ident>
+        <Ident>Cevio</Ident>
         <Type>USER</Type>
-        <Pos Lon="8.626782" Lat="46.297432" Alt="10000.00"/>
+        <Pos Lon="8.598536" Lat="46.313206" Alt="10000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP14</Ident>
+        <Ident>Cavergno</Ident>
         <Type>USER</Type>
-        <Pos Lon="8.601778" Lat="46.313740" Alt="10000.00"/>
+        <Pos Lon="8.606894" Lat="46.344593" Alt="10000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP15</Ident>
+        <Ident>Foroglio</Ident>
         <Type>USER</Type>
-        <Pos Lon="8.608301" Lat="46.343964" Alt="10000.00"/>
+        <Pos Lon="8.546972" Lat="46.373672" Alt="10000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP16</Ident>
+        <Ident>Roblei</Ident>
         <Type>USER</Type>
-        <Pos Lon="8.549936" Lat="46.372871" Alt="10000.00"/>
+        <Pos Lon="8.512489" Lat="46.443123" Alt="10000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP17</Ident>
+        <Ident>Cristallina</Ident>
         <Type>USER</Type>
-        <Pos Lon="8.526247" Lat="46.410641" Alt="10000.00"/>
+        <Pos Lon="8.526838" Lat="46.471577" Alt="10000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP18</Ident>
+        <Ident>Ri</Ident>
         <Type>USER</Type>
-        <Pos Lon="8.513716" Lat="46.440342" Alt="10000.00"/>
+        <Pos Lon="8.549218" Lat="46.485538" Alt="10000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP19</Ident>
+        <Ident>Ossasco</Ident>
         <Type>USER</Type>
-        <Pos Lon="8.526791" Lat="46.471504" Alt="10000.00"/>
+        <Pos Lon="8.539669" Lat="46.512718" Alt="10000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP20</Ident>
+        <Ident>Cruina</Ident>
         <Type>USER</Type>
-        <Pos Lon="8.549421" Lat="46.485630" Alt="10000.00"/>
+        <Pos Lon="8.427211" Lat="46.473217" Alt="10000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP21</Ident>
-        <Type>USER</Type>
-        <Pos Lon="8.541010" Lat="46.513397" Alt="10000.00"/>
-      </Waypoint>
-      <Waypoint>
-        <Ident>WP22</Ident>
-        <Type>USER</Type>
-        <Pos Lon="8.450544" Lat="46.476173" Alt="10000.00"/>
-      </Waypoint>
-      <Waypoint>
-        <Ident>WP23</Ident>
-        <Type>USER</Type>
-        <Pos Lon="8.426340" Lat="46.473335" Alt="10000.00"/>
-      </Waypoint>
-      <Waypoint>
-        <Ident>WP24</Ident>
+        <Ident>Nufenenpass</Ident>
         <Type>USER</Type>
         <Pos Lon="8.387545" Lat="46.477356" Alt="10000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP25</Ident>
+        <Ident>Altstafel</Ident>
         <Type>USER</Type>
-        <Pos Lon="8.370207" Lat="46.472744" Alt="10000.00"/>
+        <Pos Lon="8.369172" Lat="46.472572" Alt="10000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP26</Ident>
+        <Ident>Ulrichen</Ident>
         <Type>USER</Type>
-        <Pos Lon="8.332870" Lat="46.500519" Alt="10000.00"/>
+        <Pos Lon="8.305756" Lat="46.506428" Alt="10000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP27</Ident>
+        <Ident>LSPU</Ident>
         <Type>USER</Type>
-        <Pos Lon="8.304117" Lat="46.503296" Alt="10000.00"/>
+        <Pos Lon="8.267408" Lat="46.482586" Alt="10000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP28</Ident>
+        <Ident>Grengiols</Ident>
         <Type>USER</Type>
-        <Pos Lon="8.263305" Lat="46.480251" Alt="10000.00"/>
+        <Pos Lon="8.093281" Lat="46.371880" Alt="10000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP29</Ident>
+        <Ident>Bitsch</Ident>
         <Type>USER</Type>
-        <Pos Lon="8.218630" Lat="46.453056" Alt="10000.00"/>
+        <Pos Lon="8.013950" Lat="46.337212" Alt="10000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP30</Ident>
+        <Ident>Brig</Ident>
         <Type>USER</Type>
-        <Pos Lon="8.191164" Lat="46.435432" Alt="10000.00"/>
+        <Pos Lon="7.989489" Lat="46.316540" Alt="10000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP31</Ident>
+        <Ident>Blatten</Ident>
         <Type>USER</Type>
-        <Pos Lon="8.142326" Lat="46.402119" Alt="10000.00"/>
+        <Pos Lon="7.983333" Lat="46.357830" Alt="10000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP32</Ident>
+        <Ident>Gletschertor</Ident>
         <Type>USER</Type>
-        <Pos Lon="8.101814" Lat="46.374767" Alt="10000.00"/>
+        <Pos Lon="8.018094" Lat="46.397251" Alt="10000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP33</Ident>
+        <Ident>Great Aletsch</Ident>
         <Type>USER</Type>
-        <Pos Lon="8.075808" Lat="46.371155" Alt="10000.00"/>
+        <Pos Lon="8.082916" Lat="46.444244" Alt="10000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP34</Ident>
+        <Ident>Konkordia</Ident>
         <Type>USER</Type>
-        <Pos Lon="8.018387" Lat="46.337269" Alt="10000.00"/>
+        <Pos Lon="8.037769" Lat="46.502586" Alt="10000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP35</Ident>
+        <Ident>Sphinx</Ident>
         <Type>USER</Type>
-        <Pos Lon="8.003195" Lat="46.314331" Alt="10000.00"/>
+        <Pos Lon="7.984847" Lat="46.547516" Alt="10000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP36</Ident>
+        <Ident>Piz Gloria</Ident>
         <Type>USER</Type>
-        <Pos Lon="7.990664" Lat="46.357296" Alt="10000.00"/>
+        <Pos Lon="7.835200" Lat="46.557259" Alt="10000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP37</Ident>
+        <Ident>Murren</Ident>
         <Type>USER</Type>
-        <Pos Lon="8.013494" Lat="46.392765" Alt="10000.00"/>
+        <Pos Lon="7.892731" Lat="46.559509" Alt="10000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP38</Ident>
+        <Ident>Lauterbrunnen</Ident>
         <Type>USER</Type>
-        <Pos Lon="8.078897" Lat="46.440636" Alt="10000.00"/>
+        <Pos Lon="7.908425" Lat="46.592667" Alt="10000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP39</Ident>
+        <Ident>Zweiutschinen</Ident>
         <Type>USER</Type>
-        <Pos Lon="8.066366" Lat="46.472626" Alt="10000.00"/>
+        <Pos Lon="7.900980" Lat="46.632465" Alt="10000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP40</Ident>
+        <Ident>Wilderswil</Ident>
         <Type>USER</Type>
-        <Pos Lon="8.036583" Lat="46.502941" Alt="10000.00"/>
+        <Pos Lon="7.860311" Lat="46.664165" Alt="10000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP41</Ident>
-        <Type>USER</Type>
-        <Pos Lon="7.985216" Lat="46.547588" Alt="10000.00"/>
-      </Waypoint>
-      <Waypoint>
-        <Ident>WP42</Ident>
-        <Type>USER</Type>
-        <Pos Lon="7.835088" Lat="46.557209" Alt="10000.00"/>
-      </Waypoint>
-      <Waypoint>
-        <Ident>WP43</Ident>
-        <Type>USER</Type>
-        <Pos Lon="7.850988" Lat="46.562710" Alt="10000.00"/>
-      </Waypoint>
-      <Waypoint>
-        <Ident>WP44</Ident>
-        <Type>USER</Type>
-        <Pos Lon="7.864850" Lat="46.570957" Alt="10000.00"/>
-      </Waypoint>
-      <Waypoint>
-        <Ident>WP45</Ident>
-        <Type>USER</Type>
-        <Pos Lon="7.877123" Lat="46.569038" Alt="10000.00"/>
-      </Waypoint>
-      <Waypoint>
-        <Ident>WP46</Ident>
-        <Type>USER</Type>
-        <Pos Lon="7.889225" Lat="46.566326" Alt="10000.00"/>
-      </Waypoint>
-      <Waypoint>
-        <Ident>WP47</Ident>
-        <Type>USER</Type>
-        <Pos Lon="7.898238" Lat="46.577538" Alt="10000.00"/>
-      </Waypoint>
-      <Waypoint>
-        <Ident>WP48</Ident>
-        <Type>USER</Type>
-        <Pos Lon="7.903903" Lat="46.583405" Alt="10000.00"/>
-      </Waypoint>
-      <Waypoint>
-        <Ident>WP49</Ident>
-        <Type>USER</Type>
-        <Pos Lon="7.908967" Lat="46.595676" Alt="10000.00"/>
-      </Waypoint>
-      <Waypoint>
-        <Ident>WP50</Ident>
-        <Type>USER</Type>
-        <Pos Lon="7.900770" Lat="46.633289" Alt="9637.03"/>
-      </Waypoint>
-      <Waypoint>
-        <Ident>WP51</Ident>
-        <Type>USER</Type>
-        <Pos Lon="7.859657" Lat="46.664696" Alt="8800.53"/>
-      </Waypoint>
-      <Waypoint>
-        <Name>Interlaken Mil</Name>
+        <Name>Militärflugplatz Interlaken</Name>
         <Ident>LSMI</Ident>
         <Type>AIRPORT</Type>
-        <Pos Lon="7.879028" Lat="46.676556" Alt="8447.61"/>
+        <Pos Lon="7.879028" Lat="46.676556" Alt="10000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP52</Ident>
+        <Ident>Brienzersee</Ident>
         <Type>USER</Type>
-        <Pos Lon="7.855623" Lat="46.685661" Alt="8081.91"/>
+        <Pos Lon="7.904859" Lat="46.693989" Alt="10000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP53</Ident>
+        <Ident>Alien</Ident>
         <Type>USER</Type>
-        <Pos Lon="7.746360" Lat="46.672646" Alt="6574.59"/>
+        <Pos Lon="7.877780" Lat="46.681919" Alt="9662.06"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP54</Ident>
+        <Ident>Thunersee</Ident>
         <Type>USER</Type>
-        <Pos Lon="7.677735" Lat="46.722210" Alt="5220.48"/>
+        <Pos Lon="7.746361" Lat="46.672646" Alt="7532.64"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP55</Ident>
+        <Ident>Ascend</Ident>
         <Type>USER</Type>
-        <Pos Lon="7.686876" Lat="46.755211" Alt="4555.03"/>
+        <Pos Lon="7.681400" Lat="46.716679" Alt="6061.01"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP56</Ident>
+        <Ident>Proposal</Ident>
         <Type>USER</Type>
-        <Pos Lon="7.587441" Lat="46.796181" Alt="2980.58"/>
+        <Pos Lon="7.686875" Lat="46.755211" Alt="5151.51"/>
       </Waypoint>
       <Waypoint>
-        <Ident>WP57</Ident>
+        <Ident>Uttingen</Ident>
         <Type>USER</Type>
-        <Pos Lon="7.564010" Lat="46.785782" Alt="2601.83"/>
+        <Pos Lon="7.587441" Lat="46.796181" Alt="3284.53"/>
       </Waypoint>
       <Waypoint>
-        <Name>Thun</Name>
+        <Ident>Descend</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.564011" Lat="46.785782" Alt="2835.41"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Thun Airfield</Name>
         <Ident>LSZW</Ident>
         <Type>AIRPORT</Type>
-        <Pos Lon="7.600555" Lat="46.756390" Alt="1837.00"/>
+        <Pos Lon="7.600555" Lat="46.756390" Alt="1840.00"/>
       </Waypoint>
     </Waypoints>
   </Flightplan>

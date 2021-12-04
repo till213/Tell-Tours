@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>LSZA to LSZW</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>10000</CruisingAlt>
+        <DepartureID>LSZA</DepartureID>
+        <DepartureLLA>N46° 0' 8.71",E8° 54' 29.02",+000897.00</DepartureLLA>
+        <DestinationID>LSZW</DestinationID>
+        <DestinationLLA>N46° 45' 12.32",E7° 36' 14.21",+001840.00</DestinationLLA>
+        <Descr>LSZA, LSZW</Descr>
+        <DeparturePosition>PARKING 32</DeparturePosition>
+        <DepartureName>Lugano Airport</DepartureName>
+        <DestinationName>Thun Airfield</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LSZA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 0' 13.01",E8° 54' 37.00",+000897.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LSZA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Manno">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 2' 11.55",E8° 55' 32.09",+001596.73</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Lugano">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 0' 43.57",E8° 57' 47.43",+002317.65</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Figino">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 57' 2.53",E8° 54' 21.38",+003792.62</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Ponte Tresa">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 58' 5.47",E8° 51' 17.53",+004590.47</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Ronco">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 59' 37.57",E8° 49' 55.96",+005196.17</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Luino">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 1' 19.51",E8° 43' 41.62",+006760.21</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Brissago">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 7' 11.19",E8° 42' 41.90",+008743.36</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Locarno">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 10' 0.86",E8° 47' 36.37",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Tegna">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 11' 10.01",E8° 44' 40.32",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Gordevio">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 13' 43.33",E8° 44' 42.33",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Maggia">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 14' 38.04",E8° 42' 37.27",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Someo">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 17' 10.52",E8° 39' 57.44",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Cevio">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 18' 47.54",E8° 35' 54.73",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Cavergno">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 20' 40.53",E8° 36' 24.82",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Foroglio">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 22' 25.22",E8° 32' 49.10",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Roblei">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 26' 35.24",E8° 30' 44.96",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Cristallina">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 28' 17.68",E8° 31' 36.62",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Ri">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 29' 7.94",E8° 32' 57.19",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Ossasco">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 30' 45.79",E8° 32' 22.81",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Cruina">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 28' 23.58",E8° 25' 37.96",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Nufenenpass">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 28' 38.48",E8° 23' 15.16",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Altstafel">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 28' 21.26",E8° 22' 9.02",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Ulrichen">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 30' 23.14",E8° 18' 20.72",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LSPU">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 28' 57.31",E8° 16' 2.67",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Grengiols">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 22' 18.77",E8° 5' 35.81",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Bitsch">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 20' 13.96",E8° 0' 50.22",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Brig">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 18' 59.54",E7° 59' 22.16",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Blatten">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 21' 28.19",E7° 59' 0.00",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Gletschertor">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 23' 50.10",E8° 1' 5.14",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Great Aletsch">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 26' 39.28",E8° 4' 58.50",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Konkordia">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 30' 9.31",E8° 2' 15.97",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Sphinx">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 32' 51.06",E7° 59' 5.45",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Piz Gloria">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 33' 26.13",E7° 50' 6.72",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Murren">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 33' 34.23",E7° 53' 33.83",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Lauterbrunnen">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 35' 33.60",E7° 54' 30.33",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Zweiutschinen">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 37' 56.88",E7° 54' 3.53",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Wilderswil">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 39' 51.00",E7° 51' 37.12",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LSMI">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 40' 35.60",E7° 52' 44.50",+010000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LSMI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Brienzerse">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 41' 38.36",E7° 54' 17.49",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Alien">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 40' 54.91",E7° 52' 40.01",+009662.05</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Thunersee">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 40' 21.52",E7° 44' 46.90",+007532.63</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Ascend">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 43' 0.04",E7° 40' 53.04",+006061.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Proposal">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 45' 18.76",E7° 41' 12.75",+005151.51</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Uttingen">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 47' 46.25",E7° 35' 14.79",+003284.52</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Descend">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 47' 8.81",E7° 33' 50.44",+002835.41</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LSZW">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 45' 23.00",E7° 36' 2.00",+001840.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LSZW</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
