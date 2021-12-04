@@ -10,8 +10,8 @@
 | Aircraft        | Pilatus PC-6, X-Cub, Ju-52 (cruise speed around 100 knots)
 | Weather         | Live Weather (or Scattered Clouds, Snow Coverage: 20)
 | Simulation Time | 0730 local (0630 UTC)
-| Flight Plan     | [Altenrhein (LSZR) to Lugano (LSZA).pln](./Altenrheins%20(LSZR)s%20ts%20Luganos%20(LSZA).pln)
-| Calendar        | [Tell Tours - Altenrhein to Lugano.ics](./Tell%20Tours%20-%20Geneva%20to%20Samedan.ics)
+| Flight Plan     | [Tell Tours - Altenrhein to Lugano.pln](./Tell%20Tours%20-%20Altenrhein%20to%20Lugano.pln)
+| Calendar        | [Tell Tours - Altenrhein to Lugano.ics](./Tell%20Tours%20-%20Altenrhein%20to%20Lugano.ics)
 | FS Forum        | [[Tell Tours] Switzerland - "Abbey Road"](https://forums.flightsimulator.com/t/tell-tours-switzerland-hot-potato-leg-4/345071/)
 
 [![Flight plan - leg 5](./img/LSZR-LSZA-Flightplan.jpg)](./Altenrheins%20(LSZR)s%20ts%20Luganos%20(LSZA).pln "Flight plan - leg 5") 
