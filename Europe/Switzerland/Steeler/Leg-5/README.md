@@ -20,20 +20,20 @@
 
 ## Altenrhein (LSZR)
 
-- Small airport in Altenrhein in the Canton of St. Gallen, Switzerland near Lake Constance (German: Bodensee)
-- It is the home base for People's airline
-- According to  Versailler Treaties Germany was not allowed to construct aircrafts
-- To circumvent those Treaties Germany founded 1925 the shareholder company (Aktiengesellschaft) Dornier-Flugzeuge (Do-Flug AG) in Altenrhein
-- Winter flight plan 2016/2017: People offered the world shortest international flight, from St. Gallen-Altenrhein to Friedrichshafen (8 minutes flight time)
-- The flight route got cancelled on 14. April 2017 already, due to lack of interest
-- People's: Flights to Vienna and Sardinia (summertime)
-- Also business flights, private flights especially during the World Economy Forum (WEF) in Davos
-- The Junkers Flugzeugwerke AG moved here end of July 2020 (from Dübendorf, LSMD)
-- After tragic Ju-52 accident in 2018 flights expected to resume in 2022
-- The only Swiss regional airport with public transportation (Linienverkehr), but with the status of a private airport
-- January 1994: Cessna 425 crash into Lake Constance (near Rorschach) during approach
-- Great public interest, because initially suspected that aircraft coming from Prague had radioactive material on board
-- Elevation: 1,306 ft / 398 m
+- Small airport in **Altenrhein** in the Canton of St. Gallen, Switzerland **near Lake Constance** (German: Bodensee)
+- It is the home base for **People's airline**
+- According to **Versailler Treaties** Germany was not allowed to construct aircrafts
+- To circumvent those Treaties **Germany** founded **1925** the shareholder company (Aktiengesellschaft) **Dornier-Flugzeuge** (Do-Flug AG) in Altenrhein
+- **Winter flight plan 2016/2017**: People offered the **world shortest international flight**, from **St. Gallen-Altenrhein** to **Friedrichshafen** (**8 minutes** flight time)
+- The flight route got **cancelled** on **14. April 2017** already, due to **lack of interest**
+- People's: Flights to **Vienna** and **Sardinia** (summertime)
+- Also **business flights**, **private flights** especially during the **World Economy Forum** (WEF) in Davos
+- The **Junkers Flugzeugwerke AG moved here** end of **July 2020** (from Dübendorf, LSMD)
+- After **tragic Ju-52 accident in 2018** flights expected to **resume in 2022**
+- The only Swiss regional airport with **public transportation** (Linienverkehr), but with the **status of a private airport**
+- **January 1994**: **Cessna 425 crash** into Lake Constance (near Rorschach) during approach
+- Great public interest, because initially *suspected* that aircraft coming from Prague had **radioactive material on board**
+- **Elevation: 1,306 ft / 398 m**
 - [Wiki: St. Gallen–Altenrhein Airport](https://en.wikipedia.org/wiki/St._Gallen%E2%80%93Altenrhein_Airport)
 - [People's Homepage](https://www.peoples.ch/flughafen-altenrhein)
 - [Die «Tante Ju» zieht an den Bodensee](https://www.fm1today.ch/ostschweiz/stgallen/die-tante-ju-zieht-an-den-bodensee-138180993)
@@ -128,16 +128,16 @@
 - [Flugplatz Wangen Homepage](https://www.flugplatzwangen.ch/)
 
 ## Rapperswil
-- Main sights of Rapperswil are its rose gardens, Rapperswil Castle, the Kapuzinerkloster (Capuchin's monastery), the remains of the Middle Ages fortifications located on Lake Zürich
-- Rapperswil is often referred to as the "town of roses" (Rosenstadt) because of its extensive displays of roses in three designated parks
-- The castle dates back to the early 13th century (first mentioned in 1229)
-- In 1350, it was destroyed by Rudolf Brun, the mayor of Zürich, and was rebuilt in 1352/54 by Albrecht II, Duke of Austria 
+- Main sights of Rapperswil are its **rose gardens**, **Rapperswil Castle**, the **Kapuzinerkloster** (**Capuchin's monastery**), the remains of the Middle Ages fortifications located on Lake Zürich
+- Rapperswil is often referred to as the **"town of roses"** (Rosenstadt) because of its extensive displays of roses in three designated parks
+- The castle dates back to the **early 13th century** (first mentioned in 1229)
+- In **1350**, it was **destroyed by Rudolf Brun**, the mayor of Zürich, and was *rebuilt in 1352/54* by Albrecht II, **Duke of Austria**
 - Since 1870, the castle has been home to the Polish National Museum created by Polish émigrés
 - [Wiki: Rapperswil](https://en.wikipedia.org/wiki/Rapperswil)
 
 ## Einsiedeln Abbey
-- Einsiedeln Abbey (German: Kloster Einsiedeln) is a Benedictine monastery in the village of Einsiedeln in the canton of Schwyz
-- The abbey is dedicated to Our Lady of the Hermits, the title being derived from the circumstances of its foundation, for the first inhabitant of the region was Saint Meinrad, a hermit
+- **Einsiedeln Abbey** (German: Kloster Einsiedeln) is a **Benedictine monastery**
+- The abbey is dedicated to **Our Lady of the Hermits**, the title being derived from the circumstances of its foundation, for the first inhabitant of the region was **Saint Meinrad, a hermit**
 - Meinrad was a monk and was ordained a priest
 - After some years at Reichenau, he embraced an eremitical life and established his hermitage on the slopes of mount Etzel
 - He died on January 21, 861, at the hands of two robbers who thought that the hermit had some precious treasures, but during the next 80 years the place was never without one or more hermits emulating Meinrad's example
@@ -166,7 +166,7 @@
 - The Confederates of Schwyz were supported by the Confederates of Uri and Unterwalden
 - The size of the Confederate force is unknown, with estimates ranging from 1,500 to around 3,000-4,000
 - Regardless of numerical considerations, the main contrast between the two forces was that a well-equipped and trained medieval army was meeting an improvised militia of farmers and herdsmen
--  Between Lake Ägerisee and Sattel, where a small path led between a steep slope and a swamp, they prepared an ambush
+- Between Lake Ägerisee and Sattel, where a small path led between a steep slope and a swamp, they prepared an ambush
 - The marching army would have been stretched out in a column of some 2 km along the path when the vanguard encountered a roadblock near Schafstetten
 - The Confederates attacked the column, frightening the horses by throwing rocks from above and engaging the mounted knights with halberds
 - About 1,500 men were said to have been killed in the attack; 
@@ -211,8 +211,8 @@
 - **449.6 m (1475 ft)**
 - **Canton of Nidwalden**
 - **Pilatus Aircraft** has its **headquarters**, along with a production plant, on the Buochs Airport in the Swiss canton of Nidwalden
-- Filming location: James Bond, Goldfinger
-  - The Pilatus Flugzeugwerke AG stands in for Goldfinger's Auric Enterprises AG
+- Filming location: **James Bond, Goldfinger**
+  - The Pilatus Flugzeugwerke AG stands in for Goldfinger's **Auric Enterprises AG**
 - [Reelstreets - Goldfinger](https://www.reelstreets.com/films/goldfinger/)
 - **During the 1950s and 1960s**, **Pilatus** developed on a **short takeoff and landing** (STOL) light civil transport aircraft, the **PC-6 Porter**
 
@@ -298,8 +298,8 @@
 - **Schöllenen Gorge** (Schöllenenschlucht)
 - In Early Modern Switzerland, a legend developed **which attributed the construction of the bridge to the Devil.**
 - The name **Teiffels Brucken** ("Devil's Bridge", modern German: Teufelsbrücke) is **first recorded in 1587**
-- Legend: **the people of Uri recruited the Devil** for the difficult task of building the bridge.
-- The **Devil requested to receive the first thing to pass the bridge** in exchange for his help.
+- Legend: **the people of Uri recruited the Devil** for the difficult task of building the bridge
+- The **Devil requested to receive the first thing to pass the bridge** in exchange for his help
 - To trick the Devil, who expected to receive the soul of the first man to pass the bridge, ...
 - ... the people of Uri **sent across a dog by throwing a piece of bread**, and the dog was **promptly torn to pieces by the Devil**
 - A **modern retelling** was published by **Meinrad Lienert**, Schweizer Sagen und Heldengeschichten (**1915**)
@@ -315,14 +315,12 @@
 - ... between the **Russian** and the **French army, in September 25 1799**
 - **Owner** of the area 563 m² is the **Russian embassy in Bern**
 
-## Val Bedretto
+## Furkastrasse
 
-- Filming location: James Bond, Goldeneye
-- Valley from **Nufenen Pass** to **Airolo**
-- Origin of the **Ticino River**
-- In the north: **Saint-Gotthard Massif**, in the south: **Ticino Alps**
-- James Bond **Goldfinger**: Bond ditches Tilly
-- [Wiki: Val Bedretto](https://de.wikipedia.org/wiki/Val_Bedretto)
+- Filming location: James Bond, Goldeneye¨
+  - James Bond **Goldfinger**: Bond ditches Tilly
+- [Reelstreets - Goldfinger](https://www.reelstreets.com/films/goldfinger/)
+
 
 ## ST. GOTTHARD PASS
 
@@ -339,6 +337,13 @@
 - ... during a **reconnaissance** flight between the hospice and the fort **due to poor visibility.**
 - The **monument by Fausto Agnelli** was inaugurated on **18 August 1928**
 
+## Val Bedretto
+
+- Valley from **Nufenen Pass** to **Airolo**
+- Origin of the **Ticino River**
+- In the north: **Saint-Gotthard Massif**, in the south: **Ticino Alps**
+- [Wiki: Val Bedretto](https://de.wikipedia.org/wiki/Val_Bedretto)
+
 ## Valle Leventina
 
 - Ticino river
@@ -354,10 +359,10 @@
 
 ## Lugano Airport (LSZA)
 
-- Elevation: 915 ft / 279 m
-- The airport's instrument approach procedure is quite challenging because of its steep angle of descent of 6.65°, more than double the standard approach angle of 3° and steeper than London City's 5.5°
+- Elevation: **915 ft** / **279 m**
+- The airport's instrument approach procedure is quite challenging because of its steep **angle of descent of 6.65°**, more than double the standard approach angle of 3° and **steeper than London City's 5.5°**
   - This is due to its geographic location in the mouth of a valley
-- Regional airport located 4 km west of the Swiss city of Lugano, approximately 80 km (50 mi) north of Milan, in the municipalities of Agno, Bioggio and Muzzano
-- It lies closer to the village of Agno than to Lugano itself, and is sometimes known as Lugano-Agno
-- In April 2020, the company behind the airport serving Lugano, Switzerland opted to put itself into liquidation after the COVID-19 pandemic destroyed air traffic at the location
+- Regional airport located **4 km west of the Swiss city of Lugano**, approximately 80 km (50 mi) north of Milan, in the municipalities of Agno, Bioggio and Muzzano
+- It lies closer to the village of **Agno** than to Lugano itself, and is sometimes **known as Lugano-Agno**
+- In **April 2020**, the company behind the airport serving Lugano, Switzerland opted to put itself into **liquidation** after the COVID-19 pandemic destroyed air traffic at the location
 - [Wiki: Lugano Airport](https://en.wikipedia.org/wiki/Lugano_Airport)

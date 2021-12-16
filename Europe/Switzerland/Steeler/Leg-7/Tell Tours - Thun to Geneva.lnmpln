@@ -98,7 +98,7 @@
         <Pos Lon="7.871430" Lat="46.234360" Alt="10000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>Stankt Niklaus</Ident>
+        <Ident>Sankt Niklaus</Ident>
         <Type>USER</Type>
         <Pos Lon="7.802786" Lat="46.177498" Alt="10000.00"/>
       </Waypoint>

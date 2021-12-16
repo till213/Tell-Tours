@@ -4,7 +4,7 @@
     <Header>
       <FlightplanType>VFR</FlightplanType>
       <CruisingAlt>10000</CruisingAlt>
-      <CreationDate>2021-11-28T12:05:42+01:00</CreationDate>
+      <CreationDate>2021-12-16T12:04:01+01:00</CreationDate>
       <FileVersion>1.1</FileVersion>
       <ProgramName>Little Navmap</ProgramName>
       <ProgramVersion>2.6.17</ProgramVersion>
@@ -80,6 +80,11 @@
         <Ident>LSPV</Ident>
         <Type>AIRPORT</Type>
         <Pos Lon="8.867500" Lat="47.204723" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Rapperswil</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.812589" Lat="47.226906" Alt="10000.00"/>
       </Waypoint>
       <Waypoint>
         <Ident>Einsiedeln</Ident>

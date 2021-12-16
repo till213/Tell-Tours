@@ -72,6 +72,10 @@
                 <ICAOIdent>LSPV</ICAOIdent>
             </ICAO>
         </ATCWaypoint>
+        <ATCWaypoint id="Rapperswil">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 13' 36.86",E8° 48' 45.32",+010000.00</WorldPosition>
+        </ATCWaypoint>
         <ATCWaypoint id="Einsiedeln">
             <ATCWaypointType>User</ATCWaypointType>
             <WorldPosition>N47° 7' 36.15",E8° 45' 8.95",+010000.00</WorldPosition>
