@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>LSGG to LSMD</Title>
+        <FPType>IFR</FPType>
+        <RouteType>LowAlt</RouteType>
+        <CruisingAlt>10000</CruisingAlt>
+        <DepartureID>LSGG</DepartureID>
+        <DepartureLLA>N46° 14' 18.55",E6° 6' 53.38",+001388.00</DepartureLLA>
+        <DestinationID>LSMD</DestinationID>
+        <DestinationLLA>N47° 23' 55.12",E8° 38' 53.63",+001448.00</DestinationLLA>
+        <Descr>LSGG, LSMD</Descr>
+        <DeparturePosition>PARKING 73</DeparturePosition>
+        <DepartureName>Genf</DepartureName>
+        <DestinationName>Militärflugplatz Dübendorf</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LSGG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 14' 18.00",E6° 6' 34.00",+001388.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LSGG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP1">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 12' 23.43",E6° 3' 45.50",+002308.76</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP2">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 11' 0.02",E6° 5' 59.92",+003012.67</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP3">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 13' 6.40",E6° 8' 29.77",+003933.66</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP4">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 22' 56.88",E6° 14' 27.94",+007540.15</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="SPR">
+            <ATCWaypointType>VOR</ATCWaypointType>
+            <WorldPosition>N46° 28' 7.29",E6° 26' 53.00",+010000.00</WorldPosition>
+            <ICAO>
+                <ICAORegion>LS</ICAORegion>
+                <ICAOIdent>SPR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP5">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 31' 21.35",E6° 38' 7.33",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP6">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 46' 43.74",E6° 38' 25.87",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP7">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 49' 7.25",E6° 31' 23.78",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP8">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 49' 15.93",E6° 29' 56.64",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP9">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 50' 36.46",E6° 30' 17.34",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP10">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 52' 19.99",E6° 31' 16.67",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP11">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 54' 7.38",E6° 35' 2.39",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP12">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 58' 47.61",E6° 36' 27.91",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP13">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 56' 18.75",E6° 43' 8.39",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP14">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 57' 51.14",E6° 47' 22.81",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP15">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 59' 28.11",E6° 55' 48.47",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP16">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 55' 22.68",E7° 6' 59.91",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP17">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 56' 47.55",E7° 26' 39.17",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP18">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 7' 57.92",E7° 38' 59.16",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LSPL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 10' 59.00",E7° 44' 30.00",+010000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LSPL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP19">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 17' 23.63",E7° 42' 47.39",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP20">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 18' 34.21",E7° 41' 13.88",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP21">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 19' 21.65",E7° 42' 38.24",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LFSB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 35' 24.00",E7° 31' 45.00",+010000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LFSB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP22">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 32' 18.29",E7° 37' 9.69",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP23">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 33' 7.19",E8° 13' 41.34",+009360.54</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP24">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 22' 55.49",E8° 31' 4.29",+004905.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP25">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 21' 0.80",E8° 40' 12.57",+003049.82</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP26">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 23' 1.34",E8° 42' 55.33",+002270.14</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LSMD">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 23' 55.12",E8° 38' 53.63",+001448.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LSMD</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

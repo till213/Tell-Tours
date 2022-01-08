@@ -4,7 +4,7 @@
     <Header>
       <FlightplanType>VFR</FlightplanType>
       <CruisingAlt>10000</CruisingAlt>
-      <CreationDate>2021-12-04T18:28:35+01:00</CreationDate>
+      <CreationDate>2022-01-08T17:40:00+01:00</CreationDate>
       <FileVersion>1.1</FileVersion>
       <ProgramName>Little Navmap</ProgramName>
       <ProgramVersion>2.6.17</ProgramVersion>
@@ -28,28 +28,28 @@
       <Waypoint>
         <Ident>Spiez</Ident>
         <Type>USER</Type>
-        <Pos Lon="7.677062" Lat="46.690811" Alt="3755.98"/>
+        <Pos Lon="7.677062" Lat="46.690811" Alt="3500.56"/>
       </Waypoint>
       <Waypoint>
         <Ident>Oey</Ident>
         <Type>USER</Type>
-        <Pos Lon="7.577466" Lat="46.659702" Alt="5471.85"/>
+        <Pos Lon="7.577466" Lat="46.659702" Alt="4988.05"/>
       </Waypoint>
       <Waypoint>
         <Ident>Oberwil</Ident>
         <Type>USER</Type>
-        <Pos Lon="7.436511" Lat="46.657185" Alt="7683.46"/>
+        <Pos Lon="7.436511" Lat="46.657185" Alt="6905.29"/>
       </Waypoint>
       <Waypoint>
         <Ident>Schwarzenmatt</Ident>
         <Type>USER</Type>
-        <Pos Lon="7.365786" Lat="46.623505" Alt="9033.94"/>
+        <Pos Lon="7.365786" Lat="46.623505" Alt="8076.03"/>
       </Waypoint>
       <Waypoint>
         <Name>Zweisimmen</Name>
         <Ident>LSTZ</Ident>
         <Type>AIRPORT</Type>
-        <Pos Lon="7.381111" Lat="46.551666" Alt="10000.00"/>
+        <Pos Lon="7.381111" Lat="46.551666" Alt="9514.44"/>
       </Waypoint>
       <Waypoint>
         <Ident>Lenk</Ident>
@@ -179,16 +179,11 @@
         <Pos Lon="6.845485" Lat="46.461903" Alt="10000.00"/>
       </Waypoint>
       <Waypoint>
-        <Ident>Notre Dame</Ident>
-        <Type>USER</Type>
-        <Pos Lon="6.635450" Lat="46.522568" Alt="10000.00"/>
-      </Waypoint>
-      <Waypoint>
         <Name>St Prex</Name>
         <Ident>SPR</Ident>
         <Region>LS</Region>
         <Type>VOR</Type>
-        <Pos Lon="6.448056" Lat="46.468693" Alt="9493.57"/>
+        <Pos Lon="6.448056" Lat="46.468693" Alt="7889.09"/>
       </Waypoint>
       <Waypoint>
         <Name>Genf</Name>

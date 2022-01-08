@@ -150,10 +150,6 @@
             <ATCWaypointType>User</ATCWaypointType>
             <WorldPosition>N46° 27' 42.85",E6° 50' 43.75",+010000.00</WorldPosition>
         </ATCWaypoint>
-        <ATCWaypoint id="Notre Dame">
-            <ATCWaypointType>User</ATCWaypointType>
-            <WorldPosition>N46° 31' 21.24",E6° 38' 7.62",+010000.00</WorldPosition>
-        </ATCWaypoint>
         <ATCWaypoint id="SPR">
             <ATCWaypointType>VOR</ATCWaypointType>
             <WorldPosition>N46° 28' 7.29",E6° 26' 53.00",+009493.57</WorldPosition>
